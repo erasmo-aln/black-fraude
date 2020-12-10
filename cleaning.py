@@ -1,11 +1,12 @@
-import pandas as pd
+import os
 import re
 from datetime import date
-from credentials import credentials
-import os
-import sqlalchemy
-import utils
+
 import numpy as np
+import pandas as pd
+import sqlalchemy
+
+import utils
 
 categorias = os.listdir('data')
 colunas = {'fonte': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'potencia'],
@@ -16,7 +17,12 @@ colunas = {'fonte': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'potenci
            'ram': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'entrada', 'frequencia', 'capacidade'],
            'ssd': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'modelo', 'capacidade', 'entrada', 'leitura', 'escrita']}
 
-RDBMS, USERNAME, PASSWORD, HOST, DATABASE = credentials()
+RDBMS = 'postgresql'
+USERNAME = os.getenv('DBUS')
+PASSWORD = os.getenv('DBPW')
+HOST = 'localhost'
+DATABASE = os.getenv('DBNAME')
+
 engine = sqlalchemy.create_engine(f"{RDBMS}://{USERNAME}:{PASSWORD}@{HOST}/{DATABASE}")
 con = engine.connect()
 

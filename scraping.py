@@ -1,8 +1,10 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-import pandas as pd
 import time
 from datetime import date
+
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
 
 # Links de cada site
 kabum = {'HD': 'https://www.kabum.com.br/hardware/disco-rigido-hd/sata-3-5',
