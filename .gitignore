@@ -3,4 +3,3 @@ credentials.py
 __pycache__
 test.py
 chromedriver.exe
-data
