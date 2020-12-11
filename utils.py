@@ -113,6 +113,7 @@ def gpu_clean(csv_path):
         #   Unificando DDR's com GDDR's
         if gddr is not None:
             if gddr.group()[0].lower() == 'd':
+                descricao = descricao.replace(gddr.group(), '').strip()
                 gddr = 'GDDR' + gddr.group()[-1]
             else:
                 gddr = gddr.group()
