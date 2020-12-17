@@ -1,421 +1,426 @@
 site,descricao,marca,cartao,boleto,data
-Kabum,Cabo de Extensão VGA Adata XPG Prime ARGB - ARGBEXCABLE-VGA-BKCWW,Adata,"R$ 211,65","R$ 179,90",2020-12-15
-Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 2GB, DDR3 - AFR5220-2048D3L5",Afox,"R$ 289,29","R$ 245,90",2020-12-15
-Kabum,"Placa de Vídeo AMD Radeon Pro WX 9100, 16GB, HBM2 - 100-505957",Amd,"R$ 10.588,12","R$ 8.999,90",2020-12-15
-Kabum,"Placa de Vídeo AMD Radeon Pro WX 7100, 8GB, GDDR5 - 100-505826",Amd,"R$ 4.117,53","R$ 3.499,90",2020-12-15
-Kabum,"Placa de Vídeo AMD Radeon Pro WX 2100, 2GB, GDDR5 - 100-506001",Amd,"R$ 1.117,53","R$ 949,90",2020-12-15
-Kabum,"Placa de Video Asrock Phantom Gaming D Radeon RX570 4G, GDDR5",ASRock,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5500 XT Phantom Gaming D 8G OC, 8GB, GDDR6 - RX5500XT PGD 8GO",ASRock,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Phantom Gaming D3 OC, 6GB, DDR6 - 90-GA1VZZ-00UANF",ASRock,"R$ 2.611,65","R$ 2.219,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 550 Phantom Gaming 2G, GDDR5 - 90-GA0500-00UANF",ASRock,"R$ 564,59","R$ 479,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX5700 XT Taichi X 8G OC+, 8GB, GDDR6 - RX5700XT TCX 8GP",ASRock,"R$ 4.046,94","R$ 3.439,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Phantom Gaming D2 OC, 6GB, DDR6 - 90-GA1WZZ-00UANF",ASRock,"R$ 2.541,06","R$ 2.159,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5700 XT Phantom Gaming D 8G OC, 8GB, GDDR6 - 90-GA1JZZ-00UANF",ASRock,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Challenger D OC, 6GB, DDR6 - 90-GA1XZZ-00UANF",ASRock,"R$ 2.423,41","R$ 2.059,90",2020-12-15
-Kabum,"Placa de Video Asrock AMD Radeon RX 5700 XT Challenger D OC, 8GB, GDDR6 - 90-GA18ZZ-00UANF",ASRock,"R$ 3.329,29","R$ 2.829,90",2020-12-15
-Kabum,"Placa de Video Asrock Phantom Gaming D Radeon RX570 8G OC, GDDR5",ASRock,"R$ 1.764,59","R$ 1.499,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1650, 4GB, GDDR6 - TUF-GTX1650-O4GD6-P-GAMING",Asus,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Rog Strix Gaming GeForce RTX3070, O8G, GDDR6 - 90YV0FR1-M0NA00",Asus,"R$ 7.999,88","R$ 6.799,90",2020-12-15
-Kabum,"Placa de Vídeo Asus TUF3 NVIDIA GeForce GTX 1660 SUPER, 14.0 Gbps, 6GB, GDDR6, Turing Shaders - TUF 3-GTX1660S-O6G-GAMING",Asus,"R$ 2.588,12","R$ 2.199,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Phoenix NVIDIA GeForce GTX 1650 OC, 4GB, GDDR5 - PH-GTX1650-O4G",Asus,"R$ 1.364,59","R$ 1.159,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Ti Phoenix 4GB, GDDR5 - PH-GTX1050TI-4G",Asus,"R$ 1.352,82","R$ 1.149,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Dual NVIDIA GeForce RTX 2080 Super EVO, 8GB, GDDR6 - DUAL-RTX2080S-8G-EVO-V2",Asus,"R$ 6.235,18","R$ 5.299,90",2020-12-15
-Kabum,"Placa de Vídeo Asus ROG Strix AMD RX 5500 XT OC Gaming, 8G, GDDR6 - ROG-STRIX-RX5500XT-O8G-GAMING",Asus,"R$ 2.294,00","R$ 1.949,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5500 XT EVO, 8GB, GDDR6 - DUAL-RX5500XT-O8G-EVO",Asus,"R$ 2.035,18","R$ 1.729,90",2020-12-15
-Kabum,"Placa de Vídeo Asus ROG Strix NVIDIA GeForce RTX 2080 Ti 11GB, GDDR6 - ROG-STRIX-RTX2080TI-O11G-GAMING",Asus,"R$ 9.831,65","R$ 8.356,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Phoenix NVIDIA GeForce GTX 1650 OC Edition, 4GB, GDDR6 - PH-GTX1650-O4GD6",Asus,"R$ 1.588,12","R$ 1.349,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Phoenix AMD Radeon RX 550, 4GB, GDDR5 - PH-RX550-4G-EVO",Asus,"R$ 823,41","R$ 699,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Phoenix AMD Radeon RX 550, 2GB, GDDR5 - PH-RX550-2G-EVO",Asus,"R$ 658,71","R$ 559,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Ti OC Cerberus 4GB, GDDR5 - CERBERUS-GTX1050TI-O4G",Asus,"R$ 1.235,18","R$ 1.049,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 710 2GB, DDR3 - 02G-P3-2713-KR",Evga,"R$ 418,71","R$ 355,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 KO Gaming, 6GB, 14.0 Gbps, GDDR6, Ray Tracing, Ansel - 06G-P4-2066-KR",Evga,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Video EVGA GeForce RTX 2070 Super Black Gaming, 8GB, GDDR6 - 08G-P4-3071-KR",Evga,"R$ 5.176,35","R$ 4.399,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Black Gaming, 6GB, GDDR5 - 06G-P4-1160-KR",Evga,"R$ 2.058,71","R$ 1.749,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6332-KR",Evga,"R$ 729,29","R$ 619,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6338-KR",Evga,"R$ 748,12","R$ 635,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3090, 24GB, GDDR6X - 24G-P5-3975-KR",Evga,"R$ 16.470,47","R$ 13.999,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-2067-KR",Evga,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 KO Ultra Gaming, 6GB, GDDR6 - 06G-P4-2068-KR",Evga,"R$ 3.058,71","R$ 2.599,90",2020-12-15
-Kabum,"Placa de Video EVGA GeForce RTX 2060 Super XC Ultra Gaming, 8GB, GDDR6 - 08G-P4-3163-KR",Evga,"R$ 3.999,88","R$ 3.399,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Super SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-1068-KR",Evga,"R$ 2.235,18","R$ 1.899,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6333-KR",Evga,"R$ 776,35","R$ 659,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3090, 24GB, GDDR6X - 24G-P5-3987-KR",Evga,"R$ 18.352,82","R$ 15.599,90",2020-12-15
-Kabum,"Placa de Video EVGA GeForce RTX 2060 Super XC Gaming, 8GB, GDDR6 - 08G-P4-3162-KR",Evga,"R$ 3.822,24","R$ 3.248,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 Super XC Black Gaming, 4GB, GDDR6 - 04G-P4-1251-KR",Evga,"R$ 1.641,06","R$ 1.394,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 Super SC Ultra Gaming, 4GB, GDDR6 - 04G-P4-1357-KR",Evga,"R$ 1.717,53","R$ 1.459,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDA GeForce GTX 1650 KO ULTRA, 4GB, GDDR6 - 04G-P4-1457-KR",Evga,"R$ 1.470,47","R$ 1.249,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Super KO Gaming, 8GB, 14.0 Gbps, GDDR6, Ray Tracing, Ansel - 08G-P4-2083-KR",Evga,"R$ 6.170,47","R$ 5.244,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Gaming 6GB, GDDR5 - 06G-P4-1163-KR",Evga,"R$ 2.117,53","R$ 1.799,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3070 XC3 Black Gaming, 8GB, GDDR6 - 08G-P5-3751-KR",Evga,"R$ 6.588,12","R$ 5.599,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-1667-KR",Evga,"R$ 2.671,65","R$ 2.270,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 SC Ultra GDDR6 Gaming, 4GB, GDDR6 - 4G-P4-1257-KR",Evga,"R$ 1.541,06","R$ 1.309,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti FTW3 Ultra Overclocked 65C Gaming, 11GB, 14.0 Gbps, GDDR6, Ray Tracing, RGB, Ansel - 11G-P4-2487-KR",Evga,"R$ 12.352,82","R$ 10.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX3070 Phoenix, 8GB, GDDR6 - NE63070019P2-1041X",Gainward,"R$ 6.588,12","R$ 5.599,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1650 Ghost, 4GB, GDDR6 - NE6165001BG1-1175D",Gainward,"R$ 1.352,82","R$ 1.149,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1650 Pegasus, 4GB, GDDR5 - NE51650006G1-1170F",Gainward,"R$ 1.282,24","R$ 1.089,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GT 1030 2GB, GDDR5 - NE5103000646-1080F",Gainward,"R$ 635,18","R$ 539,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1050 Ti, 4GB, GDDR5 - NE5105T018G1-1070F",Gainward,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GT 710 1GB, DDR3 - 71GGF4DC00WG",Galax,"R$ 305,76","R$ 259,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super OC, 8GB, DDR6 - 26ISL6HP68LD",Galax,"R$ 3.941,06","R$ 3.349,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super 1-Click OC, 8GB, GDDR6 - 27ISL6MD441C",Galax,"R$ 4.941,06","R$ 4.199,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super Work The Frames Edition 8GB, GDDR6 - 27ISL6MD49ES",Galax,"R$ 5.529,29","R$ 4.699,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX (1-Click OC), 4GB, GDDR6 - 65SQL8DS66E6",Galax,"R$ 1.764,59","R$ 1.499,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 Super EX 1 Click OC, 4GB, DDR6 - 65SQL8DS61EX",Galax,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB GDDR5 64Bits - 30NPH4HVQ4ST,Galax,"R$ 705,76","R$ 599,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super EX White (1-Click OC), 8GB, GDDR6 - 26ISL6MPX6EW",Galax,"R$ 3.576,35","R$ 3.039,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 6GB, GDDR6 - 26NRL7HPX7OC",Galax,"R$ 2.835,18","R$ 2.409,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GT 710 Passive, 2GB, DDR3 - 71GPF4HI00GX",Galax,"R$ 317,53","R$ 269,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super EX (1-Click OC), 6GB, GDDR6 - 60SRL7DS03ES",Galax,"R$ 2.599,88","R$ 2.209,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1",Galax,"R$ 1.364,59","R$ 1.159,90",2020-12-15
-Kabum,Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB DDR5 64Bits Exoc 30NPH4HVQ5EW,Galax,"R$ 705,76","R$ 599,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4GB, GDDR5 - GV-N105TOC-4GL",Gigabyte,"R$ 1.246,94","R$ 1.059,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 0C 4G, 4GB, GDDR6 - GV-N1656OC-4GD",Gigabyte,"R$ 1.364,59","R$ 1.159,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti D5 4G, GDDR5 - GV-N105TD5-4GD",Gigabyte,"R$ 1.235,18","R$ 1.049,90",2020-12-15
-Kabum,Placa de Vídeo VGA NVIDIA GIGABYTE GEFORCE GT 1030 2GB OC GDDR5 GV-N1030OC-2GI,Gigabyte,"R$ 648,13","R$ 550,91",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Windforce OC 6G, 6GB, GDDR6, (rev 1.0) - GV-R56XTWF2OC-6GD",Gigabyte,"R$ 3.058,71","R$ 2.599,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 640 1GB, GDDR5 - GV-N640D5-1GL",Gigabyte,"R$ 588,12","R$ 499,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT OC, 4GB, GDDR6 - GV-R55XTOC-4GD",Gigabyte,"R$ 1.623,41","R$ 1.379,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2080 Super Gaming OC Waterforce WB, 8GB, GDDR6 - GV-N208SGAMINGOC WB-8GD",Gigabyte,"R$ 7.631,65","R$ 6.486,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC, 6GB, GDDR6, REV 2.0 - GV-N2060OC-6GD",Gigabyte,"R$ 2.941,06","R$ 2.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 4G, GDDR6 - GV-R55XTD6-4GD",Gigabyte,"R$ 1.588,12","R$ 1.349,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Windforce OC, 6GB, GDDR6, REV 2.0 - GV-N2060WF2OC-6GD (Rev 2.0)",Gigabyte,"R$ 3.176,35","R$ 2.699,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 580 Gaming, 8GB, GDDR5, REV 2.0 - GV-RX580GAMING-8GD REV2.0",Gigabyte,"R$ 1.588,12","R$ 1.349,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC 6G, GDDR6 - GV-N2060OC-6GD",Gigabyte,"R$ 3.329,29","R$ 2.829,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3070 Gaming OC 8G, 8gb, GDDR6 - GV-N3070GAMING OC-8GD",Gigabyte,"R$ 5.823,41","R$ 4.949,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX570 Gaming 8G, 8GB, GDDR5, REV 2.0 - GV-RX570GAMING-8GD",Gigabyte,"R$ 1.808,12","R$ 1.536,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3070 VISION OC 8G, 8GB, GDDR6 - GV-N3070VISION OC-8GD",Gigabyte,"R$ 6.117,53","R$ 5.199,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT OC 8GB, GDDR6 - GV-R55XTOC-8GD",Gigabyte,"R$ 1.912,82","R$ 1.625,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte GTX 1660 Super OC NVIDIA Geforce 6G, GDDR6 - GV-N166SOC-6GD",Gigabyte,"R$ 2.459,88","R$ 2.090,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 1030 2G, GDDR5 - GV-N1030D5-2GL",Gigabyte,"R$ 665,76","R$ 565,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 8G, GDDR6 - GV-R55XTD6-8GD",Gigabyte,"R$ 1.846,94","R$ 1.569,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT WINDFORCE 6G, GDDR6 (Rev. 2.0) - GV-R56XTWF2-6GD",Gigabyte,"R$ 2.294,00","R$ 1.949,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 D6 6G, GDDR6 - GV-N2060D6-6GD",Gigabyte,"R$ 2.705,76","R$ 2.299,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 730, 2GB, GDDR5, REV 2.0 - GV-N730D5-2GI",Gigabyte,"R$ 558,71","R$ 474,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 OC Low Profile 4G, 4GB, GDDR6 - GV-N1656OC-4GL",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Radeon Windforce RX 5600 XT, AMD/ATI, 6GB - GV-R56XTWF2-6GD",Gigabyte,"R$ 2.588,12","R$ 2.199,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB, GDDR5 - GV-N1650OC-4GL",Gigabyte,"R$ 1.564,59","R$ 1.329,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX, 6GB, GDDR6 - GV-N2060IX-6GD",Gigabyte,"R$ 2.658,71","R$ 2.259,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 4G, GDDR6 (Rev. 2.0) - GV-N1656D6-4GD",Gigabyte,"R$ 1.411,65","R$ 1.199,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 Eagle OC, 24gb, GDDR6X - GV-N3090EAGLEOC-24GD",Gigabyte,"R$ 16.470,47","R$ 13.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4G, GDDR5 - GV-N105TOC-4GD",Gigabyte,"R$ 1.258,71","R$ 1.069,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070 Super Windforce 3X, 8GB, GDDR6 - GV-N207SWF3-8GD",Gigabyte,"R$ 4.235,18","R$ 3.599,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5700 XT Gaming OC, 8GB, GDDR6 - GV-R57XTGAMING OC-8GD",Gigabyte,"R$ 3.470,47","R$ 2.949,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 Eagle OC, 24gb, GDDR6X - GV-N3090EAGLEOC-24GD",Gigabyte,"R$ 16.470,47","R$ 13.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4G, GDDR5 - GV-N105TOC-4GD",Gigabyte,"R$ 1.258,71","R$ 1.069,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 VENTUS XS OCV1, 4GB, GDDR6",MSI,"R$ 1.446,94","R$ 1.229,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5600 XT GAMING MX, 6GB, GDDR6",MSI,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2060 Ventus XS 6G OC, 6GB, GDDR6 - GeForce RTX 2060 VENTUS XS 6G OC",MSI,"R$ 2.764,59","R$ 2.349,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5500 XT Gaming X 8G, 8GB, GDDR6 - Radeon RX 5500 XT Gaming X 8G",MSI,"R$ 2.094,00","R$ 1.779,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 1030 2G LP OC, 2GB, GDDR5 - Geforce GT 1030 2G LP OC",MSI,"R$ 670,47","R$ 569,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5500 XT Mech 8G OC, 8GB, GDDR6 - Radeon RX 5500 XT Mech 8G OC",MSI,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 1GD3H LP 1GB, DDR3",MSI,"R$ 312,83","R$ 265,91",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 730 4GB, DDR3 - N730-4GD3V2",MSI,"R$ 658,71","R$ 559,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 Gaming X, 4GB, GDDR6 - GeForce GTX 1650 D6 GAMING X",MSI,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 Gaming 4G, 4GB, GDDR5 - GeForce GTX 1650 GAMING 4G",MSI,"R$ 1.482,24","R$ 1.259,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1660 Super Ventus XS OC, 6GB, GDDR6",MSI,"R$ 2.235,18","R$ 1.899,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5500 XT Mech 4G OC, 4GB, GDDR6 - Radeon RX 5500 XT Mech 4G OC",MSI,"R$ 1.671,65","R$ 1.420,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2060 Super Ventus GP OC, 8GB, GDDR6 - Geforce RTX 2060 Super Ventus GP OC",MSI,"R$ 3.616,35","R$ 3.073,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 730 2GB, DDR3 - N730-2GD3V3",MSI,"R$ 517,53","R$ 439,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 2GD3 LP 2GB, DDR3",MSI,"R$ 402,24","R$ 341,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 570 Armor 8G OC, GDDR5",MSI,"R$ 1.764,59","R$ 1.499,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1660 Ti Gaming X 6G, GDDR6",MSI,"R$ 2.752,82","R$ 2.339,90",2020-12-15
-Kabum,"Placa de Vídeo PCyes NVIDIA Geforce GTX 1660 OC, Dual-Fan, 6GB, GDDR5, 192 BITS - GRAFFITI SERIES - PPOC166019206G5",PCYes,"R$ 1.788,12","R$ 1.519,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon R5 230, 2GB, DDR3 - PA230R502D3LW",PCYes,"R$ 294,00","R$ 249,90",2020-12-15
-Kabum,"Placa de Vídeo PCyes AMD Radeon 6570 GAMING EDITION, 2GB, DDR5, 128 Bits - PJ65702DR5128",PCYes,"R$ 469,30","R$ 398,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes NVIDIA GeForce GT 710 2GB, DDR3 - PA710GT6402D3LP",PCYes,"R$ 458,71","R$ 389,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon HD5450 1GB, DDR3 - PJ54506401D3LP",PCYes,"R$ 246,94","R$ 209,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240, 2GB, GDDR5 - PJ240R712802D5",PCYes,"R$ 494,00","R$ 419,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240, 4GB, GDDR5 - PJ240R71284GD5",PCYes,"R$ 552,82","R$ 469,90",2020-12-15
-Kabum,"Placa de Vídeo PCyes NVIDIA GeForce RTX 3070, 8GB, GDDR6, 256 Bits, Triple-Fan, Graffiti Gaming Pro Series - PP3070GP8DR6256",PCYes,"R$ 5.882,24","R$ 4.999,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA GeForce GTX 1650, 4GB, GDDR6 - VCG16504D6DFPPB",Pny,"R$ 1.482,24","R$ 1.259,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P620, 2GB, GDDR5 - VCQP620V2-PORPB",Pny,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 3070 XLR8 Gaming Edition, 8GB, GDDR6 - VCG30708TFXPPB",Pny,"R$ 5.764,59","R$ 4.899,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA GeForce GT 1030, 2GB, GDDR5 - VCGGT10302PB",Pny,"R$ 658,71","R$ 559,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400, 2GB, GDDR5 - VCQP400V2PB",Pny,"R$ 1.251,65","R$ 1.063,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P1000 4GB, GDDR5 - VCQP1000V2",Pny,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro RTX 4000 8GB, GDDR6 - VCQRTX4000-PB",Pny,"R$ 9.341,06","R$ 7.939,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400, 2GB, GDDR5 - VCQP400V2-PORPB",Pny,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 570, 4GB, GDDR5 - AXRX 570 4GBD5-DHDV3/OC",Powercolor,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 550, 2GB, DDR5 - AXRX 550 2GB64BD5-DH",Powercolor,"R$ 541,06","R$ 459,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5500 XT, 8GB, GDDR6 - 8GBD6-DH/OC 1A1-G00325500G",Powercolor,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor Red Dragon Radeon RX 580, 8GB, GDDR5 - 8GBD5-DHDV2/OC",Powercolor,"R$ 1.741,06","R$ 1.479,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 580 Red Devil 8GB, GDDR5 - AXRX 580 8GBD5-3DH/OC",Powercolor,"R$ 1.777,67","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 550, 4GB, DDR5 - AXRX 550 4GBD5-DH",Powercolor,"R$ 705,76","R$ 599,90",2020-12-15
-Kabum,Suporte Para Placa de Vídeo RISE Snow Edition RM-SV-01-SN,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Vulpes RM-SV-01-OV,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Rise Mode lv2 Preto e Vermelho - RM-SV-03-BR,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo Rise Mode Vermelho Blood RM-SV-01-BD,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Smoke RM-SV-01-SM,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Video VGA Rise Mode lv2 Preto e Branco RM-SV-03-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Small Aqua RM-SV-02-SA,Rise Mode,"R$ 28,12","R$ 23,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Nitro+ AMD Radeon RX 5500 XT, 8GB, GDDR6 Special Edition - 11295-05-20G",Sapphire,"R$ 2.117,53","R$ 1.799,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 550 Pulse 4G, GDDR5 - 11268-01-20G",Sapphire,"R$ 941,06","R$ 799,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5500 XT, 4GB, GDDR6 - 11295-03-20G",Sapphire,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse Lite Edition AMD RX 580, 8GB, GDDR5 - 11265-67-20G",Sapphire,"R$ 1.801,06","R$ 1.530,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 580 GTS XXX OC+ 8GB, GDDR5 - RX-580P8DFD6",XFX,"R$ 2.011,65","R$ 1.709,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1660 Twin Fan, 6GB, GDDR5 - ZT-T16600K-10M",Zotac,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3070 Twin Edge OC, 8GB, GDDR6 - ZT-A30700H-10P",Zotac,"R$ 6.046,94","R$ 5.139,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 1030 2GB, GDDR5 - ZT-P10300A-10L",Zotac,"R$ 783,41","R$ 665,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 710 1GB, DDR3 - ZT-71304-20L",Zotac,"R$ 317,53","R$ 269,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 710 2GB, DDR3 - ZT-71302-20L",Zotac,"R$ 352,82","R$ 299,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600H-10M",Zotac,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 2GB, DDR3 - AFR5220-2048D3L9-V2",Afox,"R$ 305,76","R$ 259,90",2020-12-15
-Kabum,"Placa de Vídeo Afox AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",Afox,"R$ 823,41","R$ 699,90",2020-12-15
-Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 1GB, DDR3 - AFR5220-1024D3L9-V2",Afox,"R$ 294,00","R$ 249,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, AORUS Master - GV-N306TAORUS M-8GD",Aorus,"R$ 5.294,00","R$ 4.499,90",2020-12-15
-Kabum,"Placa de Vídeo Aorus AMD Radeon RX 5700 XT, 8GB, GDDR6 - GV-R57XTAORUS-8GD",Aorus,"R$ 3.823,41","R$ 3.249,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2080 Super Waterforce WB, 8GB, GDDR6 - GV-N208SAORUS WB-8GC",Aorus,"R$ 5.764,59","R$ 4.899,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2080 Ti Xtreme 11G, GDDR6 - GV-N208TAORUS X-11GC",Aorus,"R$ 7.058,71","R$ 5.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2060 Super, 8GB, GDDR6 - GV-N206SAORUS-8GC",Aorus,"R$ 4.117,53","R$ 3.499,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD RADEON RX6800 16G, GDDR6 - RADEON RX6800 16G",ASRock,"R$ 5.764,59","R$ 4.899,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 6800 XT, 16G, GDDR6 - RADEON RX6800XT 16G",ASRock,"R$ 6.588,12","R$ 5.599,90",2020-12-15
-Kabum,"Placa de Video ASRock Phantom Gaming X AMD Radeon RX580 8G OC, GDDR5",ASRock,"R$ 1.294,00","R$ 1.099,90",2020-12-15
-Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5500 XT Challenger D 8G OC, 8GB, GDDR6 - RX5500XT CLD 8GO",ASRock,"R$ 1.776,35","R$ 1.509,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5600 XT EVO, 6GB, GDDR6 - DUAL-RX5600XT-T6G-EVO",Asus,"R$ 2.435,18","R$ 2.069,90",2020-12-15
-Kabum,Case para Placa de Vídeo Asus ROG XG Station 2 - 90YV09B1-M0SA00,Asus,"R$ 4.258,71","R$ 3.619,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2080 Super EVO V2 OC, 8GB, GDDR6 - DUAL-RTX2080S-O8G-EVO-V2",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3070, 8GB, GDDR6 - RTX DUAL-RTX3070-8G",Asus,"R$ 5.010,42","R$ 4.759,90",2020-12-15
-Kabum,"Placa de Vídeo Asus AMD RADEON RX 6800, 16G, GDDR6 - RX6800-16G",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-15
-Kabum,"Placa de Video VGA NVIDIA ASUS GeForce GTX 1050TI 4GB GDDR5,128Bits,Auto-Extreme,dupla ventoinha,Super Alloy Power II,DVI/HDMI/DP - DUAL-GTX1050TI-4G",Asus,"R$ 950,47","R$ 807,90",2020-12-15
-Kabum,"Placa de Vídeo Asus ROG Strix NVIDIA GeForce RTX 2080 Super OC 8GB, GDDR6 - ROG-STRIX-RTX2080S-O8G-GAMING",Asus,"R$ 6.364,59","R$ 5.409,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA TUF RTX 3090, 24GB, GDDR6X - 90YV0FD1-M0NM00",Asus,"R$ 15.764,59","R$ 13.399,90",2020-12-15
-Kabum,"Placa de Vídeo Asus GeForce RTX 3060 Ti, 8GB - ROG-STRIX-RTX3060TI-O8G-GAMING",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3080, 10GB, GDDR6X - ROG-STRIX-RTX3080-O10G-GAMING",Asus,"R$ 10.117,53","R$ 8.599,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Rog Strix NVIDIA GeForce RTX 2080 Super White Edition, 8GB, GDDR6 - ROG-STRIX-RTX2080S-O8G-WHITE-GAMING",Asus,"R$ 7.294,00","R$ 6.199,90",2020-12-15
-Kabum,"Placa de Vídeo Asus AMD Radeon RX 580 OC 8GB, GDDR5 - DUAL-RX580-O8G",Asus,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2060 EVO OC, 6GB, GDDR6 - DUAL-RTX2060-O6G-EVO",Asus,"R$ 2.912,82","R$ 2.475,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2080 Super EVO OC 8GB, GDDR6 - DUAL-RTX2080S-O8G-EVO",Asus,"R$ 6.126,94","R$ 5.207,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Phoenix 2GB, GDDR5 - PH-GTX1050-2G",Asus,"R$ 748,71","R$ 636,40",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA TUF RTX 3080, 10GB, GDDR6X - TUF-RTX3080-O10G-GAMING",Asus,"R$ 7.646,94","R$ 6.499,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3090, 24GB, GDDR6X - ROG-STRIX-RTX3090-O24G-GAMING",Asus,"R$ 18.235,18","R$ 15.499,90",2020-12-15
-Kabum,"Placa de Vídeo Asus TUF NVIDIA GeForce RTX 2060, 14.0 Gbps, 6GB, GDDR6, Turing, Shadowplay, Ray Tracing - TUF-RTX2060-O6G-GAMING",Asus,"R$ 2.705,76","R$ 2.299,90",2020-12-15
-Kabum,"Placa de Vídeo Asus TUF Gaming X3 AMD Radeon RX 5700 XT EVO, 8GB, GDDR6 - TUF 3-RX5700XT-O8G-EVO-GAMING",Asus,"R$ 3.689,29","R$ 3.135,90",2020-12-15
-Kabum,"Placa de Vídeo Asus ROG Strix AMD Radeon RX 5700 XT OC, 8GB, GDDR6 - ROG-STRIX-RX5700XT-O8G-GAMING",Asus,"R$ 4.588,12","R$ 3.899,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Dual NVIDIA GeForce RTX 2070 EVO V2 OC Edition, 8GB, GDDR6 - DUAL-RTX2070-O8G-EVO-V2",Asus,"R$ 3.470,47","R$ 2.949,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Geforce RTX3080, 10GB, GDDR6 - TUF-RTX3080-10G-GAMING",Asus,"R$ 6.870,47","R$ 5.839,90",2020-12-15
-Kabum,Placa de Video Asus AMD Radeon R9 Fury X 4GB - R9FURYX-4G,Asus,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo Asus TUF Gaming NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - TUF-GTX1650S-O4G-GAMING",Asus,"R$ 1.717,53","R$ 1.459,90",2020-12-15
-Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5500 XT EVO, 4GB, 14.0 Gbps, GDDR6, FidelityFX, Anti-Lag, Image Sharpening - DUAL-RX5500XT-O4G-EVO",Asus,"R$ 1.631,65","R$ 1.386,90",2020-12-15
-Kabum,Placa de Vídeo VGA Asus AMD Radeon RX 560 2GB D5 RX560-O2G 90YV0AH2-M0NA00,Asus,"R$ 688,12","R$ 584,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3070, 8GB, GDDR6 - RTX DUAL-RTX3070-O8G",Asus,"R$ 5.752,82","R$ 4.889,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA GeForce TUF Gaming RTX 3070, O8G, GDDR6 - 90YV0FQ6-M0NA00",Asus,"R$ 6.588,12","R$ 5.599,90",2020-12-15
-Kabum,"Placa de Vídeo Asus NVIDIA Geforce RTX3090, 24GB, GDDR6 - TUF-RTX3090-24G-GAMING",Asus,"R$ 15.882,24","R$ 13.499,90",2020-12-15
-Kabum,Placa de Vídeo VGA Asus AMD Radeon RX 560 2GB D5 RX560-O2G 90YV0AH2-M0NA00,Asus,"R$ 688,12","R$ 584,90",2020-12-15
-Kabum,"Placa de Vídeo Asus AMD RADEON RX 6800 XT, 16G, GDDR6 - RX6800XT-16G",Asus,"R$ 7.058,71","R$ 5.999,90",2020-12-15
-Kabum,"Placa de Vídeo Asus TUF Gaming NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - TUF-GTX1650S-O4G-GAMING",Asus,"R$ 1.717,53","R$ 1.459,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Deepcool - GH-01 RGB,Deepcool,"R$ 70,47","R$ 59,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo DeepCool - GH-01 A-RGB,Deepcool,"R$ 117,53","R$ 99,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Deepcool - GH-01 LED,Deepcool,"R$ 66,94","R$ 56,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti KINGPIN Gaming, 11GB, GDDR6 - 11G-P4-2589-KR",Evga,"R$ 10.299,88","R$ 8.754,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3883-KR",Evga,"R$ 6.658,71","R$ 5.659,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Ultra Gaming 6GB, GDDR5 - 06G-P4-1167-KR",Evga,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 XC Gaming, 8GB, GDDR6 - 08G-P4-2172-KR",Evga,"R$ 3.764,59","R$ 3.199,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 SC Gaming 3GB, GDDR5 - 03G-P4-6153-KR",Evga,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,Placa de Vídeo VGA NVIDIA EVGA GEFORCE GT 9800 1GB DDR3 256 bits PCI-E 2.0 01G-P3-N988-TR,Evga,"R$ 445,76","R$ 378,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Hybrid 11GB, GDDR6 - 11G-P4-2384-KR",Evga,"R$ 9.423,41","R$ 8.009,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super XC Hybrid Gaming, 8GB, GDDR6 - 08G-P4-3178-KR",Evga,"R$ 5.112,82","R$ 4.345,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti FTW3 Ultra Hydro Copper Gaming, 11GB, GDDR6 - 11G-P4-2489-KR",Evga,"R$ 7.764,59","R$ 6.599,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3885-KR",Evga,"R$ 8.823,41","R$ 7.499,90",2020-12-15
-Kabum,Placa de Vídeo VGA EVGA GeForce GTX 960 4GB SC DDR5 128 bits PCI-E 3.0 04G-P4-1962-KR,Evga,"R$ 1.208,12","R$ 1.026,90",2020-12-15
-Kabum,Placa de vídeo VGA EVGA GeForce GTX650Ti Boost 2GB 192-Bit GDDR5 PCI-Express 3.0 SLI Support - 02G-P4-3657-KR,Evga,"R$ 874,89","R$ 743,66",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1060 Gaming 6GB, GDDR5 - 06G-P4-6161-KR",Evga,"R$ 941,06","R$ 799,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 2GB, DDR4 - 02G-P4-6232-KR",Evga,"R$ 541,06","R$ 459,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Ultra Gaming 11GB, GDDR6 - 11G-P4-2383-KR",Evga,"R$ 9.411,65","R$ 7.999,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 SC Ultra Gaming 6GB, GDDR5 - 06G-P4-1067-KR",Evga,"R$ 2.117,53","R$ 1.799,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 730 2GB, DDR3 - 02G-P3-1733-KR",Evga,"R$ 352,82","R$ 299,90",2020-12-15
-Kabum,Placa de Vídeo VGA EVGA GeForce GTX650 1GB SC DDR5 128 bits PCI-E 3.0 01G-P4-2652-LR,Evga,"R$ 463,89","R$ 394,31",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super FTW3 Ultra+ Overclocked, 8GB, GDDR6 - 08G-P4-3377-KR",Evga,"R$ 5.555,18","R$ 4.721,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3897-KR",Evga,"R$ 9.411,65","R$ 7.999,90",2020-12-15
-Kabum,Placa de Vídeo VGA NVIDIA EVGA GEFORCE GTX 970 4GB SC DDR5 256 bits PCI-E 3.0 - 04G-P4-1972-KT,Evga,"R$ 1.105,76","R$ 939,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 SSC Gaming 2GB, GDDR5 - 02G-P4-6152-KR",Evga,"R$ 705,76","R$ 599,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Black Gaming 6GB, GDDR5 - 06G-P4-1161-KR",Evga,"R$ 2.082,24","R$ 1.769,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Gaming 11GB, GDDR6 - 11G-P4-2382-KR",Evga,"R$ 10.058,71","R$ 8.549,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1070 Ti SC Gaming 8GB, GDDR5 - 08G-P4-5671-KR",Evga,"R$ 3.205,76","R$ 2.724,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 XC 6GB, GDDR6 - 06G-P4-2063-KR",Evga,"R$ 2.352,82","R$ 1.999,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 SC Ultra Gaming 4GB, GDDR5 - 04G-P4-1057-KR",Evga,"R$ 1.029,29","R$ 874,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3060 Ti FTW3 ULTRA GAMING, 8GB, GDDR6 - 08G-P5-3667-KR",Evga,"R$ 4.470,47","R$ 3.799,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3881-KR",Evga,"R$ 8.235,18","R$ 6.999,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 Ti SC Gaming 4GB, GDDR5 - 04G-P4-6253-KR",Evga,"R$ 823,41","R$ 699,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 Super XC Black Gaming, 8GB, GDDR6 - 08G-P4-3161-KR",Evga,"R$ 3.735,18","R$ 3.174,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super KO Gaming, 8GB, GDDR6 - 08G-P4-2072-KR",Evga,"R$ 4.917,53","R$ 4.179,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1060 3GB SC Gaming, GDDR5 - 03G-P4-6162-KR",Evga,"R$ 999,88","R$ 849,90",2020-12-15
-Kabum,"Placa de Video EVGA GeForce RTX 2060 Super SC Ultra Gaming, 8GB, GDDR6 - 08G-P4-3067-KR",Evga,"R$ 3.799,88","R$ 3.229,90",2020-12-15
-Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Black Gaming 8GB, GDDR6 - 08G-P4-2081-KR",Evga,"R$ 4.117,53","R$ 3.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce NV RTX3090, 24GB, GDDR6X - NED3090019SB-132BX",Gainward,"R$ 18.235,18","R$ 15.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 2060 Ghost OC, 6GB, GDDR6 - NE62060S18J9-1160X",Gainward,"R$ 2.352,82","R$ 1.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 3080 Phantom, 10GB, GDDR6 - NED3080U19IA-1020P",Gainward,"R$ 8.823,41","R$ 7.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super, 6GB, GDDR6, Ghost - NE6166S018J9-1160X",Gainward,"R$ 2.235,18","R$ 1.899,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce NV RTX3080, 10GB, GDDR6X - NED3080019IA-132AX",Gainward,"R$ 9.176,35","R$ 7.799,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super Ghost OC, 6GB, GDDR6 - NE6166SS18J9-1160X",Gainward,"R$ 1.941,06","R$ 1.649,90",2020-12-15
-Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 2060 Super Ghost, 8GB, GDDR6 - NE6206S018P2-1160X",Gainward,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 3080 SG (1-Click OC), 10GB, GDDR6X - 38NWM3MD99NN",Galax,"R$ 10.588,12","R$ 8.999,90",2020-12-15
-Kabum,"Placa de Vídeo GALAX NVIDIA GeForce RTX 3070 SG (1-Click OC), 8GB, GDDR6 - 37NSL6MD1GNA",Galax,"R$ 7.783,41","R$ 6.615,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 1-Click OC, 6GB, GDDR5 - 60SRH7DSY91C",Galax,"R$ 2.199,88","R$ 1.869,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super EX White (1-Click OC), 6GB, GDDR6 - 60SRL7DS04WS",Galax,"R$ 2.117,53","R$ 1.799,90",2020-12-15
-Kabum,Placa de Vídeo VGA Galax GeForce GTX 750 Ti EXOC 2GB GDDR5 128 BITS PCI-E 3.0 - 75IPH8DV9JXZ,Galax,"R$ 552,82","R$ 469,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super EX Gamer Black Edition 8GB, GDDR6 - 27ISL6MDW0BG",Galax,"R$ 4.164,59","R$ 3.539,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 EX White 8GB, GDDR6 - 27NSL6UCV91W",Galax,"R$ 3.294,00","R$ 2.799,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super Gamer (1-Click OC), 8GB, GDDR6 - 26ISL6HP76GP",Galax,"R$ 3.405,76","R$ 2.894,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super (1-Click OC), 6GB, GDDR6 - 60SRL7DSY91S",Galax,"R$ 2.352,82","R$ 1.999,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA RTX 2060 EX White (1-Click OC) 6GB, GDDR6 - 26NRL7HPY3EW",Galax,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1050 Ti Exoc 4GB, GDDR5 - 50IQH8DVN6EC",Galax,"R$ 970,47","R$ 824,90",2020-12-15
-Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2080 Super Work The Frames Edition 8GB, GDDR6 - 28ISL6MD49ES",Galax,"R$ 7.058,71","R$ 5.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 420 2GB, DDR3 - GV-N420-2GI (Rev. 3.0)",Gigabyte,"R$ 328,14","R$ 278,92",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 590 Gaming 8G, GDDR5 - GV-RX590GAMING-8GD (rev. 2.0)",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,Placa de Video VGA GigaByte Geforce GTX 950 2GB OC DDR5 PCI-Express 3.0 - GV-N950OC-2GD,Gigabyte,"R$ 764,59","R$ 649,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Mini ITX OC, 6GB, GDDR5 - GV-N1660IXOC-6GD",Gigabyte,"R$ 1.732,82","R$ 1.472,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3080, 10GB, GDDR6X - GV-N3080EAGLE OC-10GD",Gigabyte,"R$ 8.614,00","R$ 7.321,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC 8GB, GDDR6 - GV-R55XTGAMING OC-8GD",Gigabyte,"R$ 1.999,88","R$ 1.699,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti OC 6G, GDDR6 - GV-N166TOC-6GD",Gigabyte,"R$ 2.529,29","R$ 2.149,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte GeForce GTX 1650 SUPER D6, Nvidia, 4G, GDDR6 - GV-N165SD6-4GD",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super, 8GB, GDDR6 - GV-N206SGAMING-8GD",Gigabyte,"R$ 3.601,06","R$ 3.060,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070, 8GB, GDDR6 - GV-N2070WF2-8GD",Gigabyte,"R$ 4.588,12","R$ 3.899,90",2020-12-15
-Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + Fonte Gigabyte 550W, 80 Plus Bronze + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.458,71","R$ 2.089,90",2020-12-15
-Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + Fonte Gigabyte 550W, 80 Plus Bronze",Gigabyte,"R$ 2.305,76","R$ 1.959,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5700 Gaming OC, 8GB, GDDR6 - GV-R57GAMING OC-8GD",Gigabyte,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro 6G, GDDR6 - GV-N2060GAMINGOC PRO-6GD",Gigabyte,"R$ 2.929,29","R$ 2.489,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, EAGLE OC - GV-N306TEAGLE OC-8GD",Gigabyte,"R$ 4.470,47","R$ 3.799,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 710 2GB, GDDR5 - GV-N710D5-2GL",Gigabyte,"R$ 258,71","R$ 219,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super Windforce OC 4G, GDDR6 - GV-N165SWF2OC-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - GV-N165SOC-4GD",Gigabyte,"R$ 1.764,59","R$ 1.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro, 6GB, GDDR6, REV 2.0 - GV-N2060GAMINGOC PRO-6GD REV2.0",Gigabyte,"R$ 3.058,71","R$ 2.599,90",2020-12-15
-Kabum,Placa de Vídeo VGA Gigabyte AMD Radeon R9 380X G1 Gaming 4G - GV-R938XG1 GAMING-4GD,Gigabyte,"R$ 1.077,53","R$ 915,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Gaming OC, 6GB, GDDR6 - GV-R56XTGAMING OC-6GD",Gigabyte,"R$ 2.482,24","R$ 2.109,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1060 Mini ITX OC 6G, GDDR5 - GV-N1060IXOC-6GD",Gigabyte,"R$ 1.929,29","R$ 1.639,90",2020-12-15
-Kabum,Placa de Vídeo VGA AMD GIGABYTE RADEON RX 470 G1 Gaming 4G - GV-RX470G1 GAMING-4GD,Gigabyte,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 2GB, GDDR5 - GV-N1050D5-2GD",Gigabyte,"R$ 726,36","R$ 617,41",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti WindForce OC 6G, GDDR6 - GV-N166TWF2OC-6GD",Gigabyte,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte GeForce GTX 1660 Super Mini ITX, Nvidia, 6G, GDDR6 - GV-N166SIX-6GD",Gigabyte,"R$ 2.141,06","R$ 1.819,90",2020-12-15
-Kabum,Placa de Vídeo VGA Gigabyte AMD Radeon RX 570 4GB Gaming GDDR5 DVI-D/HDMI/DP - GV-RX570GAMING-4GD,Gigabyte,"R$ 766,56","R$ 689,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super + Fonte Gigabyte 450W, 80 Plus Bronze + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.023,41","R$ 1.719,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Gaming OC 4G, GDDR5 - GV-N1650GAMING OC-4GD",Gigabyte,"R$ 1.458,71","R$ 1.239,90",2020-12-15
-Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.094,00","R$ 1.779,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 WindForce OC 6G, GDDR6 - GV-N2060WF2OC-6GD (Rev. 1.0)",Gigabyte,"R$ 2.588,12","R$ 2.199,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070 SUPER GAMING OC 3X 8G, GDDR6 - GV-N207SGAMING OC-8GD",Gigabyte,"R$ 5.058,71","R$ 4.299,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2080 Super Gaming OC White, 8GB, GDDR6 - GV-N208SGAMINGOC WHITE-8GD",Gigabyte,"R$ 4.823,41","R$ 4.099,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 WindForce 6G, GDDR6 - GV-N2060WF2-6GD",Gigabyte,"R$ 2.941,06","R$ 2.499,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Radeon RX 6800 XT, 16G, GDDR6 - GV-R68XT-16GC-B",Gigabyte,"R$ 7.294,00","R$ 6.199,90",2020-12-15
-Kabum,Placa de Vídeo VGA Gigabyte GeForce GTX 960 G1 Gaming 2GB DDR5 128 Bit PCI-Express 3.0 GV-N960G1 GAMING-2GD,Gigabyte,"R$ 1.591,91","R$ 1.353,12",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming OC 3x White, 8GB, GDDR6, REV 2.0 - GV-N206SGAMINGOC WHITE-8GD REV2.0",Gigabyte,"R$ 3.588,12","R$ 3.049,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1060 WindForce OC 6G, GDDR5 - GV-N1060WF2OC-6GD",Gigabyte,"R$ 1.294,00","R$ 1.099,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WindForce 4G, 4GB, GDDR5 - GV-N1650WF2-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, GAMING OC PRO - GV-N306TGAMINGOC PRO-8GD",Gigabyte,"R$ 4.764,59","R$ 4.049,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming OC 3x, 8GB, GDDR6 REV 2.0 - GV-N206SGAMING OC-8GD",Gigabyte,"R$ 3.858,71","R$ 3.279,90",2020-12-15
-Kabum,"Kit Placa de Ví­deo Gigabyte GTX 1650 + Fonte Gigabyte 550W, 80 Plus Bronze",Gigabyte,"R$ 1.494,00","R$ 1.269,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 560 OC 4G, GDDR5 - GV-RX560OC-4GD",Gigabyte,"R$ 1.046,94","R$ 889,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming OC 3x White, 8GB, GDDR6, REV 2.0 - GV-N206SGAMINGOC WHITE-8GD REV2.0",Gigabyte,"R$ 3.588,12","R$ 3.049,90",2020-12-15
-Kabum,Placa de Vídeo VGA Gigabyte GeForce GTX 960 G1 Gaming 2GB DDR5 128 Bit PCI-Express 3.0 GV-N960G1 GAMING-2GD,Gigabyte,"R$ 1.591,91","R$ 1.353,12",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WindForce 4G, 4GB, GDDR5 - GV-N1650WF2-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte Radeon RX 6800 XT, 16G, GDDR6 - GV-R68XT-16GC-B",Gigabyte,"R$ 7.294,00","R$ 6.199,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1060 WindForce OC 6G, GDDR5 - GV-N1060WF2OC-6GD",Gigabyte,"R$ 1.294,00","R$ 1.099,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Windforce OC 8G, GDDR6 - GV-N206SWF2OC-8GD",Gigabyte,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC, 4GB, GDDR6 - GV-R55XTGAMING OC-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 OC 6G, GDDR5 - GV-N1660OC-6GD",Gigabyte,"R$ 2.294,00","R$ 1.949,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 570 Gaming, 4GB, GDDR5, REV 2.0 - GV-RX570GAMING-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super WindForce 8G, GDDR6, Rev 1.1 ? GV-N206SWF2-8GD",Gigabyte,"R$ 3.235,18","R$ 2.749,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC 4G, GDDR5 - GV-N1650OC-4GD",Gigabyte,"R$ 1.705,76","R$ 1.449,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 1.729,29","R$ 1.469,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, GAMING OC - GV-N306TGAMING OC-8GD",Gigabyte,"R$ 4.588,12","R$ 3.899,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX OC 6G, GDDR6 - GV-N2060IXOC-6GD",Gigabyte,"R$ 2.705,76","R$ 2.299,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Super Gaming OC, 6GB, GDDR6 - GV-N166SGAMING OC-6GD",Gigabyte,"R$ 2.352,82","R$ 1.999,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3080, 10GB, GDDR6X - GV-N3080GAMING OC-10GD",Gigabyte,"R$ 8.819,88","R$ 7.496,90",2020-12-15
-Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 GAMING OC 24G, GDDR6X - GV-N3090GAMING OC-24GD",Gigabyte,"R$ 16.294,00","R$ 13.849,90",2020-12-15
-Kabum,"Placa de Vídeo Husky AMD Radeon RX560, 4GB, GDDR5 - AHRX56045F",Husky,"R$ 823,41","R$ 699,90",2020-12-15
-Kabum,Placa de Vídeo MSI NVIDIA Geforce RTX 3070 Gaming X Trio,MSI,"R$ 5.882,24","R$ 4.999,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3080 Ventus 3X 10G OC, GDDR6X",MSI,"R$ 7.058,71","R$ 5.999,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Mech OC, 8GB, GDDR6",MSI,"R$ 3.646,94","R$ 3.099,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 580 Armor MK2 8G OC, GDDR5",MSI,"R$ 1.011,65","R$ 859,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 Ventus XS 4G OC, 4GB, GDDR6 - GeForce GTX 1650 D6 VENTUS XS OC",MSI,"R$ 1.411,65","R$ 1.199,90",2020-12-15
-Kabum,Placa de Vídeo MSI NVIDIA Geforce RTX 3070 Ventus 3X OC,MSI,"R$ 5.611,65","R$ 4.769,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1060 IGamer 6G OC, GDDR5",MSI,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1050 Ti 4GT OC 4GB, GDDR5",MSI,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,Placa de Vídeo MSI Geforce RTX 3070 Ventus 2X OC,MSI,"R$ 5.517,53","R$ 4.689,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3090 Gaming X Trio 24G, GDDR6X",MSI,"R$ 15.705,76","R$ 13.349,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2080 Super Ventus XS OC, 8GB, GDDR6",MSI,"R$ 5.764,59","R$ 4.899,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1050 TI 4G OCV1, 4GB, GDDR5 - GeForce GTX 1050 Ti 4G OCV1",MSI,"R$ 1.176,35","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 570 Armor 4G OC, GDDR5",MSI,"R$ 782,24","R$ 664,90",2020-12-15
-Kabum,Placa de Vídeo MSI GeForce RTX 3060 Ti GAMING X TRIO,MSI,"R$ 4.658,71","R$ 3.959,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 2GD3H LP 2GB, DDR3",MSI,"R$ 361,06","R$ 306,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 1030 2GD4 LP OC 2GB, DDR4 - 912-V809-2826",MSI,"R$ 588,12","R$ 499,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 MECH GP OC, 8GB, GDDR6",MSI,"R$ 3.294,00","R$ 2.799,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Evoke OC, 8GB, GDDR6 - Radeon RX 5700 XT EVOKE OC",MSI,"R$ 2.882,24","R$ 2.449,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3090 Ventus 3X 24G OC, GDDR6X",MSI,"R$ 15.999,88","R$ 13.599,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2080 Ti Gaming X Trio 11GB, GDDR6",MSI,"R$ 10.774,00","R$ 9.157,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Gaming X, 8GB, GDDR6",MSI,"R$ 3.877,53","R$ 3.295,90",2020-12-15
-Kabum,"Placa de Vídeo MSI AMD Radeon RX 5600 XT Mech OC, 6GB, GDDR6 - Radeon RX 5600 XT Mech OC",MSI,"R$ 2.649,29","R$ 2.251,90",2020-12-15
-Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 Super Gaming X, 4GB, GDDR6 - GeForce GTX 1650 Super GAMING X",MSI,"R$ 1.659,88","R$ 1.410,90",2020-12-15
-Kabum,Placa de Vídeo VGA AMD PcYes RADEON R7 265 2GB GDDR5 256Bits Boost Clock Hammer X Dual-FAN O265QM2G2M,PCYes,"R$ 647,64","R$ 550,49",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240 2GB, DDR5 - PW240R712802D5",PCYes,"R$ 388,12","R$ 329,90",2020-12-15
-Kabum,Placa de Vídeo PCYes NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - PA1050TI12804G5DF,PCYes,"R$ 1.151,65","R$ 978,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon R5 230, 2GB, DDR3 - PA230R56402D3LP",PCYes,"R$ 235,18","R$ 199,90",2020-12-15
-Kabum,"Placa de Vídeo PCYes AMD Radeon RX 550, 4GB, GDDR5 - PJRX55004128G5SF",PCYes,"R$ 941,06","R$ 799,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P1000, 4GB, GDDR5 - VCQP1000V2-PB",Pny,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Video PNY NVIDIA Quadro NVS 810 4GB, DDR3 - VCNVS810DVI",Pny,"R$ 6.446,94","R$ 5.479,90",2020-12-15
-Kabum,Placa de Vídeo VGA PNY GeForce GTX 750 1GB DDR5 128 Bits 5400MHZ DVI/DVI/MHDMI VCGGTX7501XPB-PORT,Pny,"R$ 505,76","R$ 429,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400 2GB, GDDR5 - VCQP400",Pny,"R$ 1.302,24","R$ 1.106,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P2000, 5GB, GDDR5 - VCQP2000",Pny,"R$ 4.576,35","R$ 3.889,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 3080 XLR8, 10GB, GDDR6X - VCG308010TFXMPB",Pny,"R$ 8.526,94","R$ 7.247,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 2080 Ti Blower, 11GB, GDDR6 - VCG2080T11BLP-BLK",Pny,"R$ 10.588,12","R$ 8.999,90",2020-12-15
-Kabum,"Placa de Vídeo PNY NVIDIA Quadro P4000 8GB, GDDR5 - VCQP4000",Pny,"R$ 6.623,41","R$ 5.629,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 470 Red Dragon 4GB, GDDR5 - AXRX 470 4GBD5-3DHD/OC",Powercolor,"R$ 1.929,29","R$ 1.639,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5600 XT, 6GB, GDDR6 - AXRX 5600XT 6GBD6-3DHV2/OC",Powercolor,"R$ 2.211,65","R$ 1.879,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 5500 XT, 8GB, GDDR6 - 8GBD6-DHR/OC 1A1-G00323900G",Powercolor,"R$ 2.152,82","R$ 1.829,90",2020-12-15
-Kabum,"Placa de Vídeo Power Color AMD RX 5500 XT, 4GB, GDDR6 - G00325600G",Powercolor,"R$ 1.411,65","R$ 1.199,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5700 XT, 8GB, GDDR6 - AXRX 5700XT 8GBD6-3DH",Powercolor,"R$ 3.294,00","R$ 2.799,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor AMD Radeon Red Devil RX 5700, 8GB, GDDR6 - AXRX 5700 8GBD6-3DHE/OC",Powercolor,"R$ 3.335,18","R$ 2.834,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 570, 8GB, GDDR5 - AXRX 570 8GBD5-DHDV3/OC",Powercolor,"R$ 1.588,12","R$ 1.349,90",2020-12-15
-Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 550 2GB, GDDR5 - AXRX 550 2GBD5-DHA/OC",Powercolor,"R$ 941,06","R$ 799,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Rise até 2 Placas RM-SV-01-BK,Rise Mode,"R$ 28,12","R$ 23,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Ice Cold RM-SV-01-IC,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Small Black RM-SV-02-SB,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Rise Transparente RM-SV-01-AQ,Rise Mode,"R$ 26,56","R$ 23,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo VGA Rise Mode lv2 Full Black RM-SV-03-FB,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-15
-Kabum,Suporte para Placa de Video Rise Mode Hell RM-SV-01-HL,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-15
-Kabum,Suporte para Placa de Vídeo RISE LV2 Small Black and White RM-SV-04-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-15
-Kabum,Suporte para placa de vídeo Rise Mode TecLab Edition - Black and White RM-SV-05-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-15
-Kabum,Placa de Video VGA Sapphire R9 390 8GB NITRO TRI-X OC DDR5 11244-00-20G,Sapphire,"R$ 2.406,91","R$ 2.045,87",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5700 XT, 8GB, GDDR6 BE - 11293-09-20G",Sapphire,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 570, 8GB, GDDR5 - 11266-66-20G",Sapphire,"R$ 1.882,24","R$ 1.599,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Pulse RX 550 4G G5 640SP, 4GB, GDDR5 - 11268-15-20G",Sapphire,"R$ 882,24","R$ 749,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5500 XT, 8GB, GDDR6 - 11295-01-20G",Sapphire,"R$ 1.870,47","R$ 1.589,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Radeon RX 6800, 16GB, GDDR6, PCI-E HDMI, Dual DP, USB-C - 21305-01-20G",Sapphire,"R$ 5.646,94","R$ 4.799,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 590, 8GB, GDDR5 - 11289-06-20G",Sapphire,"R$ 1.294,00","R$ 1.099,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5600 XT BE, 6GB, GDDR6 - 11296-05-20G",Sapphire,"R$ 2.470,47","R$ 2.099,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 5700 XT 8GB, GDDR6 - 11293-01-20G",Sapphire,"R$ 3.646,94","R$ 3.099,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Radeon NITRO+ RX 5700 XT, 8G, GDDR6 - 11293-03-40G",Sapphire,"R$ 3.882,24","R$ 3.299,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Radeon GPRO 6200 4GB, GDDR5 - 32258-00-21G",Sapphire,"R$ 1.732,82","R$ 1.472,90",2020-12-15
-Kabum,Placa de Video VGA AMD Sapphire RADEON NITRO+ RX 580 4GB GDDR5 PCI-E 11265-07-20G,Sapphire,"R$ 1.111,00","R$ 999,90",2020-12-15
-Kabum,"Placa de Vídeo Sapphire AMD Pulse RX 5600 XT, 6GB, GDDR6 - 11296-01-20G",Sapphire,"R$ 2.823,41","R$ 2.399,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 550 2GB Core, GDDR5 - RX-550P2SFG5",XFX,"R$ 484,59","R$ 411,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC II PRO, 6GB, GDDR6 - RX-56XT6DF46",XFX,"R$ 2.235,18","R$ 1.899,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD One Series 2GB 6570 Plus, DDR3 - ON-XFX1-PLUS",XFX,"R$ 266,94","R$ 226,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC II Pro, 6GB, GDDR6 - RX-56XT6DFD6",XFX,"R$ 2.470,47","R$ 2.099,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5700 XT THICC II 8GB, GDDR6 - RX-57XT8DFD6",XFX,"R$ 3.764,59","R$ 3.199,90",2020-12-15
-Kabum,Placa de Vídeo VGA AMD XFX RADEON RX 570 4GB RS XXX ED OC+ DDR5 1284Mhz RX-570P4DFD6,XFX,"R$ 1.388,12","R$ 1.179,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 570 RS XXX Edition, 8GB, DDR5 - RX-570P8DFD6",XFX,"R$ 1.058,71","R$ 899,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5700 XT Triple Dissipation, 8GB, GDDR6 - RX-57XT83LD8",XFX,"R$ 3.411,65","R$ 2.899,90",2020-12-15
-Kabum,"Placa de Video XFX AMD Radeon RX 5700, 8GB, GDDR6 - RX-57XL8MFG6",XFX,"R$ 3.529,29","R$ 2.999,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC III Ultra, 6GB, GDDR6 - RX-56XT6TBD8",XFX,"R$ 2.117,53","R$ 1.799,90",2020-12-15
-Kabum,"Placa de Vídeo XFX AMD Radeon RX 5500 XT THICC II Pro, 8GB, GDDR6 - RX-55XT8DFD6",XFX,"R$ 2.235,18","R$ 1.899,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1050 Mini 2GB, GDDR5 - ZT-P10500A-10L",Zotac,"R$ 694,00","R$ 624,60",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 Low Profile, 4GB, GDDR5 - ZT-T16500H-10L",Zotac,"R$ 1.317,53","R$ 1.119,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1060 3GB, GDDR5 - ZT-P10610A-10L",Zotac,"R$ 905,76","R$ 769,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1050 Mini 2GB, GDDR5 - ZT-P10500A-10L",Zotac,"R$ 694,00","R$ 624,60",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3080, 10GB, GDDR6X - ZT-A30800D-10P",Zotac,"R$ 6.588,12","R$ 5.599,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1660 Super Twin Fan, 6GB, GDDR6 - ZT-T16620F-10L",Zotac,"R$ 2.065,76","R$ 1.755,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming GeForce RTX 2080 Super Triple Fan, 8GB, GDDR6 - ZT-T20820H-10P",Zotac,"R$ 6.070,47","R$ 5.159,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2060 SUPER AMP 8GB, GDDR6 - ZT-T20610D-10P",Zotac,"R$ 3.635,18","R$ 3.089,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1660 Twin Fan 6GB, GDDR5 - ZT-T16600F-10L",Zotac,"R$ 1.529,29","R$ 1.299,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600K-10M",Zotac,"R$ 2.658,71","R$ 2.259,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 730 4GB Zone, DDR3 - ZT-71115-20L",Zotac,"R$ 725,76","R$ 616,90",2020-12-15
-Kabum,Placa de Vídeo VGA Zotac GeForce GT 740 1GB DDR5 128 bit PCI-Express 3.0 x16 ZT-71002-10L,Zotac,"R$ 517,89","R$ 440,21",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3090 Trinity, 24GB, GDDR6X - ZT-A30900D-10P",Zotac,"R$ 15.882,24","R$ 13.499,90",2020-12-15
-Kabum,Placa de Vídeo Zotac NVIDIA GeForce GTX 1660 Ti Twin Fan - ZT-T16610F-10L,Zotac,"R$ 2.352,82","R$ 1.999,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2060 SUPER Mini 8GB, GDDR6 - ZT-T20610E-10M",Zotac,"R$ 3.352,82","R$ 2.849,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3070 Twin Edge, 8GB, GDDR6 - ZT-A30700E-10P",Zotac,"R$ 5.505,76","R$ 4.679,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2070 Super Mini, 8GB, GDDR6 - ZT-T20710E-10M",Zotac,"R$ 4.023,41","R$ 3.419,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac GeForce RTX 3080, 10GB, GDDR6X - ZT-A30800J-10P",Zotac,"R$ 7.112,82","R$ 6.045,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 Super Twin Fan, 4GB, GDDR6 - ZT-T16510F-10L",Zotac,"R$ 1.418,71","R$ 1.205,90",2020-12-15
-Kabum,Placa de Vídeo VGA Zotac GeForce GT 740 LP 1GB DDR5 128 bit PCI-Express x16 ZT-71003-10L,Zotac,"R$ 555,18","R$ 471,90",2020-12-15
-Kabum,Placa de Vídeo VGA Zotac GeForce GTX 960 2GB Entusiasta DDR5 128 bit ZT-90301-10M,Zotac,"R$ 976,35","R$ 829,90",2020-12-15
-Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 OC, 4GB, GDDR6 - ZT-T16520F-10L",Zotac,"R$ 1.411,65","R$ 1.199,90",2020-12-15
+Kabum,Cabo de Extensão VGA Adata XPG Prime ARGB - ARGBEXCABLE-VGA-BKCWW,Adata,"R$ 211,65","R$ 179,90",2020-12-17
+Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 2GB, DDR3 - AFR5220-2048D3L5",Afox,"R$ 289,29","R$ 245,90",2020-12-17
+Kabum,"Placa de Vídeo AMD Radeon Pro WX 2100, 2GB, GDDR5 - 100-506001",Amd,"R$ 1.117,53","R$ 949,90",2020-12-17
+Kabum,"Placa de Vídeo AMD Radeon Pro WX 9100, 16GB, HBM2 - 100-505957",Amd,"R$ 9.999,88","R$ 8.499,90",2020-12-17
+Kabum,"Placa de Video Asrock Phantom Gaming D Radeon RX570 4G, GDDR5",ASRock,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Phantom Gaming D2 OC, 6GB, DDR6 - 90-GA1WZZ-00UANF",ASRock,"R$ 2.541,06","R$ 2.159,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 550 Phantom Gaming 2G, GDDR5 - 90-GA0500-00UANF",ASRock,"R$ 564,59","R$ 479,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5700 XT Phantom Gaming D 8G OC, 8GB, GDDR6 - 90-GA1JZZ-00UANF",ASRock,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Challenger D OC, 6GB, DDR6 - 90-GA1XZZ-00UANF",ASRock,"R$ 2.423,41","R$ 2.059,90",2020-12-17
+Kabum,"Placa de Video Asrock Phantom Gaming D Radeon RX570 8G OC, GDDR5",ASRock,"R$ 1.764,59","R$ 1.499,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1650, 4GB, GDDR6 - TUF-GTX1650-O4GD6-P-GAMING",Asus,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Asus TUF3 NVIDIA GeForce GTX 1660 SUPER, 14.0 Gbps, 6GB, GDDR6, Turing Shaders - TUF 3-GTX1660S-O6G-GAMING",Asus,"R$ 2.588,12","R$ 2.199,90",2020-12-17
+Kabum,Case para Placa de Vídeo Asus ROG XG Station 2 - 90YV09B1-M0SA00,Asus,"R$ 4.258,71","R$ 3.619,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3090, 24GB, GDDR6X - ROG-STRIX-RTX3090-O24G-GAMING",Asus,"R$ 18.235,18","R$ 15.499,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2080 Super EVO V2 OC, 8GB, GDDR6 - DUAL-RTX2080S-O8G-EVO-V2",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo Asus ROG Strix AMD RX 5500 XT OC Gaming, 8G, GDDR6 - ROG-STRIX-RX5500XT-O8G-GAMING",Asus,"R$ 1.941,06","R$ 1.649,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5500 XT EVO, 8GB, GDDR6 - DUAL-RX5500XT-O8G-EVO",Asus,"R$ 2.035,18","R$ 1.729,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3070, 8GB, GDDR6 - RTX DUAL-RTX3070-O8G",Asus,"R$ 5.752,82","R$ 4.889,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Ti Phoenix 4GB, GDDR5 - PH-GTX1050TI-4G",Asus,"R$ 1.352,82","R$ 1.149,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce TUF Gaming RTX 3070, O8G, GDDR6 - 90YV0FQ6-M0NA00",Asus,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2080 Super EVO OC 8GB, GDDR6 - DUAL-RTX2080S-O8G-EVO",Asus,"R$ 6.126,94","R$ 5.207,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Phoenix AMD Radeon RX 550, 4GB, GDDR5 - PH-RX550-4G-EVO",Asus,"R$ 823,41","R$ 699,90",2020-12-17
+Kabum,"Placa de Vídeo Asus ROG Strix NVIDIA GeForce RTX 2080 Ti 11GB, GDDR6 - ROG-STRIX-RTX2080TI-O11G-GAMING",Asus,"R$ 8.882,24","R$ 7.549,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Phoenix NVIDIA GeForce GTX 1650 OC Edition, 4GB, GDDR6 - PH-GTX1650-O4GD6",Asus,"R$ 1.588,12","R$ 1.349,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Rog Strix Gaming GeForce RTX3070, O8G, GDDR6 - 90YV0FR1-M0NA00",Asus,"R$ 7.999,88","R$ 6.799,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Phoenix AMD Radeon RX 550, 2GB, GDDR5 - PH-RX550-2G-EVO",Asus,"R$ 658,71","R$ 559,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo DeepCool - GH-01 A-RGB,Deepcool,"R$ 117,53","R$ 99,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6332-KR",Evga,"R$ 729,29","R$ 619,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti FTW3 Ultra Overclocked 65C Gaming, 11GB, 14.0 Gbps, GDDR6, Ray Tracing, RGB, Ansel - 11G-P4-2487-KR",Evga,"R$ 12.352,82","R$ 10.499,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6338-KR",Evga,"R$ 748,12","R$ 635,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super KO Gaming, 8GB, GDDR6 - 08G-P4-2072-KR",Evga,"R$ 4.917,53","R$ 4.179,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3070 XC3 Black Gaming, 8GB, GDDR6 - 08G-P5-3751-KR",Evga,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 710 2GB, DDR3 - 02G-P3-2713-KR",Evga,"R$ 418,71","R$ 355,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 SC 2GB, GDDR5 - 02G-P4-6333-KR",Evga,"R$ 776,35","R$ 659,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Hybrid 11GB, GDDR6 - 11G-P4-2384-KR",Evga,"R$ 9.423,41","R$ 8.009,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-2067-KR",Evga,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Video EVGA GeForce RTX 2070 Super Black Gaming, 8GB, GDDR6 - 08G-P4-3071-KR",Evga,"R$ 5.176,35","R$ 4.399,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super XC Hybrid Gaming, 8GB, GDDR6 - 08G-P4-3178-KR",Evga,"R$ 5.112,82","R$ 4.345,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3090, 24GB, GDDR6X - 24G-P5-3975-KR",Evga,"R$ 16.470,47","R$ 13.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDA GeForce GTX 1650 KO ULTRA, 4GB, GDDR6 - 04G-P4-1457-KR",Evga,"R$ 1.470,47","R$ 1.249,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 KO Ultra Gaming, 6GB, GDDR6 - 06G-P4-2068-KR",Evga,"R$ 3.058,71","R$ 2.599,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Gaming 6GB, GDDR5 - 06G-P4-1163-KR",Evga,"R$ 2.117,53","R$ 1.799,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3070 FTW3 ULTRA GAMING, 8GB, GDDR6, ARGB LED, Metal Backplate iCX3 Cooling - 08G-P5-3767-KR",Evga,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-1667-KR",Evga,"R$ 2.671,65","R$ 2.270,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 Super FTW3 Ultra+ Overclocked, 8GB, GDDR6 - 08G-P4-3377-KR",Evga,"R$ 5.555,18","R$ 4.721,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 SC Ultra GDDR6 Gaming, 4GB, GDDR6 - 4G-P4-1257-KR",Evga,"R$ 1.541,06","R$ 1.309,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3090, 24GB, GDDR6X - 24G-P5-3987-KR",Evga,"R$ 18.352,82","R$ 15.599,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Super KO Gaming, 8GB, 14.0 Gbps, GDDR6, Ray Tracing, Ansel - 08G-P4-2083-KR",Evga,"R$ 6.170,47","R$ 5.244,90",2020-12-17
+Kabum,"Placa de Video EVGA GeForce RTX 2060 Super XC Gaming, 8GB, GDDR6 - 08G-P4-3162-KR",Evga,"R$ 3.822,24","R$ 3.248,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce NV RTX3090, 24GB, GDDR6X - NED3090019SB-132BX",Gainward,"R$ 18.235,18","R$ 15.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1050 Ti, 4GB, GDDR5 - NE5105T018G1-1070F",Gainward,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super Pegasus, 6GB, GDDR6 - NE6166S018J9-161F",Gainward,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1650 Ghost, 4GB, GDDR6 - NE6165001BG1-1175D",Gainward,"R$ 1.352,82","R$ 1.149,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX3070 Phoenix, 8GB, GDDR6 - NE63070019P2-1041X",Gainward,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1650 Pegasus, 4GB, GDDR5 - NE51650006G1-1170F",Gainward,"R$ 1.282,24","R$ 1.089,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GT 1030 2GB, GDDR5 - NE5103000646-1080F",Gainward,"R$ 635,18","R$ 539,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2080 Super Work The Frames Edition 8GB, GDDR6 - 28ISL6MD49ES",Galax,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 3070 EX Gamer (1-Click OC), 8GB, GDDR6 - 37NSL6MD1SAA",Galax,"R$ 6.705,76","R$ 5.699,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GT 710 Passive, 2GB, DDR3 - 71GPF4HI00GX",Galax,"R$ 317,53","R$ 269,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX (1-Click OC), 4GB, GDDR6 - 65SQL8DS66E6",Galax,"R$ 1.764,59","R$ 1.499,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super OC, 8GB, DDR6 - 26ISL6HP68LD",Galax,"R$ 3.941,06","R$ 3.349,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super 1-Click OC, 8GB, GDDR6 - 27ISL6MD441C",Galax,"R$ 4.941,06","R$ 4.199,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super Work The Frames Edition 8GB, GDDR6 - 27ISL6MD49ES",Galax,"R$ 5.529,29","R$ 4.699,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GT 710 1GB, DDR3 - 71GGF4DC00WG",Galax,"R$ 341,06","R$ 289,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 Super EX 1 Click OC, 4GB, DDR6 - 65SQL8DS61EX",Galax,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB GDDR5 64Bits - 30NPH4HVQ4ST,Galax,"R$ 894,00","R$ 759,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super EX (1-Click OC), 6GB, GDDR6 - 60SRL7DS03ES",Galax,"R$ 2.599,88","R$ 2.209,90",2020-12-17
+Kabum,Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB DDR5 64Bits Exoc 30NPH4HVQ5EW,Galax,"R$ 705,76","R$ 599,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1",Galax,"R$ 1.364,59","R$ 1.159,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC, 6GB, GDDR6, REV 2.0 - GV-N2060OC-6GD",Gigabyte,"R$ 2.941,06","R$ 2.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4GB, GDDR5 - GV-N105TOC-4GL",Gigabyte,"R$ 1.246,94","R$ 1.059,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti D5 4G, GDDR5 - GV-N105TD5-4GD",Gigabyte,"R$ 1.235,18","R$ 1.049,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT OC, 4GB, GDDR6 - GV-R55XTOC-4GD",Gigabyte,"R$ 1.623,41","R$ 1.379,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3070 VISION OC 8G, 8GB, GDDR6 - GV-N3070VISION OC-8GD",Gigabyte,"R$ 6.117,53","R$ 5.199,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 4G, GDDR6 - GV-R55XTD6-4GD",Gigabyte,"R$ 1.588,12","R$ 1.349,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070 Super Windforce 3X, 8GB, GDDR6 - GV-N207SWF3-8GD",Gigabyte,"R$ 4.235,18","R$ 3.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4G, GDDR5 - GV-N105TOC-4GD",Gigabyte,"R$ 1.258,71","R$ 1.069,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Windforce OC 6G, 6GB, GDDR6, (rev 1.0) - GV-R56XTWF2OC-6GD",Gigabyte,"R$ 3.058,71","R$ 2.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti OC 6G, GDDR6 - GV-N166TOC-6GD",Gigabyte,"R$ 2.529,29","R$ 2.149,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 Eagle OC, 24gb, GDDR6X - GV-N3090EAGLEOC-24GD",Gigabyte,"R$ 16.470,47","R$ 13.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT OC 8GB, GDDR6 - GV-R55XTOC-8GD",Gigabyte,"R$ 1.912,82","R$ 1.625,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2080 Super Gaming OC Waterforce WB, 8GB, GDDR6 - GV-N208SGAMINGOC WB-8GD",Gigabyte,"R$ 7.631,65","R$ 6.486,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte GTX 1660 Super OC NVIDIA Geforce 6G, GDDR6 - GV-N166SOC-6GD",Gigabyte,"R$ 2.459,88","R$ 2.090,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 640 1GB, GDDR5 - GV-N640D5-1GL",Gigabyte,"R$ 588,12","R$ 499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 1030 2G, GDDR5 - GV-N1030D5-2GL",Gigabyte,"R$ 670,47","R$ 569,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Windforce OC, 6GB, GDDR6, REV 2.0 - GV-N2060WF2OC-6GD (Rev 2.0)",Gigabyte,"R$ 3.176,35","R$ 2.699,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC 6G, GDDR6 - GV-N2060OC-6GD",Gigabyte,"R$ 3.329,29","R$ 2.829,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX570 Gaming 8G, 8GB, GDDR5, REV 2.0 - GV-RX570GAMING-8GD",Gigabyte,"R$ 1.808,12","R$ 1.536,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 4G, GDDR6 (Rev. 2.0) - GV-N1656D6-4GD",Gigabyte,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Radeon Windforce RX 5600 XT, AMD/ATI, 6GB - GV-R56XTWF2-6GD",Gigabyte,"R$ 2.588,12","R$ 2.199,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB, GDDR5 - GV-N1650OC-4GL",Gigabyte,"R$ 1.564,59","R$ 1.329,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3070 Gaming OC 8G, 8gb, GDDR6 - GV-N3070GAMING OC-8GD",Gigabyte,"R$ 5.823,41","R$ 4.949,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 OC 4G, 4GB GDDR6, Rev 2.0 - 9VN1656O4-00-20",Gigabyte,"R$ 1.599,88","R$ 1.359,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 730, 2GB, GDDR5, REV 2.0 - GV-N730D5-2GI",Gigabyte,"R$ 558,71","R$ 474,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5700 XT Gaming OC, 8GB, GDDR6 - GV-R57XTGAMING OC-8GD",Gigabyte,"R$ 3.470,47","R$ 2.949,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 WINDFORCE OC, 4G, GDDR6, Rev. 2.0 - GV-N1656WF2OC-4GD",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 VENTUS XS OCV1, 4GB, GDDR6",MSI,"R$ 1.446,94","R$ 1.229,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3090 Ventus 3X 24G OC, GDDR6X",MSI,"R$ 15.999,88","R$ 13.599,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 730 2GB, DDR3 - N730-2GD3V3",MSI,"R$ 517,53","R$ 439,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 2GD3 LP 2GB, DDR3",MSI,"R$ 402,24","R$ 341,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 1030 2G LP OC, 2GB, GDDR5 - Geforce GT 1030 2G LP OC",MSI,"R$ 670,47","R$ 569,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 2GD3 LP 2GB, DDR3",MSI,"R$ 402,24","R$ 341,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Mech OC, 8GB, GDDR6",MSI,"R$ 3.646,94","R$ 3.099,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3090 Ventus 3X 24G OC, GDDR6X",MSI,"R$ 15.999,88","R$ 13.599,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5500 XT Mech 8G OC, 8GB, GDDR6 - Radeon RX 5500 XT Mech 8G OC",MSI,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 Gaming 4G, 4GB, GDDR5 - GeForce GTX 1650 GAMING 4G",MSI,"R$ 1.482,24","R$ 1.259,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5500 XT Mech 4G OC, 4GB, GDDR6 - Radeon RX 5500 XT Mech 4G OC",MSI,"R$ 1.671,65","R$ 1.420,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 1GD3H LP 1GB, DDR3",MSI,"R$ 312,83","R$ 265,91",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 730 4GB, DDR3 - N730-4GD3V2",MSI,"R$ 705,76","R$ 599,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 Gaming X, 4GB, GDDR6 - GeForce GTX 1650 D6 GAMING X",MSI,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1660 Ti Gaming X 6G, GDDR6",MSI,"R$ 2.752,82","R$ 2.339,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 570 Armor 8G OC, GDDR5",MSI,"R$ 1.764,59","R$ 1.499,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2080 Super Ventus XS OC, 8GB, GDDR6",MSI,"R$ 5.764,59","R$ 4.899,90",2020-12-17
+Kabum,"Placa de Vídeo PCyes NVIDIA Geforce GTX 1660 OC, Dual-Fan, 6GB, GDDR5, 192 BITS - GRAFFITI SERIES - PPOC166019206G5",PCYes,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240, 4GB, GDDR5 - PJ240R71284GD5",PCYes,"R$ 737,53","R$ 626,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon R5 230, 2GB, DDR3 - PA230R502D3LW",PCYes,"R$ 329,29","R$ 279,90",2020-12-17
+Kabum,"Placa de Vídeo PCyes AMD Radeon 6570 GAMING EDITION, 2GB, DDR5, 128 Bits - PJ65702DR5128",PCYes,"R$ 469,30","R$ 398,90",2020-12-17
+Kabum,"Placa de Vídeo PCyes NVIDIA GeForce RTX 3070, 8GB, GDDR6, 256 Bits, Triple-Fan, Graffiti Gaming Pro Series - PP3070GP8DR6256",PCYes,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes NVIDIA GeForce GT 710 2GB, DDR3 - PA710GT6402D3LP",PCYes,"R$ 458,71","R$ 389,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon HD5450 1GB, DDR3 - PJ54506401D3LP",PCYes,"R$ 270,47","R$ 229,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240, 2GB, GDDR5 - PJ240R712802D5",PCYes,"R$ 552,82","R$ 469,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA GeForce GTX 1650, 4GB, GDDR6 - VCG16504D6DFPPB",Pny,"R$ 1.482,24","R$ 1.259,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400, 2GB, GDDR5 - VCQP400V2-PORPB",Pny,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA GeForce GT 1030, 2GB, GDDR5 - VCGGT10302PB",Pny,"R$ 658,71","R$ 559,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400, 2GB, GDDR5 - VCQP400V2PB",Pny,"R$ 1.251,65","R$ 1.063,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 3070 XLR8 Gaming Edition, 8GB, GDDR6 - VCG30708TFXPPB",Pny,"R$ 5.764,59","R$ 4.899,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 570, 4GB, GDDR5 - AXRX 570 4GBD5-DHDV3/OC",Powercolor,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5500 XT, 8GB, GDDR6 - 8GBD6-DH/OC 1A1-G00325500G",Powercolor,"R$ 1.999,88","R$ 1.699,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor Red Dragon Radeon RX 580, 8GB, GDDR5 - 8GBD5-DHDV2/OC",Powercolor,"R$ 1.741,06","R$ 1.479,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 580 Red Devil 8GB, GDDR5 - AXRX 580 8GBD5-3DH/OC",Powercolor,"R$ 1.777,67","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 550, 2GB, DDR5 - AXRX 550 2GB64BD5-DH",Powercolor,"R$ 541,06","R$ 459,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 550, 4GB, DDR5 - AXRX 550 4GBD5-DH",Powercolor,"R$ 705,76","R$ 599,90",2020-12-17
+Kabum,Suporte para placa de vídeo Rise Mode TecLab Edition - Black and White RM-SV-05-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-17
+Kabum,Suporte Para Placa de Vídeo RISE Snow Edition RM-SV-01-SN,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Vulpes RM-SV-01-OV,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Rise Mode lv2 Preto e Vermelho - RM-SV-03-BR,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo Rise Mode Vermelho Blood RM-SV-01-BD,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Video VGA Rise Mode lv2 Preto e Branco RM-SV-03-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Nitro+ AMD Radeon RX 5500 XT, 8GB, GDDR6 Special Edition - 11295-05-20G",Sapphire,"R$ 2.117,53","R$ 1.799,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 550 Pulse 4G, GDDR5 - 11268-01-20G",Sapphire,"R$ 941,06","R$ 799,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5500 XT, 4GB, GDDR6 - 11295-03-20G",Sapphire,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 580 GTS XXX OC+ 8GB, GDDR5 - RX-580P8DFD6",XFX,"R$ 2.011,65","R$ 1.709,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 710 2GB, DDR3 - ZT-71302-20L",Zotac,"R$ 352,82","R$ 299,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1660 Twin Fan, 6GB, GDDR5 - ZT-T16600K-10M",Zotac,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3090 Trinity, 24GB, GDDR6X - ZT-A30900D-10P",Zotac,"R$ 15.882,24","R$ 13.499,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3070 Twin Edge, 8GB, GDDR6 - ZT-A30700E-10P",Zotac,"R$ 5.505,76","R$ 4.679,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 1030 2GB, GDDR5 - ZT-P10300A-10L",Zotac,"R$ 783,41","R$ 665,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming GeForce RTX 2080 Super Triple Fan, 8GB, GDDR6 - ZT-T20820H-10P",Zotac,"R$ 6.070,47","R$ 5.159,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 710 1GB, DDR3 - ZT-71304-20L",Zotac,"R$ 317,53","R$ 269,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3070 Twin Edge OC, 8GB, GDDR6 - ZT-A30700H-10P",Zotac,"R$ 6.046,94","R$ 5.139,90",2020-12-17
+Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 1GB, DDR3 - AFR5220-1024D3L9-V2",Afox,"R$ 294,00","R$ 249,90",2020-12-17
+Kabum,"Placa de Vídeo Afox AMD Radeon R5 220, 2GB, DDR3 - AFR5220-2048D3L9-V2",Afox,"R$ 305,76","R$ 259,90",2020-12-17
+Kabum,"Placa de Vídeo Afox AMD Radeon RX560D, 4GB, GDDR5 - AFRX560D-4096D5H4-V3",Afox,"R$ 823,41","R$ 699,90",2020-12-17
+Kabum,"Placa de Vídeo AMD Radeon Pro WX 7100, 8GB, GDDR5 - 100-505826",Amd,"R$ 4.117,53","R$ 3.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, AORUS Master - GV-N306TAORUS M-8GD",Aorus,"R$ 5.294,00","R$ 4.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2080 Ti Xtreme 11G, GDDR6 - GV-N208TAORUS X-11GC",Aorus,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2060 Super, 8GB, GDDR6 - GV-N206SAORUS-8GC",Aorus,"R$ 4.117,53","R$ 3.499,90",2020-12-17
+Kabum,"Placa de Vídeo Aorus AMD Radeon RX 5700 XT, 8GB, GDDR6 - GV-R57XTAORUS-8GD",Aorus,"R$ 3.823,41","R$ 3.249,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2080 Super Waterforce WB, 8GB, GDDR6 - GV-N208SAORUS WB-8GC",Aorus,"R$ 5.764,59","R$ 4.899,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5600 XT Phantom Gaming D3 OC, 6GB, DDR6 - 90-GA1VZZ-00UANF",ASRock,"R$ 2.611,65","R$ 2.219,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD RADEON RX6800 16G, GDDR6 - RADEON RX6800 16G",ASRock,"R$ 5.764,59","R$ 4.899,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5500 XT Phantom Gaming D 8G OC, 8GB, GDDR6 - RX5500XT PGD 8GO",ASRock,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX5700 XT Taichi X 8G OC+, 8GB, GDDR6 - RX5700XT TCX 8GP",ASRock,"R$ 4.046,94","R$ 3.439,90",2020-12-17
+Kabum,"Placa de Video Asrock AMD Radeon RX 5700 XT Challenger D OC, 8GB, GDDR6 - 90-GA18ZZ-00UANF",ASRock,"R$ 3.329,29","R$ 2.829,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 6800 XT, 16G, GDDR6 - RADEON RX6800XT 16G",ASRock,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Video ASRock Phantom Gaming X AMD Radeon RX580 8G OC, GDDR5",ASRock,"R$ 1.294,00","R$ 1.099,90",2020-12-17
+Kabum,"Placa de Vídeo ASRock AMD Radeon RX 5500 XT Challenger D 8G OC, 8GB, GDDR6 - RX5500XT CLD 8GO",ASRock,"R$ 1.776,35","R$ 1.509,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Ti OC Cerberus 4GB, GDDR5 - CERBERUS-GTX1050TI-O4G",Asus,"R$ 1.235,18","R$ 1.049,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Phoenix NVIDIA GeForce GTX 1650 OC, 4GB, GDDR5 - PH-GTX1650-O4G",Asus,"R$ 1.364,59","R$ 1.159,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1060 Dual 6GB, GDDR5 - DUAL-GTX1060-O6G",Asus,"R$ 1.058,71","R$ 899,90",2020-12-17
+Kabum,"Placa de Vídeo Asus AMD RADEON RX 6800, 16G, GDDR6 - RX6800-16G",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual NVIDIA GeForce RTX 2060 6GB, GDDR6 - DUAL-RTX2060-A6G-EVO",Asus,"R$ 2.742,24","R$ 2.330,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Geforce RTX3090, 24GB, GDDR6 - TUF-RTX3090-24G-GAMING",Asus,"R$ 15.882,24","R$ 13.499,90",2020-12-17
+Kabum,"Placa de Vídeo Asus GeForce RTX 3060 Ti, 8GB - ROG-STRIX-RTX3060TI-O8G-GAMING",Asus,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo Asus AMD Radeon RX 580 OC 8GB, GDDR5 - DUAL-RX580-O8G",Asus,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual NVIDIA GeForce RTX 2080 Super EVO, 8GB, GDDR6 - DUAL-RTX2080S-8G-EVO-V2",Asus,"R$ 6.235,18","R$ 5.299,90",2020-12-17
+Kabum,"Placa de Vídeo Asus ROG Strix NVIDIA GeForce RTX 2080 Super OC 8GB, GDDR6 - ROG-STRIX-RTX2080S-O8G-GAMING",Asus,"R$ 6.364,59","R$ 5.409,90",2020-12-17
+Kabum,"Placa de Video VGA NVIDIA ASUS GeForce GTX 1050TI 4GB GDDR5,128Bits,Auto-Extreme,dupla ventoinha,Super Alloy Power II,DVI/HDMI/DP - DUAL-GTX1050TI-4G",Asus,"R$ 950,47","R$ 807,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce GTX 1050 Phoenix 2GB, GDDR5 - PH-GTX1050-2G",Asus,"R$ 748,71","R$ 636,40",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA TUF RTX 3090, 24GB, GDDR6X - 90YV0FD1-M0NM00",Asus,"R$ 15.764,59","R$ 13.399,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Rog Strix NVIDIA GeForce RTX 2080 Super White Edition, 8GB, GDDR6 - ROG-STRIX-RTX2080S-O8G-WHITE-GAMING",Asus,"R$ 7.294,00","R$ 6.199,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Dual GeForce RTX 2060 EVO OC, 6GB, GDDR6 - DUAL-RTX2060-O6G-EVO",Asus,"R$ 2.912,82","R$ 2.475,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3070, 8GB, GDDR6 - RTX DUAL-RTX3070-8G",Asus,"R$ 5.010,42","R$ 4.759,90",2020-12-17
+Kabum,"Placa de Vídeo Asus TUF Gaming X3 AMD Radeon RX 5700 XT EVO, 8GB, GDDR6 - TUF 3-RX5700XT-O8G-EVO-GAMING",Asus,"R$ 3.689,29","R$ 3.135,90",2020-12-17
+Kabum,"Placa de Vídeo Asus ROG Strix AMD Radeon RX 5700 XT OC, 8GB, GDDR6 - ROG-STRIX-RX5700XT-O8G-GAMING",Asus,"R$ 4.588,12","R$ 3.899,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA TUF RTX 3080, 10GB, GDDR6X - TUF-RTX3080-O10G-GAMING",Asus,"R$ 7.646,94","R$ 6.499,90",2020-12-17
+Kabum,Placa de Video Asus AMD Radeon R9 Fury X 4GB - R9FURYX-4G,Asus,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA GeForce RTX 3080, 10GB, GDDR6X - ROG-STRIX-RTX3080-O10G-GAMING",Asus,"R$ 10.117,53","R$ 8.599,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5600 XT EVO, 6GB, GDDR6 - DUAL-RX5600XT-T6G-EVO",Asus,"R$ 2.435,18","R$ 2.069,90",2020-12-17
+Kabum,"Placa de Vídeo Asus TUF Gaming NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - TUF-GTX1650S-O4G-GAMING",Asus,"R$ 1.717,53","R$ 1.459,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual AMD Radeon RX 5500 XT EVO, 4GB, 14.0 Gbps, GDDR6, FidelityFX, Anti-Lag, Image Sharpening - DUAL-RX5500XT-O4G-EVO",Asus,"R$ 1.631,65","R$ 1.386,90",2020-12-17
+Kabum,Placa de Vídeo VGA Asus AMD Radeon RX 560 2GB D5 RX560-O2G 90YV0AH2-M0NA00,Asus,"R$ 688,12","R$ 584,90",2020-12-17
+Kabum,"Placa de Vídeo Asus TUF NVIDIA GeForce RTX 2060, 14.0 Gbps, 6GB, GDDR6, Turing, Shadowplay, Ray Tracing - TUF-RTX2060-O6G-GAMING",Asus,"R$ 2.705,76","R$ 2.299,90",2020-12-17
+Kabum,"Placa de Vídeo Asus Dual NVIDIA GeForce RTX 2070 EVO V2 OC Edition, 8GB, GDDR6 - DUAL-RTX2070-O8G-EVO-V2",Asus,"R$ 3.470,47","R$ 2.949,90",2020-12-17
+Kabum,"Placa de Vídeo Asus AMD RADEON RX 6800 XT, 16G, GDDR6 - RX6800XT-16G",Asus,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,"Placa de Vídeo Asus NVIDIA Geforce RTX3080, 10GB, GDDR6 - TUF-RTX3080-10G-GAMING",Asus,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Deepcool - GH-01 RGB,Deepcool,"R$ 70,47","R$ 59,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Deepcool - GH-01 LED,Deepcool,"R$ 66,94","R$ 56,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3897-KR",Evga,"R$ 9.411,65","R$ 7.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 Super XC Black Gaming, 8GB, GDDR6 - 08G-P4-3161-KR",Evga,"R$ 3.735,18","R$ 3.174,90",2020-12-17
+Kabum,"Placa de Video EVGA GeForce RTX 2060 Super SC Ultra Gaming, 8GB, GDDR6 - 08G-P4-3067-KR",Evga,"R$ 3.799,88","R$ 3.229,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Ultra Gaming 6GB, GDDR5 - 06G-P4-1167-KR",Evga,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Black Gaming, 6GB, GDDR5 - 06G-P4-1160-KR",Evga,"R$ 2.058,71","R$ 1.749,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 Ti SC Gaming 4GB, GDDR5 - 04G-P4-6253-KR",Evga,"R$ 823,41","R$ 699,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3897-KR",Evga,"R$ 9.411,65","R$ 7.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Black Gaming 8GB, GDDR6 - 08G-P4-2081-KR",Evga,"R$ 4.117,53","R$ 3.499,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1060 3GB SC Gaming, GDDR5 - 03G-P4-6162-KR",Evga,"R$ 999,88","R$ 849,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 1030 2GB, DDR4 - 02G-P4-6232-KR",Evga,"R$ 541,06","R$ 459,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti KINGPIN Gaming, 11GB, GDDR6 - 11G-P4-2589-KR",Evga,"R$ 10.299,88","R$ 8.754,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 SC Gaming 3GB, GDDR5 - 03G-P4-6153-KR",Evga,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,Placa de Vídeo VGA NVIDIA EVGA GEFORCE GT 9800 1GB DDR3 256 bits PCI-E 2.0 01G-P3-N988-TR,Evga,"R$ 445,76","R$ 378,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 KO Gaming, 6GB, 14.0 Gbps, GDDR6, Ray Tracing, Ansel - 06G-P4-2066-KR",Evga,"R$ 2.823,41","R$ 2.399,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 SC Ultra Gaming 6GB, GDDR5 - 06G-P4-1067-KR",Evga,"R$ 2.117,53","R$ 1.799,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2070 XC Gaming, 8GB, GDDR6 - 08G-P4-2172-KR",Evga,"R$ 3.764,59","R$ 3.199,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Super SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-1068-KR",Evga,"R$ 2.235,18","R$ 1.899,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3881-KR",Evga,"R$ 8.235,18","R$ 6.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GT 730 2GB, DDR3 - 02G-P3-1733-KR",Evga,"R$ 352,82","R$ 299,90",2020-12-17
+Kabum,"Placa de Video EVGA GeForce RTX 2060 Super XC Ultra Gaming, 8GB, GDDR6 - 08G-P4-3163-KR",Evga,"R$ 3.999,88","R$ 3.399,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 XC Black Gaming 6GB, GDDR5 - 06G-P4-1161-KR",Evga,"R$ 2.082,24","R$ 1.769,90",2020-12-17
+Kabum,Placa de Vídeo VGA EVGA GeForce GTX650 1GB SC DDR5 128 bits PCI-E 3.0 01G-P4-2652-LR,Evga,"R$ 463,89","R$ 394,31",2020-12-17
+Kabum,Placa de Vídeo VGA EVGA GeForce GTX 960 4GB SC DDR5 128 bits PCI-E 3.0 04G-P4-1962-KR,Evga,"R$ 1.208,12","R$ 1.026,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 Super XC Black Gaming, 4GB, GDDR6 - 04G-P4-1251-KR",Evga,"R$ 1.641,06","R$ 1.394,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 SC Ultra Gaming 4GB, GDDR5 - 04G-P4-1057-KR",Evga,"R$ 1.029,29","R$ 874,90",2020-12-17
+Kabum,Placa de vídeo VGA EVGA GeForce GTX650Ti Boost 2GB 192-Bit GDDR5 PCI-Express 3.0 SLI Support - 02G-P4-3657-KR,Evga,"R$ 874,89","R$ 743,66",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Ultra Gaming 11GB, GDDR6 - 11G-P4-2383-KR",Evga,"R$ 9.411,65","R$ 7.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1060 Gaming 6GB, GDDR5 - 06G-P4-6161-KR",Evga,"R$ 941,06","R$ 799,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3883-KR",Evga,"R$ 6.658,71","R$ 5.659,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1650 Super SC Ultra Gaming, 4GB, GDDR6 - 04G-P4-1357-KR",Evga,"R$ 1.717,53","R$ 1.459,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1070 Ti SC Gaming 8GB, GDDR5 - 08G-P4-5671-KR",Evga,"R$ 3.205,76","R$ 2.724,90",2020-12-17
+Kabum,Placa de Vídeo VGA NVIDIA EVGA GEFORCE GTX 970 4GB SC DDR5 256 bits PCI-E 3.0 - 04G-P4-1972-KT,Evga,"R$ 1.105,76","R$ 939,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2080 Ti XC Gaming 11GB, GDDR6 - 11G-P4-2382-KR",Evga,"R$ 10.058,71","R$ 8.549,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 XC 6GB, GDDR6 - 06G-P4-2063-KR",Evga,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3060 Ti FTW3 ULTRA GAMING, 8GB, GDDR6 - 08G-P5-3667-KR",Evga,"R$ 4.470,47","R$ 3.799,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce RTX 3080, 10GB, GDDR6X - 10G-P5-3885-KR",Evga,"R$ 8.823,41","R$ 7.499,90",2020-12-17
+Kabum,"Placa de Vídeo EVGA NVIDIA GeForce GTX 1050 SSC Gaming 2GB, GDDR5 - 02G-P4-6152-KR",Evga,"R$ 705,76","R$ 599,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super, 6GB, GDDR6, Ghost - NE6166S018J9-1160X",Gainward,"R$ 2.235,18","R$ 1.899,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 2060 Ghost OC, 6GB, GDDR6 - NE62060S18J9-1160X",Gainward,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super Ghost OC, 6GB, GDDR6 - NE6166SS18J9-1160X",Gainward,"R$ 1.941,06","R$ 1.649,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce NV RTX3080, 10GB, GDDR6X - NED3080019IA-132AX",Gainward,"R$ 9.176,35","R$ 7.799,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 2060 Super Ghost, 8GB, GDDR6 - NE6206S018P2-1160X",Gainward,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gainward NVIDIA GeForce RTX 3080 Phantom, 10GB, GDDR6 - NED3080U19IA-1020P",Gainward,"R$ 8.823,41","R$ 7.499,90",2020-12-17
+Kabum,"Placa de Vídeo GALAX NVIDIA GeForce RTX 3070 SG (1-Click OC), 8GB, GDDR6 - 37NSL6MD1GNA",Galax,"R$ 7.783,41","R$ 6.615,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 3080 SG (1-Click OC), 10GB, GDDR6X - 38NWM3MD99NN",Galax,"R$ 10.588,12","R$ 8.999,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1050 Ti Exoc 4GB, GDDR5 - 50IQH8DVN6EC",Galax,"R$ 970,47","R$ 824,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 1-Click OC, 6GB, GDDR5 - 60SRH7DSY91C",Galax,"R$ 2.199,88","R$ 1.869,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super EX White (1-Click OC), 6GB, GDDR6 - 60SRL7DS04WS",Galax,"R$ 2.117,53","R$ 1.799,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 3090 SG (1-Click OC), 24GB, GDDR6X - 39NSM5MD1GNA",Galax,"R$ 19.411,65","R$ 16.499,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 Super EX Gamer Black Edition 8GB, GDDR6 - 27ISL6MDW0BG",Galax,"R$ 4.164,59","R$ 3.539,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super Gamer (1-Click OC), 8GB, GDDR6 - 26ISL6HP76GP",Galax,"R$ 3.405,76","R$ 2.894,90",2020-12-17
+Kabum,Placa de Vídeo VGA Galax GeForce GTX 750 Ti EXOC 2GB GDDR5 128 BITS PCI-E 3.0 - 75IPH8DV9JXZ,Galax,"R$ 552,82","R$ 469,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super (1-Click OC), 6GB, GDDR6 - 60SRL7DSY91S",Galax,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2070 EX White 8GB, GDDR6 - 27NSL6UCV91W",Galax,"R$ 3.294,00","R$ 2.799,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA RTX 2060 EX White (1-Click OC) 6GB, GDDR6 - 26NRL7HPY3EW",Galax,"R$ 2.823,41","R$ 2.399,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super EX White (1-Click OC), 8GB, GDDR6 - 26ISL6MPX6EW",Galax,"R$ 3.576,35","R$ 3.039,90",2020-12-17
+Kabum,"Placa de Vídeo Galax NVIDIA GeForce RTX 2060 6GB, GDDR6 - 26NRL7HPX7OC",Galax,"R$ 2.835,18","R$ 2.409,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX OC 6G, GDDR6 - GV-N2060IXOC-6GD",Gigabyte,"R$ 2.705,76","R$ 2.299,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 WindForce 6G, GDDR6 - GV-N2060WF2-6GD",Gigabyte,"R$ 2.941,06","R$ 2.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 0C 4G, 4GB, GDDR6 - GV-N1656OC-4GD",Gigabyte,"R$ 1.364,59","R$ 1.159,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Mini ITX OC, 6GB, GDDR5 - GV-N1660IXOC-6GD",Gigabyte,"R$ 1.732,82","R$ 1.472,90",2020-12-17
+Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + Fonte Gigabyte 550W, 80 Plus Bronze + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.458,71","R$ 2.089,90",2020-12-17
+Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + Fonte Gigabyte 550W, 80 Plus Bronze",Gigabyte,"R$ 2.305,76","R$ 1.959,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 590 Gaming 8G, GDDR5 - GV-RX590GAMING-8GD (rev. 2.0)",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Windforce OC 8G, GDDR6 - GV-N206SWF2OC-8GD",Gigabyte,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC 8GB, GDDR6 - GV-R55XTGAMING OC-8GD",Gigabyte,"R$ 1.999,88","R$ 1.699,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3070 Eagle OC 8G, 8GB, GDDR6 - GV-N3070EAGLE OC-8GD",Gigabyte,"R$ 5.705,76","R$ 4.849,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super WindForce 8G, GDDR6, Rev 1.1 ? GV-N206SWF2-8GD",Gigabyte,"R$ 3.235,18","R$ 2.749,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WindForce 4G, 4GB, GDDR5 - GV-N1650WF2-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 580 Gaming, 8GB, GDDR5, REV 2.0 - GV-RX580GAMING-8GD REV2.0",Gigabyte,"R$ 1.588,12","R$ 1.349,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5700 Gaming OC, 8GB, GDDR6 - GV-R57GAMING OC-8GD",Gigabyte,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 420 2GB, DDR3 - GV-N420-2GI (Rev. 3.0)",Gigabyte,"R$ 328,14","R$ 278,92",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte GeForce GTX 1650 SUPER D6, Nvidia, 4G, GDDR6 - GV-N165SD6-4GD",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte GeForce GTX 1660 Super Mini ITX, Nvidia, 6G, GDDR6 - GV-N166SIX-6GD",Gigabyte,"R$ 2.141,06","R$ 1.819,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - GV-N165SOC-4GD",Gigabyte,"R$ 1.764,59","R$ 1.499,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 GAMING OC 24G, GDDR6X - GV-N3090GAMING OC-24GD",Gigabyte,"R$ 16.294,00","R$ 13.849,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super + Fonte Gigabyte 450W, 80 Plus Bronze + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.023,41","R$ 1.719,90",2020-12-17
+Kabum,"Kit Placa de Vídeo Gigabyte GTX 1660 Super + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 2.094,00","R$ 1.779,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti WindForce OC 6G, GDDR6 - GV-N166TWF2OC-6GD",Gigabyte,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070, 8GB, GDDR6 - GV-N2070WF2-8GD",Gigabyte,"R$ 4.588,12","R$ 3.899,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Gaming OC, 6GB, GDDR6 - GV-R56XTGAMING OC-6GD",Gigabyte,"R$ 2.482,24","R$ 2.109,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GT 710 2GB, GDDR5 - GV-N710D5-2GL",Gigabyte,"R$ 258,71","R$ 219,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Gaming OC 4G, GDDR5 - GV-N1650GAMING OC-4GD",Gigabyte,"R$ 1.458,71","R$ 1.239,90",2020-12-17
+Kabum,Placa de Video VGA GigaByte Geforce GTX 950 2GB OC DDR5 PCI-Express 3.0 - GV-N950OC-2GD,Gigabyte,"R$ 764,59","R$ 649,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 8G, GDDR6 - GV-R55XTD6-8GD",Gigabyte,"R$ 1.846,94","R$ 1.569,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA AORUS GeForce RTX 3070 MASTER, 8G, GDDR6 - GV-N3070AORUS M-8GD",Gigabyte,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT WINDFORCE 6G, GDDR6 (Rev. 2.0) - GV-R56XTWF2-6GD",Gigabyte,"R$ 2.294,00","R$ 1.949,90",2020-12-17
+Kabum,Placa de Vídeo VGA Gigabyte AMD Radeon RX 570 4GB Gaming GDDR5 DVI-D/HDMI/DP - GV-RX570GAMING-4GD,Gigabyte,"R$ 766,56","R$ 689,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, GAMING OC PRO - GV-N306TGAMINGOC PRO-8GD",Gigabyte,"R$ 4.764,59","R$ 4.049,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super Windforce OC 4G, GDDR6 - GV-N165SWF2OC-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3080, 10GB, GDDR6X - GV-N3080GAMING OC-10GD",Gigabyte,"R$ 8.819,88","R$ 7.496,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro 6G, GDDR6 - GV-N2060GAMINGOC PRO-6GD",Gigabyte,"R$ 2.929,29","R$ 2.489,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3080, 10GB, GDDR6X - GV-N3080EAGLE OC-10GD",Gigabyte,"R$ 8.614,00","R$ 7.321,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro, 6GB, GDDR6, REV 2.0 - GV-N2060GAMINGOC PRO-6GD REV2.0",Gigabyte,"R$ 3.058,71","R$ 2.599,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte Radeon RX 6800 XT, 16G, GDDR6 - GV-R68XT-16GC-B",Gigabyte,"R$ 7.294,00","R$ 6.199,90",2020-12-17
+Kabum,"Placa de Video Gigabyte NVIDIA GeForce GTX 1650 Super + Fonte Gigabyte 450W, 80 Plus Bronze",Gigabyte,"R$ 1.811,65","R$ 1.539,90",2020-12-17
+Kabum,"Kit Placa de Ví­deo Gigabyte GTX 1650 + Fonte Gigabyte 550W, 80 Plus Bronze",Gigabyte,"R$ 1.494,00","R$ 1.269,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super, 8GB, GDDR6 - GV-N206SGAMING-8GD",Gigabyte,"R$ 3.601,06","R$ 3.060,90",2020-12-17
+Kabum,Placa de Vídeo VGA Gigabyte AMD Radeon R9 380X G1 Gaming 4G - GV-R938XG1 GAMING-4GD,Gigabyte,"R$ 1.077,53","R$ 915,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti Gaming OC 6G, GDDR6 - GV-N166TGAMING OC-6GD",Gigabyte,"R$ 2.705,76","R$ 2.299,90",2020-12-17
+Kabum,Placa de Vídeo VGA AMD GIGABYTE RADEON RX 470 G1 Gaming 4G - GV-RX470G1 GAMING-4GD,Gigabyte,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WINDFORCE OC 4G, GDDR5 - GV-N1650WF2OC-4GD",Gigabyte,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WINDFORCE OC 4G, GDDR5 - GV-N1650WF2OC-4GD",Gigabyte,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070 SUPER GAMING OC 3X 8G, GDDR6 - GV-N207SGAMING OC-8GD",Gigabyte,"R$ 5.058,71","R$ 4.299,90",2020-12-17
+Kabum,Placa de Vídeo VGA AMD GIGABYTE RADEON RX 470 G1 Gaming 4G - GV-RX470G1 GAMING-4GD,Gigabyte,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1060 Mini ITX OC 6G, GDDR5 - GV-N1060IXOC-6GD",Gigabyte,"R$ 1.929,29","R$ 1.639,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 OC Low Profile 4G, 4GB, GDDR6 - GV-N1656OC-4GL",Gigabyte,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2080 Super Gaming OC White, 8GB, GDDR6 - GV-N208SGAMINGOC WHITE-8GD",Gigabyte,"R$ 4.823,41","R$ 4.099,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 2GB, GDDR5 - GV-N1050D5-2GD",Gigabyte,"R$ 726,36","R$ 617,41",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, GAMING OC - GV-N306TGAMING OC-8GD",Gigabyte,"R$ 4.588,12","R$ 3.899,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming OC 3x White, 8GB, GDDR6, REV 2.0 - GV-N206SGAMINGOC WHITE-8GD REV2.0",Gigabyte,"R$ 3.588,12","R$ 3.049,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Super Gaming OC, 6GB, GDDR6 - GV-N166SGAMING OC-6GD",Gigabyte,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super + SSD Gigabyte 120GB, SATA",Gigabyte,"R$ 1.729,29","R$ 1.469,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX, 6GB, GDDR6 - GV-N2060IX-6GD",Gigabyte,"R$ 2.658,71","R$ 2.259,90",2020-12-17
+Kabum,Placa de Vídeo VGA NVIDIA GIGABYTE GEFORCE GT 1030 2GB OC GDDR5 GV-N1030OC-2GI,Gigabyte,"R$ 705,76","R$ 599,90",2020-12-17
+Kabum,Placa de Vídeo VGA Gigabyte GeForce GTX 960 G1 Gaming 2GB DDR5 128 Bit PCI-Express 3.0 GV-N960G1 GAMING-2GD,Gigabyte,"R$ 1.591,91","R$ 1.353,12",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 D6 6G, GDDR6 - GV-N2060D6-6GD",Gigabyte,"R$ 2.705,76","R$ 2.299,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 OC 6G, GDDR5 - GV-N1660OC-6GD",Gigabyte,"R$ 2.294,00","R$ 1.949,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC, 4GB, GDDR6 - GV-R55XTGAMING OC-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC 4G, GDDR5 - GV-N1650OC-4GD",Gigabyte,"R$ 1.705,76","R$ 1.449,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1060 WindForce OC 6G, GDDR5 - GV-N1060WF2OC-6GD",Gigabyte,"R$ 1.294,00","R$ 1.099,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte AMD Radeon RX 570 Gaming, 4GB, GDDR5, REV 2.0 - GV-RX570GAMING-4GD",Gigabyte,"R$ 1.646,94","R$ 1.399,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming OC 3x, 8GB, GDDR6 REV 2.0 - GV-N206SGAMING OC-8GD",Gigabyte,"R$ 3.858,71","R$ 3.279,90",2020-12-17
+Kabum,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, EAGLE OC - GV-N306TEAGLE OC-8GD",Gigabyte,"R$ 4.470,47","R$ 3.799,90",2020-12-17
+Kabum,"Placa de Vídeo Husky AMD Radeon RX560, 4GB, GDDR5 - AHRX56045F",Husky,"R$ 823,41","R$ 699,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2060 Super Ventus GP OC, 8GB, GDDR6 - Geforce RTX 2060 Super Ventus GP OC",MSI,"R$ 3.616,35","R$ 3.073,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2080 Ti Gaming X Trio 11GB, GDDR6",MSI,"R$ 10.774,00","R$ 9.157,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 580 Armor MK2 8G OC, GDDR5",MSI,"R$ 1.011,65","R$ 859,90",2020-12-17
+Kabum,Placa de Vídeo MSI Geforce RTX 3070 Ventus 2X OC,MSI,"R$ 5.517,53","R$ 4.689,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce RTX 2060 Ventus XS 6G OC, 6GB, GDDR6 - GeForce RTX 2060 VENTUS XS 6G OC",MSI,"R$ 2.764,59","R$ 2.349,90",2020-12-17
+Kabum,"Placa de Vídeo MSI Radeon RX 6800, 16G, GDDR6",MSI,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 Super Gaming X, 4GB, GDDR6 - GeForce GTX 1650 Super GAMING X",MSI,"R$ 1.659,88","R$ 1.410,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3080 Ventus 3X 10G OC, GDDR6X",MSI,"R$ 7.058,71","R$ 5.999,90",2020-12-17
+Kabum,Placa de Vídeo MSI GeForce RTX 3060 Ti GAMING X TRIO,MSI,"R$ 4.658,71","R$ 3.959,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 570 Armor 4G OC, GDDR5",MSI,"R$ 782,24","R$ 664,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1060 IGamer 6G OC, GDDR5",MSI,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 1030 2GD4 LP OC 2GB, DDR4 - 912-V809-2826",MSI,"R$ 588,12","R$ 499,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 Ventus XS 4G OC, 4GB, GDDR6 - GeForce GTX 1650 D6 VENTUS XS OC",MSI,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,Placa de Vídeo MSI NVIDIA Geforce RTX 3070 Gaming X Trio,MSI,"R$ 5.882,24","R$ 4.999,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1660 Super Ventus XS OC, 6GB, GDDR6",MSI,"R$ 2.235,18","R$ 1.899,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1050 Ti 4GT OC 4GB, GDDR5",MSI,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Gaming X, 8GB, GDDR6",MSI,"R$ 3.877,53","R$ 3.295,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GTX 1050 TI 4G OCV1, 4GB, GDDR5 - GeForce GTX 1050 Ti 4G OCV1",MSI,"R$ 1.176,35","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5600 XT Mech OC, 6GB, GDDR6 - Radeon RX 5600 XT Mech OC",MSI,"R$ 2.649,29","R$ 2.251,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA GeForce GT 710 2GD3H LP 2GB, DDR3",MSI,"R$ 361,06","R$ 306,90",2020-12-17
+Kabum,Placa de Vídeo MSI NVIDIA Geforce RTX 3070 Ventus 3X OC,MSI,"R$ 5.611,65","R$ 4.769,90",2020-12-17
+Kabum,"Placa de Vídeo MSI NVIDIA Geforce RTX 3090 Gaming X Trio 24G, GDDR6X",MSI,"R$ 15.705,76","R$ 13.349,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 MECH GP OC, 8GB, GDDR6",MSI,"R$ 3.294,00","R$ 2.799,90",2020-12-17
+Kabum,"Placa de Vídeo MSI AMD Radeon RX 5700 XT Evoke OC, 8GB, GDDR6 - Radeon RX 5700 XT EVOKE OC",MSI,"R$ 2.882,24","R$ 2.449,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon R5 230, 2GB, DDR3 - PA230R56402D3LP",PCYes,"R$ 235,18","R$ 199,90",2020-12-17
+Kabum,Placa de Vídeo VGA AMD PcYes RADEON R7 265 2GB GDDR5 256Bits Boost Clock Hammer X Dual-FAN O265QM2G2M,PCYes,"R$ 647,64","R$ 550,49",2020-12-17
+Kabum,Placa de Vídeo PCYes NVIDIA GeForce GTX 1050 Ti 4GB GDDR5 - PA1050TI12804G5DF,PCYes,"R$ 1.151,65","R$ 978,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon R7 240 2GB, DDR5 - PW240R712802D5",PCYes,"R$ 388,12","R$ 329,90",2020-12-17
+Kabum,"Placa de Vídeo PCYes AMD Radeon RX 550, 4GB, GDDR5 - PJRX55004128G5SF",PCYes,"R$ 941,06","R$ 799,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P1000, 4GB, GDDR5 - VCQP1000V2-PB",Pny,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 3080 XLR8, 10GB, GDDR6X - VCG308010TFXMPB",Pny,"R$ 8.526,94","R$ 7.247,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA GeForce RTX 2080 Ti Blower, 11GB, GDDR6 - VCG2080T11BLP-BLK",Pny,"R$ 10.588,12","R$ 8.999,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P4000 8GB, GDDR5 - VCQP4000",Pny,"R$ 6.623,41","R$ 5.629,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro RTX 4000 8GB, GDDR6 - VCQRTX4000-PB",Pny,"R$ 9.341,06","R$ 7.939,90",2020-12-17
+Kabum,Placa de Vídeo VGA PNY GeForce GTX 750 1GB DDR5 128 Bits 5400MHZ DVI/DVI/MHDMI VCGGTX7501XPB-PORT,Pny,"R$ 505,76","R$ 429,90",2020-12-17
+Kabum,"Placa de Video PNY NVIDIA Quadro NVS 810 4GB, DDR3 - VCNVS810DVI",Pny,"R$ 6.446,94","R$ 5.479,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P620, 2GB, GDDR5 - VCQP620V2-PORPB",Pny,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P400 2GB, GDDR5 - VCQP400",Pny,"R$ 1.302,24","R$ 1.106,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P1000 4GB, GDDR5 - VCQP1000V2",Pny,"R$ 2.823,41","R$ 2.399,90",2020-12-17
+Kabum,"Placa de Vídeo PNY NVIDIA Quadro P2000, 5GB, GDDR5 - VCQP2000",Pny,"R$ 4.576,35","R$ 3.889,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 5500 XT, 8GB, GDDR6 - 8GBD6-DHR/OC 1A1-G00323900G",Powercolor,"R$ 2.152,82","R$ 1.829,90",2020-12-17
+Kabum,"Placa de Vídeo Power Color AMD RX 5500 XT, 4GB, GDDR6 - G00325600G",Powercolor,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5600 XT, 6GB, GDDR6 - AXRX 5600XT 6GBD6-3DHV2/OC",Powercolor,"R$ 2.211,65","R$ 1.879,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 470 Red Dragon 4GB, GDDR5 - AXRX 470 4GBD5-3DHD/OC",Powercolor,"R$ 1.929,29","R$ 1.639,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon RX 5700 XT, 8GB, GDDR6 - AXRX 5700XT 8GBD6-3DH",Powercolor,"R$ 3.294,00","R$ 2.799,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 550 2GB, GDDR5 - AXRX 550 2GBD5-DHA/OC",Powercolor,"R$ 941,06","R$ 799,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor AMD Radeon Red Devil RX 5700, 8GB, GDDR6 - AXRX 5700 8GBD6-3DHE/OC",Powercolor,"R$ 3.335,18","R$ 2.834,90",2020-12-17
+Kabum,"Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 570, 8GB, GDDR5 - AXRX 570 8GBD5-DHDV3/OC",Powercolor,"R$ 1.588,12","R$ 1.349,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Rise até 2 Placas RM-SV-01-BK,Rise Mode,"R$ 28,12","R$ 23,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Ice Cold RM-SV-01-IC,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Small Black RM-SV-02-SB,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Rise Transparente RM-SV-01-AQ,Rise Mode,"R$ 26,56","R$ 23,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo VGA Rise Mode lv2 Full Black RM-SV-03-FB,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Hell RM-SV-01-HL,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Vídeo RISE LV2 Small Black and White RM-SV-04-BW,Rise Mode,"R$ 42,24","R$ 35,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Smoke RM-SV-01-SM,Rise Mode,"R$ 29,29","R$ 24,90",2020-12-17
+Kabum,Suporte para Placa de Video Rise Mode Small Aqua RM-SV-02-SA,Rise Mode,"R$ 28,12","R$ 23,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 570, 8GB, GDDR5 - 11266-66-20G",Sapphire,"R$ 1.882,24","R$ 1.599,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5700 XT, 8GB, GDDR6 BE - 11293-09-20G",Sapphire,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Radeon GPRO 6200 4GB, GDDR5 - 32258-00-21G",Sapphire,"R$ 1.732,82","R$ 1.472,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Radeon RX 6800, 16GB, GDDR6, PCI-E HDMI, Dual DP, USB-C - 21305-01-20G",Sapphire,"R$ 5.646,94","R$ 4.799,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 590, 8GB, GDDR5 - 11289-06-20G",Sapphire,"R$ 1.294,00","R$ 1.099,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5600 XT BE, 6GB, GDDR6 - 11296-05-20G",Sapphire,"R$ 2.470,47","R$ 2.099,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Pulse RX 550 4G G5 640SP, 4GB, GDDR5 - 11268-15-20G",Sapphire,"R$ 882,24","R$ 749,90",2020-12-17
+Kabum,Placa de Video VGA Sapphire R9 390 8GB NITRO TRI-X OC DDR5 11244-00-20G,Sapphire,"R$ 2.406,91","R$ 2.045,87",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse AMD Radeon RX 5500 XT, 8GB, GDDR6 - 11295-01-20G",Sapphire,"R$ 1.870,47","R$ 1.589,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Radeon RX 5700 XT 8GB, GDDR6 - 11293-01-20G",Sapphire,"R$ 3.646,94","R$ 3.099,90",2020-12-17
+Kabum,Placa de Video VGA AMD Sapphire RADEON NITRO+ RX 580 4GB GDDR5 PCI-E 11265-07-20G,Sapphire,"R$ 1.111,00","R$ 999,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Pulse RX 5600 XT, 6GB, GDDR6 - 11296-01-20G",Sapphire,"R$ 2.823,41","R$ 2.399,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire AMD Radeon NITRO+ RX 5700 XT, 8G, GDDR6 - 11293-03-40G",Sapphire,"R$ 3.882,24","R$ 3.299,90",2020-12-17
+Kabum,"Placa de Vídeo Sapphire Pulse Lite Edition AMD RX 580, 8GB, GDDR5 - 11265-67-20G",Sapphire,"R$ 1.801,06","R$ 1.530,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 550 2GB Core, GDDR5 - RX-550P2SFG5",XFX,"R$ 484,59","R$ 411,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD One Series 2GB 6570 Plus, DDR3 - ON-XFX1-PLUS",XFX,"R$ 266,94","R$ 226,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC II Pro, 6GB, GDDR6 - RX-56XT6DFD6",XFX,"R$ 2.470,47","R$ 2.099,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5700 XT THICC II 8GB, GDDR6 - RX-57XT8DFD6",XFX,"R$ 3.764,59","R$ 3.199,90",2020-12-17
+Kabum,Placa de Vídeo VGA AMD XFX RADEON RX 570 4GB RS XXX ED OC+ DDR5 1284Mhz RX-570P4DFD6,XFX,"R$ 1.388,12","R$ 1.179,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC II PRO, 6GB, GDDR6 - RX-56XT6DF46",XFX,"R$ 2.235,18","R$ 1.899,90",2020-12-17
+Kabum,"Placa de Video XFX AMD Radeon RX 5700, 8GB, GDDR6 - RX-57XL8MFG6",XFX,"R$ 3.529,29","R$ 2.999,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5600 XT THICC III Ultra, 6GB, GDDR6 - RX-56XT6TBD8",XFX,"R$ 2.117,53","R$ 1.799,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 570 RS XXX Edition, 8GB, DDR5 - RX-570P8DFD6",XFX,"R$ 1.058,71","R$ 899,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5700 XT Triple Dissipation, 8GB, GDDR6 - RX-57XT83LD8",XFX,"R$ 3.411,65","R$ 2.899,90",2020-12-17
+Kabum,"Placa de Vídeo XFX AMD Radeon RX 5500 XT THICC II Pro, 8GB, GDDR6 - RX-55XT8DFD6",XFX,"R$ 2.235,18","R$ 1.899,90",2020-12-17
+Kabum,Placa de Vídeo VGA Zotac GeForce GTX 960 2GB Entusiasta DDR5 128 bit ZT-90301-10M,Zotac,"R$ 976,35","R$ 829,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 Low Profile, 4GB, GDDR5 - ZT-T16500H-10L",Zotac,"R$ 1.317,53","R$ 1.119,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1650 4GB, GDDR5 - ZT-T16500F-10L",Zotac,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2070 Super Mini, 8GB, GDDR6 - ZT-T20710E-10M",Zotac,"R$ 4.023,41","R$ 3.419,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac GeForce RTX 3080, 10GB, GDDR6X - ZT-A30800J-10P",Zotac,"R$ 7.112,82","R$ 6.045,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600H-10M",Zotac,"R$ 2.823,41","R$ 2.399,90",2020-12-17
+Kabum,Placa de Vídeo VGA Zotac GeForce GT 740 LP 1GB DDR5 128 bit PCI-Express x16 ZT-71003-10L,Zotac,"R$ 555,18","R$ 471,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1060 3GB, GDDR5 - ZT-P10610A-10L",Zotac,"R$ 905,76","R$ 769,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1660 Twin Fan 6GB, GDDR5 - ZT-T16600F-10L",Zotac,"R$ 1.529,29","R$ 1.299,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GTX 1050 Mini 2GB, GDDR5 - ZT-P10500A-10L",Zotac,"R$ 694,00","R$ 624,60",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1660 Super Twin Fan, 6GB, GDDR6 - ZT-T16620F-10L",Zotac,"R$ 2.065,76","R$ 1.755,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2060 SUPER AMP 8GB, GDDR6 - ZT-T20610D-10P",Zotac,"R$ 3.635,18","R$ 3.089,90",2020-12-17
+Kabum,Placa de Vídeo Zotac NVIDIA GeForce GTX 1660 Ti Twin Fan - ZT-T16610F-10L,Zotac,"R$ 2.352,82","R$ 1.999,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600K-10M",Zotac,"R$ 2.658,71","R$ 2.259,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3080, 10GB, GDDR6X - ZT-A30800D-10P",Zotac,"R$ 6.588,12","R$ 5.599,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce RTX 2060 SUPER Mini 8GB, GDDR6 - ZT-T20610E-10M",Zotac,"R$ 3.352,82","R$ 2.849,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 OC, 4GB, GDDR6 - ZT-T16520F-10L",Zotac,"R$ 1.411,65","R$ 1.199,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac NVIDIA GeForce GT 730 4GB Zone, DDR3 - ZT-71115-20L",Zotac,"R$ 725,76","R$ 616,90",2020-12-17
+Kabum,"Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 Super Twin Fan, 4GB, GDDR6 - ZT-T16510F-10L",Zotac,"R$ 1.418,71","R$ 1.205,90",2020-12-17
+Kabum,Placa de Vídeo VGA Zotac GeForce GT 740 1GB DDR5 128 bit PCI-Express 3.0 x16 ZT-71002-10L,Zotac,"R$ 517,89","R$ 440,21",2020-12-17
