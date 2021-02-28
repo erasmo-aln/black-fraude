@@ -22,7 +22,8 @@ def fonte_clean(csv_path):
 
         # Extraindo SKU
         if df['marca'][indice] == 'Brazil PC':
-            sku = re.search(r"[Bb][Pp][Cc].[0-9]+\w+", descricao).group()
+            sku = re.search(r"[Bb][Pp][Cc].[0-9]+\w+", descricao)
+            sku = sku.group() if sku is not None else 'NaN'
         else:
             sku = descricao.split(' ')[-1].strip('()')
 
@@ -157,14 +158,15 @@ def hd_clean(csv_path):
 
     hd = {'capacidade': [],
           'sku': []}
-
+ 
     for indice, descricao in enumerate(df['descricao']):
         # Mudando valores para floats
         df['cartao'][indice] = float(df['cartao'][indice].replace('R$ ', '').replace('.', '').replace(',', '.'))
         df['boleto'][indice] = float(df['boleto'][indice].replace('R$ ', '').replace('.', '').replace(',', '.'))
 
         # Extraindo capacidade
-        capacidade = re.search(r"[0-9]+[Tt][Bb]", descricao).group()
+        capacidade = re.search(r"[0-9]+[Tt][Bb]", descricao)
+        capacidade = capacidade.group() if capacidade is not None else 'NaN'
 
         # Extraindo SKU
         sku = descricao.split(' ')[-1]
@@ -475,7 +477,8 @@ def ssd_clean(csv_path):
         descricao = re.sub(fr'^.*?{marca}\s?', '', descricao, flags=re.I).strip(' ,')
 
         # Extraindo Capacidade
-        capacidade = re.search(r'[0-9]+\s?[GgTt][Bb]', descricao).group()
+        capacidade = re.search(r'[0-9]+\s?[GgTt][Bb]', descricao)
+        capacidade = capacidade.group() if capacidade is not None else 'NaN'
         descricao = descricao.replace(capacidade, '')
 
         # Extraindo Leitura

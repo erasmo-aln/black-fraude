@@ -87,7 +87,8 @@ for website in lista_sites:
             total_execution_time += execution_time
 
             if len(botao):
-                botao[0].click()
+                driver.execute_script("arguments[0].click();", botao[0])
+                # botao[0].click()
                 time.sleep(2)
                 pagina += 1
             else:
