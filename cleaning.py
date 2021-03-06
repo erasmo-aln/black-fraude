@@ -5,37 +5,18 @@ from datetime import date
 import numpy as np
 import pandas as pd
 import sqlalchemy
+import uuid
 
 import utils
+import variables
 
-categorias = os.listdir('data')
-colunas = {'fonte': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'potencia'],
-           'gpu': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'modelo', 'memoria', 'gddr'],
-           'hd': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'capacidade'],
-           'placamae': ['id', 'code', 'site', 'descricao', 'marca', 'modelo', 'tamanho', 'entrada', 'socket'],
-           'processador': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'modelo', 'cache', 'frequencia', 'socket'],
-           'ram': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'entrada', 'frequencia', 'capacidade'],
-           'ssd': ['id', 'code', 'sku', 'site', 'descricao', 'marca', 'modelo', 'capacidade', 'entrada', 'leitura', 'escrita']}
 
-RDBMS = 'postgresql'
-USERNAME = os.getenv('DBUS')
-PASSWORD = os.getenv('DBPW')
-HOST = 'localhost'
-DATABASE = os.getenv('DBNAME')
+engine = sqlalchemy.create_engine(
+    f"{variables.RDBMS}://{variables.USERNAME}:{variables.PASSWORD}@{variables.HOST}/{variables.DATABASE}"
+)
 
-engine = sqlalchemy.create_engine(f"{RDBMS}://{USERNAME}:{PASSWORD}@{HOST}/{DATABASE}")
 con = engine.connect()
 
-siglas = {'Kabum': 'KB',
-          'Terabyte Shop': 'TB',
-          'Pichau': 'PC',
-          'fonte': 'FT',
-          'gpu': 'GP',
-          'hd': 'HD',
-          'placamae': 'MB',
-          'processador': 'PR',
-          'ram': 'RM',
-          'ssd': 'SD'}
 
 for csv in categorias:
     print(f'Starting: {csv}')

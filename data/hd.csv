@@ -1,29 +1,39 @@
-site,descricao,marca,cartao,boleto,data
-Kabum,"HD WD Blue, 1TB, 3.5´, SATA - WD10EZEX",WD,"R$ 341,06","R$ 289,90",2021-02-28
-Kabum,"HD Seagate BarraCuda, 1TB, 3.5´, SATA - ST1000DM010",Seagate,"R$ 423,41","R$ 359,90",2021-02-28
-Kabum,"HD Seagate BarraCuda, 2TB, 3.5´, SATA - ST2000DM008",Seagate,"R$ 521,06","R$ 442,90",2021-02-28
-Kabum,"HD Toshiba P300, 1TB, 3.5´, SATA - HDWD110UZSVA",Toshiba,"R$ 317,53","R$ 269,90",2021-02-28
-Kabum,"HD Seagate BarraCuda, 4TB, 3.5´, SATA - ST4000DM004",Seagate,"R$ 741,06","R$ 629,90",2021-02-28
-Kabum,"HD WD Blue, 2TB, 3.5´, SATA 6.0Gb/s - WD20EZAZ",WD,"R$ 409,29","R$ 347,90",2021-02-28
-Kabum,"HD WD Blue, 4TB, 3.5´, SATA - WD40EZRZ",WD,"R$ 671,65","R$ 570,90",2021-02-28
-Kabum,"HD Seagate SkyHawk AI, 10TB, SATA - ST10000VE0008",Seagate,"R$ 2.218,71","R$ 1.885,90",2021-02-28
-Kabum,"HD Seagate Exos 7E8, 1TB, SATA - ST1000NM000A",Seagate,"R$ 815,18","R$ 692,90",2021-02-28
-Kabum,"HD Seagate Surveillance SkyHawk, 3TB, 3.5´, SATA - ST3000VX009",Seagate,"R$ 603,41","R$ 512,90",2021-02-28
-Kabum,"HD Seagate SATA 3,5´ BarraCuda 3TB 5400RPM 256MB Cache SATA 6Gb/s - ST3000DM007",Seagate,"R$ 661,06","R$ 561,90",2021-02-28
-Kabum,"HD Seagate Exos 7E8, 4TB, SAS - ST4000NM003A",Seagate,"R$ 1.490,47","R$ 1.266,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 4TB, 3.5´, Sata - HDWE140XZSTA",Toshiba,"R$ 929,29","R$ 789,90",2021-02-28
-Kabum,"HD Seagate IronWolf Pro, 6TB, SATA -  ST6000NE000",Seagate,"R$ 1.598,71","R$ 1.358,90",2021-02-28
-Kabum,HD WD SATA 3.5´ Purple Surveillance 12TB 7200RPM 256MB Cache SATA 6.0Gb/s - WD121PURZ,WD,"R$ 3.650,47","R$ 3.102,90",2021-02-28
-Kabum,"HD Seagate Exos 7E8, 2TB, SAS - ST2000NM003A",Seagate,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 8TB, 3.5´, Sata - HDWR180XZSTA",Toshiba,"R$ 1.744,59","R$ 1.482,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 6TB, 3.5´, Sata - HDWR160XZSTA",Toshiba,"R$ 1.321,06","R$ 1.122,90",2021-02-28
-Kabum,"HD WD Red NAS, 8TB, 3.5´, SATA - WD80EFAX",WD,"R$ 2.588,12","R$ 2.199,90",2021-02-28
-Kabum,"HD Seagate IronWolf, 12TB, SATA - ST12000VN0008",Seagate,"R$ 4.235,18","R$ 3.599,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 10TB, 3.5´, Sata - HDWR11AXZSTA",Toshiba,"R$ 2.737,53","R$ 2.326,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 12TB, 3.5´, Sata - HDWR21CXZSTA",Toshiba,"R$ 3.562,24","R$ 3.027,90",2021-02-28
-Kabum,"HD Toshiba Performance X300, 14TB, 3.5´, Sata - HDWR21EXZSTA",Toshiba,"R$ 4.388,12","R$ 3.729,90",2021-02-28
-Kabum,"HD Seagate Exos 7E8, 2TB, SATA - ST2000NM000A",Seagate,"R$ 1.070,47","R$ 909,90",2021-02-28
-Kabum,"HD Seagate Exos 7E8, 8TB, SATA - ST8000NM000A",Seagate,"R$ 2.823,41","R$ 2.399,90",2021-02-28
-Kabum,"HD Seagate BarraCuda, 2TB, 3.5´, SATA - ST2000DM006",Seagate,"R$ 344,59","R$ 292,90",2021-02-28
-Kabum,"HD Seagate Skyhawk Surveillance, 8TB, SATA - ST8000VX004",Seagate,"R$ 2.218,71","R$ 1.885,90",2021-02-28
-Kabum,"Dock Station Maxprint para HD 2,5/3,5 Sata 1 Baia - 60000021",Maxprint,"R$ 162,00","R$ 162,00",2021-02-28
+id,code,sku,site,descricao,marca,capacidade
+0,KB-HD-0,ST2000DM008,Kabum,"HD Seagate BarraCuda, 2TB, 3.5´, SATA - ST2000DM008",Seagate,2TB
+1,KB-HD-1,ST1000DM010,Kabum,"HD Seagate BarraCuda, 1TB, 3.5´, SATA - ST1000DM010",Seagate,1TB
+2,KB-HD-2,WD20EZAZ,Kabum,"HD Western Digital Blue, 2TB, 3.5´, SATA 6.0Gb/s - WD20EZAZ",Western Digital,2TB
+3,KB-HD-3,WD40EZRZ,Kabum,"HD WD Blue, 4TB, 3.5´, SATA - WD40EZRZ",Western Digital,4TB
+4,KB-HD-4,ST4000DM004,Kabum,"HD Seagate BarraCuda, 4TB, 3.5´, SATA - ST4000DM004",Seagate,4TB
+5,KB-HD-5,WD10EZEX,Kabum,"HD WD Blue, 1TB, 3.5´, SATA - WD10EZEX",Western Digital,1TB
+6,KB-HD-6,HDWD110UZSVA,Kabum,"HD Toshiba P300, 1TB, 3.5´, SATA - HDWD110UZSVA",Toshiba,1TB
+7,KB-HD-7,ST12000VN0008,Kabum,"HD Seagate IronWolf, 12TB, SATA - ST12000VN0008",Seagate,12TB
+8,KB-HD-8,ST2000NM000A,Kabum,"HD Seagate Exos 7E8, 2TB, SATA - ST2000NM000A",Seagate,2TB
+9,KB-HD-9,WD80EFAX,Kabum,"HD WD Red NAS, 8TB, 3.5´, SATA - WD80EFAX",Western Digital,8TB
+10,KB-HD-10,ST2000NM003A,Kabum,"HD Seagate Exos 7E8, 2TB, SAS - ST2000NM003A",Seagate,2TB
+11,KB-HD-11,ST4000NM003A,Kabum,"HD Seagate Exos 7E8, 4TB, SAS - ST4000NM003A",Seagate,4TB
+12,KB-HD-12,ST8000NM000A,Kabum,"HD Seagate Exos 7E8, 8TB, SATA - ST8000NM000A",Seagate,8TB
+13,KB-HD-13,ST1000NM000A,Kabum,"HD Seagate Exos 7E8, 1TB, SATA - ST1000NM000A",Seagate,1TB
+14,KB-HD-14,WD121PURZ,Kabum,HD WD SATA 3.5´ Purple Surveillance 12TB 7200RPM 256MB Cache SATA 6.0Gb/s - WD121PURZ,Western Digital,12TB
+15,KB-HD-15,WD20EZRZ,Kabum,"HD WD Blue, 2TB, 3.5´, SATA - WD20EZRZ",Western Digital,2TB
+16,KB-HD-16,ST3000VX009,Kabum,"HD Seagate Surveillance SkyHawk, 3TB, 3.5´, SATA - ST3000VX009",Seagate,3TB
+17,KB-HD-17,ST1000DX001,Kabum,"SSHD Seagate SATA 3,5´ Híbrido (8GB SSD) 1TB 7200RPM 64MB Cache Sata 6Gb/s - ST1000DX001",Seagate,1TB
+18,KB-HD-18,ST2000DM006,Kabum,"HD Seagate BarraCuda, 2TB, 3.5´, SATA - ST2000DM006",Seagate,2TB
+19,KB-HD-19,ST3000DM007,Kabum,"HD Seagate SATA 3,5´ BarraCuda 3TB 5400RPM 256MB Cache SATA 6Gb/s - ST3000DM007",Seagate,3TB
+20,KB-HD-20,ST12000VX0008,Kabum,"HD Seagate Surveillance, 12TB, SATA - ST12000VX0008",Seagate,12TB
+21,KB-HD-21,ST10000VE0008,Kabum,"HD Seagate SkyHawk AI, 10TB, SATA - ST10000VE0008",Seagate,10TB
+22,KB-HD-22,ST6000NE000,Kabum,"HD Seagate IronWolf Pro, 6TB, SATA -  ST6000NE000",Seagate,6TB
+23,KB-HD-23,ST8000VX004,Kabum,"HD Seagate Skyhawk Surveillance, 8TB, SATA - ST8000VX004",Seagate,8TB
+24,KB-HD-24,WD10EZEX,Kabum,"HD WD Blue, 1TB, 3.5´, SATA - WD10EZEX",WD,1TB
+25,KB-HD-25,WD40EZRZ,Kabum,"HD WD Blue, 4TB, 3.5´, SATA - WD40EZRZ",WD,4TB
+26,KB-HD-26,WD20EZAZ,Kabum,"HD Western Digital Blue, 2TB, 3.5´, SATA 6.0Gb/s - WD20EZAZ",WD,2TB
+27,KB-HD-27,WD121PURZ,Kabum,HD WD SATA 3.5´ Purple Surveillance 12TB 7200RPM 256MB Cache SATA 6.0Gb/s - WD121PURZ,WD,12TB
+28,KB-HD-28,WD80EFAX,Kabum,"HD WD Red NAS, 8TB, 3.5´, SATA - WD80EFAX",WD,8TB
+29,KB-HD-29,WD20EZRZ,Kabum,"HD WD Blue, 2TB, 3.5´, SATA - WD20EZRZ",WD,2TB
+30,KB-HD-30,WD20EZAZ,Kabum,"HD WD Blue, 2TB, 3.5´, SATA 6.0Gb/s - WD20EZAZ",WD,2TB
+31,KB-HD-31,HDWE140XZSTA,Kabum,"HD Toshiba Performance X300, 4TB, 3.5´, Sata - HDWE140XZSTA",Toshiba,4TB
+32,KB-HD-32,HDWR180XZSTA,Kabum,"HD Toshiba Performance X300, 8TB, 3.5´, Sata - HDWR180XZSTA",Toshiba,8TB
+33,KB-HD-33,HDWR160XZSTA,Kabum,"HD Toshiba Performance X300, 6TB, 3.5´, Sata - HDWR160XZSTA",Toshiba,6TB
+34,KB-HD-34,HDWR11AXZSTA,Kabum,"HD Toshiba Performance X300, 10TB, 3.5´, Sata - HDWR11AXZSTA",Toshiba,10TB
+35,KB-HD-35,HDWR21CXZSTA,Kabum,"HD Toshiba Performance X300, 12TB, 3.5´, Sata - HDWR21CXZSTA",Toshiba,12TB
+36,KB-HD-36,HDWR21EXZSTA,Kabum,"HD Toshiba Performance X300, 14TB, 3.5´, Sata - HDWR21EXZSTA",Toshiba,14TB
+37,KB-HD-37,60000021,Kabum,"Dock Station Maxprint para HD 2,5/3,5 Sata 1 Baia - 60000021",Maxprint,NaN

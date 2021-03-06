@@ -1,3 +1,5 @@
+import os
+
 # Scraping-related variables
 websites = {
     'Kabum': 0,
@@ -8,8 +10,8 @@ websites = {
 # Value = List (or an element) of sub categories
 categories = {
     'Hardware': ['HD', 'PowerSupply', 'RAM', 'GPU', 'Motherboard', 'Processor', 'SSD'],
-    'Peripherals': [],
-    'Notebooks': []
+    'Peripherals': ['Mouse', 'Keyboard', 'Headset', 'Monitor'],
+    'Notebooks': ['Standard', 'Macbook', 'Gamer']
 }
 
 # Key = All sub categories
@@ -42,6 +44,34 @@ links = {
     'SSD': [
         'https://www.kabum.com.br/hardware/ssd-2-5?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
         'https://www.pichau.com.br/hardware/ssd?p=1&product_list_limit=48&product_list_order=name'
+    ],
+    'Mouse': [
+        '',
+        ''
+    ],
+    'Keyboard': [
+        '',
+        ''
+    ],
+    'Headset': [
+        '',
+        ''
+    ],
+    'Monitor': [
+        '',
+        ''
+    ],
+    'Standard': [
+        '',
+        ''
+    ],
+    'Macbook': [
+        '',
+        ''
+    ],
+    'Gamer': [
+        '',
+        ''
     ]
 }
 
@@ -69,7 +99,8 @@ xpaths = {
         ''
     ],
     'Cash': [
-        ".//div[@class=\'sc-fznWqX qatGF\']"
+        ".//div[@class=\'sc-fznWqX qatGF\']",
+        ''
     ]
 }
 
@@ -95,3 +126,10 @@ product_dataframe = {
     'Cash': [],
     'Date': []
 }
+
+# Database credentials
+RDBMS = 'postgresql'
+USERNAME = os.getenv('DBUS')
+PASSWORD = os.getenv('DBPW')
+HOST = 'localhost'
+DATABASE = os.getenv('DBNAME')

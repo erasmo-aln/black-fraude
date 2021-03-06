@@ -1,89 +1,120 @@
-site,descricao,marca,cartao,boleto,data
-Kabum,"Kit Processador AMD Ryzen 9 5900X, Cache 70MB without cooler + Placa-Mãe Gigabyte B450M DS3H, AMD, mATX, DDR4",Amd,"R$ 5.458,71","R$ 4.639,90",2021-02-28
-Kabum,"Processador AMD Ryzen 9 3950X, Cache 64MB, 4700MHz, AM4 - 100-100000051WOF",Amd,"R$ 6.917,53","R$ 5.879,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 3400G, Cache 6MB, 3.7GHz (4.2GHz Max Turbo), AM4 - YD3400C5FHBOX",Amd,"R$ 1.399,88","R$ 1.189,90",2021-02-28
-Kabum,"Processador AMD Ryzen Threadripper 3990X, Cache 256MB, 2.9GHz (4.3GHz Max Turbo), sTRX4, Sem Vídeo - 100-100000163WOF",Amd,"R$ 32.235,18","R$ 27.399,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 5600X, Cache 35MB, 3.7GHz (4.6GHz Max Turbo), AM4 - 100-100000065BOX",Amd,"R$ 2.823,41","R$ 2.399,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100-100000022BOX",Amd,"R$ 1.882,24","R$ 1.599,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 2400G, Cooler Wraith Stealth, Cache 6MB, 3.6GHz (3.9GHz Max Turbo), AM4 - YD2400C5FBBOX",Amd,"R$ 1.421,06","R$ 1.207,90",2021-02-28
-Kabum,"Processador AMD A8 9600 Bristol Ridge, Cache 2MB, 3.1GHz (3.4GHz Max Turbo), AM4 - AD9600AGABBOX",Amd,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Processador AMD Ryzen 9 3900X Cache 64MB 3.8GHz (4.6GHz Max Turbo) AM4, Sem Vídeo - 100-100000023BOX",Amd,"R$ 4.117,53","R$ 3.499,90",2021-02-28
-Kabum,"Processador AMD Ryzen 7 5800X, Cache 36MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100-100000063WOF",Amd,"R$ 3.411,65","R$ 2.899,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 3600 Cache 32MB 3.6GHz(4.2GHz Max Turbo) AM4, Sem Vídeo - 100-100000031BOX",Amd,"R$ 1.646,94","R$ 1.399,90",2021-02-28
-Kabum,"Processador AMD A6-7480 Dual Core, Cache 1MB, 3.8Ghz, FM2+ - AD7480ACABBOX",Amd,"R$ 294,00","R$ 249,90",2021-02-28
-Kabum,"Processador AMD Ryzen Threadripper 3960X, Cache 128MB, 4500MHz, sTRX4 -100-100000010WOF",Amd,"R$ 11.176,35","R$ 9.499,90",2021-02-28
-Kabum,"Processador AMD Ryzen 7 3800XT, Cache 36MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100-100000279WOF",Amd,"R$ 3.011,65","R$ 2.559,90",2021-02-28
-Kabum,Processador AMD Ryzen 7 3800X Cache 32MB 3.9GHz (4.5GHz Max Turbo) AMD4 - 100-100000025BOX,Amd,"R$ 2.552,82","R$ 2.169,90",2021-02-28
-Kabum,"Processador AMD Ryzen 9 5900X, Cache 70MB, 3.7GHz (4.8GHz Max Turbo), AM4 - 100-100000061WOF",Amd,"R$ 4.823,41","R$ 4.099,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 1600, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4 - YD1600BBAFBOX",Amd,"R$ 905,76","R$ 769,90",2021-02-28
-Kabum,"Processador AMD Ryzen 3 3200G, Cache 4MB, 3.6GHz (4GHz Max Turbo), AM4 - YD3200C5FHBOX",Amd,"R$ 1.046,94","R$ 889,90",2021-02-28
-Kabum,"Processador AMD Athlon 3000G Two Core, Cache 5MB, 3500MHz, AM4 - YD3000C6FHBOX",Amd,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 3600XT, Cache 35MB, 3.8GHz (4.5GHz Max Turbo), AM4 - 100-100000281BOX",Amd,"R$ 1.882,24","R$ 1.599,90",2021-02-28
-Kabum,"Processador AMD Ryzen 7 3700X 32MB 3.6GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100-100000071BOX",Amd,"R$ 2.470,47","R$ 2.099,90",2021-02-28
-Kabum,"Processador AMD Ryzen 3 2200G, Cooler Wraith Stealth, Cache 6MB, 3.5GHz (3.7GHz Max Turbo), AM4 - YD2200C5FBBOX",Amd,"R$ 811,65","R$ 689,90",2021-02-28
-Kabum,"Processador Intel Core i5-10400F, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400F",Intel,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,"Processador Intel Core i5-10600K Marvel´s Avengers Collector´s Edition Packaging, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA1200 - BX8070110600KA",Intel,"R$ 2.470,47","R$ 2.099,90",2021-02-28
-Kabum,"Processador Intel Core i7-10700F, Cache 16MB, 2.9GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110700F",Intel,"R$ 2.646,94","R$ 2.249,90",2021-02-28
-Kabum,"Processador Intel Core i9-9900K, 3.6Ghz, 16MB Cache, LGA 1151 - BX806849900K",Intel,"R$ 3.294,00","R$ 2.799,90",2021-02-28
-Kabum,"Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I59600KF",Intel,"R$ 1.529,29","R$ 1.299,90",2021-02-28
-Kabum,"Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I79700KF",Intel,"R$ 2.564,59","R$ 2.179,90",2021-02-28
-Kabum,"Processador Intel Core i9-10900F, Cache 20MB, 2.8GHz (5.2GHz Max Turbo), LGA 1200 - BX8070110900F",Intel,"R$ 3.882,24","R$ 3.299,90",2021-02-28
-Kabum,"Processador Intel Pentium Gold, 8ª Geração Coffee Lake, Cache 4MB, 3.80GHz, LGA 1151 - BX80684G5420",Intel,"R$ 524,74","R$ 524,74",2021-02-28
-Kabum,"Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",Intel,"R$ 1.529,29","R$ 1.299,90",2021-02-28
-Kabum,"Processador Intel Core i9-10900K, Cache 20MB, 3.7GHz (5.3GHz Max Turbo), LGA 1200 - BX8070110900K",Intel,"R$ 4.694,00","R$ 3.989,90",2021-02-28
-Kabum,"Processador Intel Core i9-9900KF Coffee Lake Refresh, Geração, Cache 16MB, 3.6GHz (5.0GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I99900KF",Intel,"R$ 3.411,65","R$ 2.899,90",2021-02-28
-Kabum,"Processador Intel Core i5-9600K Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151 - BX80684I59600K",Intel,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,"Processador Intel Core i7-10700KF, Cache 16MB, 3.8GHz (5.1GHz Max Turbo), LGA 1200 - BX8070110700KF",Intel,"R$ 3.411,65","R$ 2.899,90",2021-02-28
-Kabum,"Processador Intel Core i3-9100F Coffee Lake, Cache 6MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I39100F",Intel,"R$ 718,87","R$ 718,87",2021-02-28
-Kabum,"Processador Intel Core i3-9350KF Coffee Lake, Cache 8MB, 4GHz (4.6GHz Max Turbo), LGA 1151 - BX80684I39350KF",Intel,"R$ 694,00","R$ 589,90",2021-02-28
-Kabum,"Processador Intel Core i9-10900KF, Cache 20MB, 3.7GHz (5.3GHz Max Turbo), LGA 1200 - BX8070110900KF",Intel,"R$ 4.352,82","R$ 3.699,90",2021-02-28
-Kabum,"Processador Intel Core i5-9400F Coffee Lake, Cache 9MB, 2.9GHz (4.1GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I59400F",Intel,"R$ 1.011,65","R$ 859,90",2021-02-28
-Kabum,"Processador Intel Core i7-10700K Marvel´s Avengers Collector´s Edition Packaging, Cache 16MB, 5.1GHz, LGA1200 - BX8070110700KA",Intel,"R$ 3.176,35","R$ 2.699,90",2021-02-28
-Kabum,"Processador Intel Core i7-9700K Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151 - BX80684I79700K",Intel,"R$ 2.588,12","R$ 2.199,90",2021-02-28
-Kabum,"Processador Intel Core i9-10900, Cache 20MB, 2.8GHz, LGA 1200 - BX8070110900",Intel,"R$ 4.082,24","R$ 3.469,90",2021-02-28
-Kabum,"Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",Intel,"R$ 2.705,76","R$ 2.299,90",2021-02-28
-Kabum,Processador AMD APU A6 5400K 3.6Ghz Black Edition AD540KOKHJBOX,Amd,"R$ 129,29","R$ 109,90",2021-02-28
-Kabum,"Processador AMD Ryzen 7 1800X, Cache 20MB, 3.6Ghz (4GHz Max Turbo), AM4 - YD180XBCAEWOF",Amd,"R$ 1.168,32","R$ 1.109,90",2021-02-28
-Kabum,"Processador AMD Ryzen Threadripper 1950X, Hexadeca-Core, Cache 40MB, 3.4GHz (4GHz Max Turbo), TR4 - YD195XA8AEWOF",Amd,"R$ 4.322,11","R$ 3.889,90",2021-02-28
-Kabum,"Processador AMD Ryzen 9 3900XT, Cache 70MB, 4700MHz, AM4 - 100-100000277WOF",Amd,"R$ 4.235,18","R$ 3.599,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 1500X c/ Wraith Spire, Quad Core, Cache 18MB, 3.5GHz (Max Turbo 3.7GHz) AM4 - YD150XBBAEBOX",Amd,"R$ 894,00","R$ 759,90",2021-02-28
-Kabum,Processador AMD Bulldozer FX 8150 Octa Core 3.6GHz 16MB AM3+ FD8150FRGUBOX,Amd,"R$ 842,89","R$ 716,46",2021-02-28
-Kabum,"Processador AMD Ryzen 7 2700X, Cooler Wraith Prism, Cache 20MB, 3.7GHz (4.35GHz Max Turbo), AM4, Sem Vídeo - YD270XBGAFBOX",Amd,"R$ 1.799,88","R$ 1.529,90",2021-02-28
-Kabum,"Processador AMD Ryzen 5 1600, Cooler Wraith Spire, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4, Sem Vídeo - YD1600BBAEBOX",Amd,"R$ 788,12","R$ 669,90",2021-02-28
-Kabum,"Processador AMD FX 8300 Black, Cache 16MB, 3.3GHz (4.2GHz Max Turbo), AM3+ - FD8300WMHKBOX",Amd,"R$ 388,78","R$ 349,90",2021-02-28
-Kabum,"Processador AMD Ryzen Threadripper 3970X, Cache 128MB, 4500MHz, sTRX4 - 100-100000011WOF",Amd,"R$ 16.352,82","R$ 13.899,90",2021-02-28
-Kabum,"Processador Intel Pentium Gold G6400 Processor, Cache 4MB, 4.00 GHz - BX80701G6400",Intel,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Processador Intel Core i3-7100 Kaby Lake, Cache 3MB, 3.9GHz, LGA 1151 - BX80677I37100",Intel,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,"Processador Intel Celeron G5905, Cache 4MB, 3.50 GHz, LGA 1200 - BX80701G5905",Intel,"R$ 364,59","R$ 309,90",2021-02-28
-Kabum,"Processador Intel Core i3-10100, Cache 6MB, 3.6GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110100",Intel,"R$ 1.058,71","R$ 899,90",2021-02-28
-Kabum,"Processador Intel Core i7-7700 Kaby Lake, Cache 8MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151 - BX80677I77700",Intel,"R$ 1.758,47","R$ 1.547,45",2021-02-28
-Kabum,"Processador Intel Core i9-9900KS Coffee Lake Refresh, Geração, Cache 16MB, 4.0GHz (5.0GHz Max Turbo), LGA 1151 - BX80684I99900KS",Intel,"R$ 3.764,59","R$ 3.199,90",2021-02-28
-Kabum,"Processador Intel Core i5-3330 Ivy Bridge, Cache 6MB, 3.0GHz (3.2GHz Max Turbo), LGA1155, Intel HD Graphics 2500 BX80637I53330",Intel,"R$ 864,59","R$ 734,90",2021-02-28
-Kabum,"Processador Intel Core i9-9900k Coffee Lake Refresh 9a Geração, Cache 16MB, 3.6GHz (5.0GHz Max Turbo), LGA 1151 - BX80684I99900K",Intel,"R$ 3.764,59","R$ 3.199,90",2021-02-28
-Kabum,"Processador Intel Core i3-8100 Coffee Lake, Cache 6MB, 3.6GHz, LGA 1151 - BX80684I38100",Intel,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,"Processador Intel Core i7-5820K Haswell-E, Cache 15MB, 3.3GHz (3.6GHz Max Turbo), LGA 2011-v3 BX80648I75820K",Intel,"R$ 2.590,47","R$ 2.201,90",2021-02-28
-Kabum,"Processador Intel Core i9-9920X Skylake, Cache 19.25MB, 3.5GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99920X",Intel,"R$ 6.352,82","R$ 5.399,90",2021-02-28
-Kabum,"Processador Intel Core i5-8400 Coffee Lake, Cache 9MB, 2.8GHz (4GHz Max Turbo), LGA 1151 - BX80684I58400",Intel,"R$ 1.482,24","R$ 1.259,90",2021-02-28
-Kabum,"Processador Intel Core i7-10700K, Cache 16MB, 3.8GHz (5.1GHz Max Turbo), LGA 1200 - BX8070110700K",Intel,"R$ 3.411,65","R$ 2.899,90",2021-02-28
-Kabum,"Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",Intel,"R$ 764,59","R$ 649,90",2021-02-28
-Kabum,"Processador Intel Core i7-7740X Kaby Lake, Cache 8MB, 4.3GHz (4.5GHz Max Turbo), LGA 2066 - BX80677I77740X",Intel,"R$ 2.583,41","R$ 2.195,90",2021-02-28
-Kabum,"Processador Intel Celeron G-5900, Cache 2MB, 3.4GHz, LGA 1200 -  BX80701G5900 ",Intel,"R$ 388,12","R$ 329,90",2021-02-28
-Kabum,"Processador Intel Core i9-10940X Cascade Lake, Cache 19.25MB, 3.3GHz (4.8GHz Max Turbo), LGA 2066 - BX8069510940X ",Intel,"R$ 6.959,88","R$ 5.915,90",2021-02-28
-Kabum,"Processador Intel Core i5-6600K Skylake, Cache 6MB, 3.5GHz (3.9GHz Max Turbo), LGA 1151, Intel HD Graphics 530 BX80662I56600K",Intel,"R$ 1.046,94","R$ 889,90",2021-02-28
-Kabum,"Processador Intel Core i9-9980XE Skylake, Cache 24.75MB, 3GHz (4.5GHz Max Turbo), LGA 2066 - BX80673I99980X",Intel,"R$ 7.999,88","R$ 6.799,90",2021-02-28
-Kabum,"Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",Intel,"R$ 2.823,41","R$ 2.399,90",2021-02-28
-Kabum,"Processador Intel Core i3-9100F Coffee Lake, Cache 6MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I39100F",Intel,"R$ 694,00","R$ 589,90",2021-02-28
-Kabum,"Processador Intel Core i7-5960X, Cache 20MB, 3.0GHz, DDR4 , LGA 2011-v3 BX80648I75960X",Intel,"R$ 4.941,06","R$ 4.199,90",2021-02-28
-Kabum,"Processador Intel Pentium G4560 Kaby Lake, Cache 3MB, 3.5Ghz, LGA 1151 - BX80677G4560",Intel,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Processador Intel Core i7-8700K Coffee Lake, Cache 12MB, 3.7GHz (4.7GHz Max Turbo), LGA 1151 - BX80684I78700K",Intel,"R$ 2.333,22","R$ 2.099,90",2021-02-28
-Kabum,"Processador Intel Core i3-3250 Ivy Bridge, Cache 3MB, 3.5GHz, LGA 1155, Intel HD Graphics 2500 BX80637I33250",Intel,"R$ 870,47","R$ 739,90",2021-02-28
-Kabum,"Processador Intel Celeron G-5920, Cache 2MB, 3.5GHz, LGA 1200 - BX80701G5920",Intel,"R$ 529,29","R$ 449,90",2021-02-28
-Kabum,"Processador Intel Core i9-10900X Cascade Lake, Cache 19.25MB, 3.7GHz (4.7GHz Max Turbo), LGA 2066 - BX8069510900X",Intel,"R$ 5.764,59","R$ 4.899,90",2021-02-28
-Kabum,"Processador Intel Core i5-7400 Kaby Lake, Cache 6MB, 3Ghz (3.5GHz Max Turbo), LGA 1151 - BX80677I57400",Intel,"R$ 949,90","R$ 854,91",2021-02-28
-Kabum,"Processador Intel Core i9-9960X Skylake, Cache 22MB, 3.1GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99960X",Intel,"R$ 9.411,65","R$ 7.999,90",2021-02-28
-Kabum,"Processador Intel Core i7-10700, Cache 16MB, 2.9GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110700",Intel,"R$ 3.176,35","R$ 2.699,90",2021-02-28
-Kabum,"Processador Intel Core i7-6700K, Cache 8MB, Skylake 6a Geração, Quad-Core 4.0GHz LGA 1151 BX80662I76700K",Intel,"R$ 1.517,53","R$ 1.289,90",2021-02-28
-Kabum,"Processador Intel Pentium G5400 Coffee Lake, 8a Geração, Cache 4MB, 3.7Ghz, LGA 1151 - BX80684G5400",Intel,"R$ 635,18","R$ 539,90",2021-02-28
-Kabum,"Processador Intel Core i9-9900X Skylake, Cache 19.25MB, 3.5GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99900X",Intel,"R$ 4.342,24","R$ 3.690,90",2021-02-28
-Kabum,"Processador Intel Core i5-7640X Kaby Lake, Cache 6MB, 4GHz (4.2GHz Max Turbo), LGA 2066 - BX80677I57640X",Intel,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,"Processador Intel Core i9-9940X Skylake, Cache 19.25MB, 3.3GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99940X",Intel,"R$ 6.470,47","R$ 5.499,90",2021-02-28
+id,code,sku,site,descricao,marca,modelo,cache,frequencia,socket
+0,KB-PR-0,100-100000031BOX,Kabum,"Processador AMD Ryzen 5 3600 Cache 32MB 3.6GHz(4.2GHz Max Turbo) AM4, Sem Vídeo - 100-100000031BOX",Amd,Ryzen 5 3600,32MB,3.6GHz(4.2GHz Max Turbo),AM4
+1,KB-PR-1,100-100000065BOX,Kabum,"Processador AMD Ryzen 5 5600X, Cache 35MB, 3.7GHz (4.6GHz Max Turbo), AM4 - 100-100000065BOX",Amd,Ryzen 5 5600X,35MB,3.7GHz (4.6GHz Max Turbo),AM4
+2,KB-PR-2,100-100000163WOF,Kabum,"Processador AMD Ryzen Threadripper 3990X, Cache 256MB, 2.9GHz (4.3GHz Max Turbo), sTRX4, Sem Vídeo - 100-100000163WOF",Amd,Ryzen Threadripper 3990X,256MB,2.9GHz (4.3GHz Max Turbo),sTRX4
+3,KB-PR-3,100-100000023BOX,Kabum,"Processador AMD Ryzen 9 3900X Cache 64MB 3.8GHz (4.6GHz Max Turbo) AM4, Sem Vídeo - 100-100000023BOX",Amd,Ryzen 9 3900X,64MB,3.8GHz (4.6GHz Max Turbo),AM4
+4,KB-PR-4,YD295XA8AFWOF,Kabum,"Processador AMD Ryzen Threadripper 2950X, Cache 32MB, 3.5GHz (4.4GHz Max Turbo), sTR4, Sem Vídeo - YD295XA8AFWOF",Amd,Ryzen Threadripper 2950X,32MB,3.5GHz (4.4GHz Max Turbo),sTR4
+5,KB-PR-5,100-100000025BOX,Kabum,Processador AMD Ryzen 7 3800X Cache 32MB 3.9GHz (4.5GHz Max Turbo) AMD4 - 100-100000025BOX,Amd,Ryzen 7 3800X,32MB,3.9GHz (4.5GHz Max Turbo),NaN
+6,KB-PR-6,100-100000051WOF,Kabum,"Processador AMD Ryzen 9 3950X, Cache 64MB, 4700MHz, AM4 - 100-100000051WOF",Amd,Ryzen 9 3950X,64MB,4700MHz,AM4
+7,KB-PR-7,100-100000279WOF,Kabum,"Processador AMD Ryzen 7 3800XT, Cache 36MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100-100000279WOF",Amd,Ryzen 7 3800XT,36MB,3.8GHz (4.7GHz Max Turbo),AM4
+8,KB-PR-8,100-100000010WOF,Kabum,"Processador AMD Ryzen Threadripper 3960X, Cache 128MB, 4500MHz, sTRX4 -100-100000010WOF",Amd,Ryzen Threadripper 3960X,128MB,4500MHz,sTRX4
+9,KB-PR-9,YD2200C5FBBOX,Kabum,"Processador AMD Ryzen 3 2200G, Cooler Wraith Stealth, Cache 6MB, 3.5GHz (3.7GHz Max Turbo), AM4 - YD2200C5FBBOX",Amd,Ryzen 3 2200G,6MB,3.5GHz (3.7GHz Max Turbo),AM4
+10,KB-PR-10,YD3200C5FHBOX,Kabum,"Processador AMD Ryzen 3 3200G, Cache 4MB, 3.6GHz (4GHz Max Turbo), AM4 - YD3200C5FHBOX",Amd,Ryzen 3 3200G,4MB,3.6GHz (4GHz Max Turbo),AM4
+11,KB-PR-11,100-100000071BOX,Kabum,"Processador AMD Ryzen 7 3700X 32MB 3.6GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100-100000071BOX",Amd,Ryzen 7 3700X,32MB,3.6GHz (4.4GHz Max Turbo),AM4
+12,KB-PR-12,100-100000281BOX,Kabum,"Processador AMD Ryzen 5 3600XT, Cache 35MB, 3.8GHz (4.5GHz Max Turbo), AM4 - 100-100000281BOX",Amd,Ryzen 5 3600XT,35MB,3.8GHz (4.5GHz Max Turbo),AM4
+13,KB-PR-13,100-100000011WOF,Kabum,"Processador AMD Ryzen Threadripper 3970X, Cache 128MB, 4500MHz, sTRX4 - 100-100000011WOF",Amd,Ryzen Threadripper 3970X,128MB,4500MHz,sTRX4
+14,KB-PR-14,AD9700AGABBOX,Kabum,"Processador AMD A10 9700 Bristol Ridge, Cache 2MB, 3.5GHz (3.8GHz Max Turbo), AM4 - AD9700AGABBOX",Amd,A10 9700 Bristol Ridge,2MB,3.5GHz (3.8GHz Max Turbo),AM4
+15,KB-PR-15,YD3400C5FHBOX,Kabum,"Processador AMD Ryzen 5 3400G, Cache 6MB, 3.7GHz (4.2GHz Max Turbo), AM4 - YD3400C5FHBOX",Amd,Ryzen 5 3400G,6MB,3.7GHz (4.2GHz Max Turbo),AM4
+16,KB-PR-16,100-100000022BOX,Kabum,"Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100-100000022BOX",Amd,Ryzen 5 3600X,32MB,3.8GHz (4.4GHz Max Turbo),AM4
+17,KB-PR-17,BX80684I59600KF,Kabum,"Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I59600KF",Intel,Core i5-9600KF Coffee Lake Refresh,9MB,3.7GHz (4.6GHz Max Turbo),LGA 1151
+18,KB-PR-18,BX8070110900KF,Kabum,"Processador Intel Core i9-10900KF, Cache 20MB, 3.7GHz (5.3GHz Max Turbo), LGA 1200 - BX8070110900KF",Intel,Core i9-10900KF,20MB,3.7GHz (5.3GHz Max Turbo),LGA 1200
+19,KB-PR-19,BX8070110600KA,Kabum,"Processador Intel Core i5-10600K Marvel´s Avengers Collector´s Edition Packaging, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA1200 - BX8070110600KA",Intel,Core i5-10600K Marvel´s Avengers Collector´s Edition Packaging,12MB,4.1GHz (4.8GHz Max Turbo),LGA1200
+20,KB-PR-20,BX80677G4560,Kabum,"Processador Intel Pentium G4560 Kaby Lake, Cache 3MB, 3.5Ghz, LGA 1151 - BX80677G4560",Intel,Pentium G4560 Kaby Lake,3MB,3.5Ghz,LGA 1151
+21,KB-PR-21,BX80684I78700,Kabum,"Processador Intel Core i7-8700 Coffee Lake, Cache 12MB, 3.2GHz (4.6GHz Max Turbo), LGA 1151 - BX80684I78700",Intel,Core i7-8700 Coffee Lake,12MB,3.2GHz (4.6GHz Max Turbo),LGA 1151
+22,KB-PR-22,BX80684i79700,Kabum,"Processador Intel Core i7-9700 Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700",Intel,Core i7-9700 Coffee Lake,12MB,3.0GHz (4.7GHz Max Turbo),LGA 1151
+23,KB-PR-23,BX8070110700K,Kabum,"Processador Intel Core i7-10700K, Cache 16MB, 3.8GHz (5.1GHz Max Turbo), LGA 1200 - BX8070110700K",Intel,Core i7-10700K,16MB,3.8GHz (5.1GHz Max Turbo),LGA 1200
+24,KB-PR-24,BX80684I99900K,Kabum,"Processador Intel Core i9-9900k Coffee Lake Refresh 9a Geração, Cache 16MB, 3.6GHz (5.0GHz Max Turbo), LGA 1151 - BX80684I99900K",Intel,Core i9-9900k Coffee Lake Refresh 9a Geração,16MB,3.6GHz (5.0GHz Max Turbo),LGA 1151
+25,KB-PR-25,BX80673I99920X,Kabum,"Processador Intel Core i9-9920X Skylake, Cache 19.25MB, 3.5GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99920X",Intel,Core i9-9920X Skylake,19.25MB,3.5GHz (4.4GHz Max Turbo),LGA 2066
+26,KB-PR-26,BX8070110900,Kabum,"Processador Intel Core i9-10900, Cache 20MB, 2.8GHz, LGA 1200 - BX8070110900",Intel,Core i9-10900,20MB,2.8GHz,LGA 1200
+27,KB-PR-27,BX8070110400,Kabum,"Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",Intel,Core i5-10400,12MB,2.9GHz (4.3GHz Max Turbo),LGA 1200
+28,KB-PR-28,BX8070110850KA,Kabum,"Processador Intel Core i9-10850K Marvel´s Avengers Collector´s Edition Packaging, Cache 20MB 3.6GHz (5.2GHz Max Turbo), LGA1200 - BX8070110850KA",Intel,Core i9-10850K Marvel´s Avengers Collector´s Edition Packaging,20MB,3.6GHz (5.2GHz Max Turbo),LGA1200
+29,KB-PR-29,BX80684I39100F,Kabum,"Processador Intel Core i3-9100F Coffee Lake, Cache 6MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I39100F",Intel,Core i3-9100F Coffee Lake,6MB,3.6GHz (4.2GHz Max Turbo),LGA 1151
+30,KB-PR-30,BX80684I79700K,Kabum,"Processador Intel Core i7-9700K Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151 - BX80684I79700K",Intel,Core i7-9700K Coffee Lake Refresh,12MB,3.6GHz (4.9GHz Max Turbo),LGA 1151
+31,KB-PR-31,BX80673I79800X,Kabum,"Processador Intel Core i7-9800X Skylake, Cache 16.5MB, 3.8GHz (4.5Ghz Max Turbo), LGA 2066 - BX80673I79800X",Intel,Core i7-9800X Skylake,16.5MB,3.8GHz (4.5Ghz Max Turbo),LGA 2066
+32,KB-PR-32,BX8070110700KF,Kabum,"Processador Intel Core i7-10700KF, Cache 16MB, 3.8GHz (5.1GHz Max Turbo), LGA 1200 - BX8070110700KF",Intel,Core i7-10700KF,16MB,3.8GHz (5.1GHz Max Turbo),LGA 1200
+33,KB-PR-33,BX80684I99900KF,Kabum,"Processador Intel Core i9-9900KF Coffee Lake Refresh, Geração, Cache 16MB, 3.6GHz (5.0GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I99900KF",Intel,Core i9-9900KF Coffee Lake Refresh,16MB,3.6GHz (5.0GHz Max Turbo),LGA 1151
+112,KB-PR-112,BX8070110100F,Kabum,"Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",Intel,Core i3-10100F,6MB,4.30 GHz,LGA 1200
+34,KB-PR-34,BX80684I59600K,Kabum,"Processador Intel Core i5-9600K Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151 - BX80684I59600K",Intel,Core i5-9600K Coffee Lake Refresh,9MB,3.7GHz (4.6GHz Max Turbo),LGA 1151
+35,KB-PR-35,BX8070110900F,Kabum,"Processador Intel Core i9-10900F, Cache 20MB, 2.8GHz (5.2GHz Max Turbo), LGA 1200 - BX8070110900F",Intel,Core i9-10900F,20MB,2.8GHz (5.2GHz Max Turbo),LGA 1200
+36,KB-PR-36,BX8070110400F,Kabum,"Processador Intel Core i5-10400F, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400F",Intel,Core i5-10400F,12MB,2.9GHz (4.3GHz Max Turbo),LGA 1200
+37,KB-PR-37,BX8070110900KA,Kabum,"Processador Intel Core i9-10900K Marvel´s Avengers Collector´s Edition Packaging, Cache 20MB, 5.3GHz, LGA1200 - BX8070110900KA",Intel,Core i9-10900K Marvel´s Avengers Collector´s Edition Packaging,20MB,5.3GHz,LGA1200
+38,KB-PR-38,BX80684I79700KF,Kabum,"Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I79700KF",Intel,Core i7-9700KF Coffee Lake Refresh,12MB,3.6GHz (4.9GHz Max Turbo),LGA 1151
+39,KB-PR-39,BX8070110700,Kabum,"Processador Intel Core i7-10700, Cache 16MB, 2.9GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110700",Intel,Core i7-10700,16MB,2.9GHz (4.8GHz Max Turbo),LGA 1200
+40,KB-PR-40,BX8070110700KA,Kabum,"Processador Intel Core i7-10700K Marvel´s Avengers Collector´s Edition Packaging, Cache 16MB, 5.1GHz, LGA1200 - BX8070110700KA",Intel,Core i7-10700K Marvel´s Avengers Collector´s Edition Packaging,16MB,5.1GHz,LGA1200
+41,KB-PR-41,BX80684I59400F,Kabum,"Processador Intel Core i5-9400F Coffee Lake, Cache 9MB, 2.9GHz (4.1GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I59400F",Intel,Core i5-9400F Coffee Lake,9MB,2.9GHz (4.1GHz Max Turbo),LGA 1151
+42,KB-PR-42,BX8070110900K,Kabum,"Processador Intel Core i9-10900K, Cache 20MB, 3.7GHz (5.3GHz Max Turbo), LGA 1200 - BX8070110900K",Intel,Core i9-10900K,20MB,3.7GHz (5.3GHz Max Turbo),LGA 1200
+43,KB-PR-43,BX8070110600K,Kabum,"Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",Intel,Core i5-10600K,12MB,4.1GHz (4.8GHz Max Turbo),LGA 1200
+44,KB-PR-44,BX80701G5920,Kabum,"Processador Intel Celeron G-5920, Cache 2MB, 3.5GHz, LGA 1200 - BX80701G5920",Intel,Celeron G-5920,2MB,3.5GHz,LGA 1200
+45,KB-PR-45,BX80684G5400,Kabum,"Processador Intel Pentium G5400 Coffee Lake, 8a Geração, Cache 4MB, 3.7Ghz, LGA 1151 - BX80684G5400",Intel,Pentium G5400 Coffee Lake,4MB,3.7Ghz,LGA 1151
+46,KB-PR-46,BX80677I37100,Kabum,"Processador Intel Core i3-7100 Kaby Lake, Cache 3MB, 3.9GHz, LGA 1151 - BX80677I37100",Intel,Core i3-7100 Kaby Lake,3MB,3.9GHz,LGA 1151
+47,KB-PR-47,BX8070110100,Kabum,"Processador Intel Core i3-10100, Cache 6MB, 3.6GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110100",Intel,Core i3-10100,6MB,3.6GHz (4.3GHz Max Turbo),LGA 1200
+48,KB-PR-48,BX80684i79700F,Kabum,"Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",Intel,Core i7-9700F Coffee Lake,12MB,3.0GHz (4.7GHz Max Turbo),LGA 1151
+49,KB-PR-49,YD3000C6FHBOX,Kabum,"Processador AMD Athlon 3000G Two Core, Cache 5MB, 3500MHz, AM4 - YD3000C6FHBOX",Amd,Athlon 3000G Two Core,5MB,3500MHz,AM4
+50,KB-PR-50,100-100000159BOX,Kabum,"Processador AMD Ryzen 3 3300X, Cache 18MB, 4.3Ghz, AM4 - 100-100000159BOX",Amd,Ryzen 3 3300X,18MB,4.3Ghz,AM4
+51,KB-PR-51,YD292XA8AFWOF,Kabum,"Processador AMD Ryzen Threadripper 2920X, 12 Core, Cache 38MB, 3.5GHz (4.3GHz Max Turbo), TR4, Sem Vídeo - YD292XA8AFWOF",Amd,Ryzen Threadripper 2920X,38MB,3.5GHz (4.3GHz Max Turbo),TR4
+52,KB-PR-52,FD8350FRHKHBX,Kabum,"Processador AMD FX-8350 Vishera c/ Wraith Cooler, Cache 16MB, 4.0GHz (4.2Ghz Max Turbo) AM3+ FD8350FRHKHBX",Amd,FX-8350 Vishera,16MB,4.0GHz (4.2Ghz Max Turbo),AM3
+53,KB-PR-53,AD9600AGABBOX,Kabum,"Processador AMD A8 9600 Bristol Ridge, Cache 2MB, 3.1GHz (3.4GHz Max Turbo), AM4 - AD9600AGABBOX",Amd,A8 9600 Bristol Ridge,2MB,3.1GHz (3.4GHz Max Turbo),AM4
+54,KB-PR-54,YD180XBCAEWOF,Kabum,"Processador AMD Ryzen 7 1800X, Cache 20MB, 3.6Ghz (4GHz Max Turbo), AM4 - YD180XBCAEWOF",Amd,Ryzen 7 1800X,20MB,3.6Ghz (4GHz Max Turbo),AM4
+55,KB-PR-55,YD160XBCAEWOF,Kabum,"Processador AMD Ryzen 5 1600X, Cache 19MB, 3.6GHz (4Ghz Max Turbo), AM4 - YD160XBCAEWOF",Amd,Ryzen 5 1600X,19MB,3.6GHz (4Ghz Max Turbo),AM4
+56,KB-PR-56,YD260XBCAFBOX,Kabum,"Processador AMD Ryzen 5 2600X, Cooler Wraith Spire, Cache 19MB, 3.6GHz (4.25GHz Max Turbo), AM4, Sem Vídeo - YD260XBCAFBOX",Amd,Ryzen 5 2600X,19MB,3.6GHz (4.25GHz Max Turbo),AM4
+57,KB-PR-57,YD1600BBAFBOX,Kabum,"Processador AMD Ryzen 5 1600, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4 - YD1600BBAFBOX",Amd,Ryzen 5 1600,19MB,3.2GHz (3.6GHz Max Turbo),AM4
+58,KB-PR-58,100-100000277WOF,Kabum,"Processador AMD Ryzen 9 3900XT, Cache 70MB, 4700MHz, AM4 - 100-100000277WOF",Amd,Ryzen 9 3900XT,70MB,4700MHz,AM4
+59,KB-PR-59,100-100000061WOF,Kabum,"Processador AMD Ryzen 9 5900X, Cache 70MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100-100000061WOF",Amd,Ryzen 9 5900X,70MB,3.8GHz (4.7GHz Max Turbo),AM4
+60,KB-PR-60,FD8150FRGUBOX,Kabum,Processador AMD Bulldozer FX 8150 Octa Core 3.6GHz 16MB AM3+ FD8150FRGUBOX,Amd,Bulldozer FX 8150 Octa Core,16MB,3.6GHz ,AM3
+61,KB-PR-61,FD8300WMHKBOX,Kabum,"Processador AMD FX 8300 Black, Cache 16MB, 3.3GHz (4.2GHz Max Turbo), AM3+ - FD8300WMHKBOX",Amd,FX 8300 Black,16MB,3.3GHz (4.2GHz Max Turbo),AM3
+62,KB-PR-62,AD9500AGABBOX,Kabum,"Processador AMD A6 9500 Bristol Ridge, Dual-Core, Cache 1MB, 3.5GHz (3.8GHz Max Turbo), AM4 - AD9500AGABBOX",Amd,A6 9500 Bristol Ridge,1MB,3.5GHz (3.8GHz Max Turbo),AM4
+63,KB-PR-63,YD1700BBAEBOX,Kabum,"Processador AMD Ryzen 7 1700 c/ Wraith Spire, Octa Core, Cache 20MB, 3.0GHz (3.7GHz Max Turbo) AM4 YD1700BBAEBOX",Amd,Ryzen 7 1700,20MB,3.0GHz (3.7GHz Max Turbo),AM4
+64,KB-PR-64,YD130XBBAEBOX,Kabum,"Processador AMD Ryzen 3 1300X c/ Wraith Cooler, Quad Core, Cache 10MB, 3.5GHz (3.7GHz Max Turbo) AM4 - YD130XBBAEBOX",Amd,Ryzen 3 1300X,10MB,3.5GHz (3.7GHz Max Turbo),AM4
+65,KB-PR-65,YD270XBGAFBOX,Kabum,"Processador AMD Ryzen 7 2700X, Cooler Wraith Prism, Cache 20MB, 3.7GHz (4.35GHz Max Turbo), AM4, Sem Vídeo - YD270XBGAFBOX",Amd,Ryzen 7 2700X,20MB,3.7GHz (4.35GHz Max Turbo),AM4
+66,KB-PR-66,100-100000059WOF,Kabum,"Processador AMD Ryzen 9 5950X, Cache 72MB, 3.4GHz (4.9GHz Max Turbo), AM4 - 100-100000059WOF",Amd,Ryzen 9 5950X,72MB,3.4GHz (4.9GHz Max Turbo),AM4
+67,KB-PR-67,FD6300WMHKBOX,Kabum,"Processador AMD FX 6300 Black, Cache 14MB, 3.5GHz (4.1GHz Max Turbo), AM3+ - FD6300WMHKBOX",Amd,FX 6300 Black,14MB,3.5GHz (4.1GHz Max Turbo),AM3
+68,KB-PR-68,AD540KOKHJBOX,Kabum,Processador AMD APU A6 5400K 3.6Ghz Black Edition AD540KOKHJBOX,Amd,APU A6 5400K Black Edition,NaN,3.6Ghz ,NaN
+69,KB-PR-69,AD7480ACABBOX,Kabum,"Processador AMD A6-7480 Dual Core, Cache 1MB, 3.8Ghz, FM2+ - AD7480ACABBOX",Amd,A6-7480 Dual Core,1MB,3.8Ghz,FM2
+70,KB-PR-70,YD150XBBAEBOX,Kabum,"Processador AMD Ryzen 5 1500X c/ Wraith Spire, Quad Core, Cache 18MB, 3.5GHz (Max Turbo 3.7GHz) AM4 - YD150XBBAEBOX",Amd,Ryzen 5 1500X,18MB,3.5GHz (Max Turbo 3.7GHz),AM4
+71,KB-PR-71,100-100000284BOX,Kabum,"Processador AMD Ryzen 3 3100, Cache 18MB, 3.9Ghz, AM4 - 100-100000284BOX",Amd,Ryzen 3 3100,18MB,3.9Ghz,AM4
+72,KB-PR-72,YD195XA8AEWOF,Kabum,"Processador AMD Ryzen Threadripper 1950X, Hexadeca-Core, Cache 40MB, 3.4GHz (4GHz Max Turbo), TR4 - YD195XA8AEWOF",Amd,Ryzen Threadripper 1950X,40MB,3.4GHz (4GHz Max Turbo),TR4
+73,KB-PR-73,FD8350FRHKBOX,Kabum,"Processador AMD FX-8350 Vishera, Cache 16MB, 4.0GHz (4.2Ghz Max Turbo) AM3 FD8350FRHKBOX",Amd,FX-8350 Vishera,16MB,4.0GHz (4.2Ghz Max Turbo),AM3
+74,KB-PR-74,YD1600BBAEBOX,Kabum,"Processador AMD Ryzen 5 1600, Cooler Wraith Spire, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4, Sem Vídeo - YD1600BBAEBOX",Amd,Ryzen 5 1600,19MB,3.2GHz (3.6GHz Max Turbo),AM4
+75,KB-PR-75,YD2600BBAFBOX,Kabum,"Processador AMD Ryzen 5 2600, Cooler Wraith Stealth, Cache 19MB, 3.4GHz (3.9GHz Max Turbo), AM4, Sem Vídeo - YD2600BBAFBOX",Amd,Ryzen 5 2600,19MB,3.4GHz (3.9GHz Max Turbo),AM4
+76,KB-PR-76,BX80646I74770K,Kabum,"Processador Intel Core i7-4770K 3.5Ghz, 8MB, LGA 1150 c/ Intel HD Graphics (4ª Geração) - BX80646I74770K",Intel,Core i7-4770K,8MB,3.5Ghz,LGA 1150
+77,KB-PR-77,BX80701G6400,Kabum,"Processador Intel Pentium Gold G6400 Processor, Cache 4MB, 4.00 GHz - BX80701G6400",Intel,Pentium Gold G6400 Processor,4MB,4.00 GHz ,NaN
+78,KB-PR-78,BX80662I76700K,Kabum,"Processador Intel Core i7-6700K, Cache 8MB, Skylake 6a Geração, Quad-Core 4.0GHz LGA 1151 BX80662I76700K",Intel,Core i7-6700K,8MB,4.0GHz,LGA 1151
+79,KB-PR-79,BX80684I38100,Kabum,"Processador Intel Core i3-8100 Coffee Lake, Cache 6MB, 3.6GHz, LGA 1151 - BX80684I38100",Intel,Core i3-8100 Coffee Lake,6MB,3.6GHz,LGA 1151
+80,KB-PR-80,BX80662I56600K,Kabum,"Processador Intel Core i5-6600K Skylake, Cache 6MB, 3.5GHz (3.9GHz Max Turbo), LGA 1151, Intel HD Graphics 530 BX80662I56600K",Intel,Core i5-6600K Skylake,6MB,3.5GHz (3.9GHz Max Turbo),LGA 1151
+81,KB-PR-81,BX8069510980XE,Kabum,"Processador Intel Core i9-10980XE Cascade Lake, Cache 24.75MB, 3GHz (4.8GHz Max Turbo), LGA 2066 - BX8069510980XE",Intel,Core i9-10980XE Cascade Lake,24.75MB,3GHz (4.8GHz Max Turbo),LGA 2066
+82,KB-PR-82,BX80677I57640X,Kabum,"Processador Intel Core i5-7640X Kaby Lake, Cache 6MB, 4GHz (4.2GHz Max Turbo), LGA 2066 - BX80677I57640X",Intel,Core i5-7640X Kaby Lake,6MB,4GHz (4.2GHz Max Turbo),LGA 2066
+83,KB-PR-83,BX80673I99820X,Kabum,"Processador Intel Core i9-9820X Skylake, Cache 16.5MB, 3.3GHz (4.2GHz Max Turbo), LGA 2066 - BX80673I99820X",Intel,Core i9-9820X Skylake,16.5MB,3.3GHz (4.2GHz Max Turbo),LGA 2066
+84,KB-PR-84,BX80677G4600,Kabum,"Processador Intel Pentium G4600 Kaby Lake, Cache 3MB, 3.6Ghz, LGA 1151, Intel HD Graphics 630 - BX80677G4600",Intel,Pentium G4600 Kaby Lake,3MB,3.6Ghz,LGA 1151
+85,KB-PR-85,BX80646I74790K,Kabum,"Processador Intel Core i7-4790K  Haswell, Cache 8MB, 4.4GHz (4.4Ghz Max Turbo), LGA 1150, Intel HD Graphics 4600 BX80646I74790K",Intel,Core i7-4790K,8MB,4.4GHz (4.4Ghz Max Turbo),LGA 1150
+86,KB-PR-86,BX80637I33250,Kabum,"Processador Intel Core i3-3250 Ivy Bridge, Cache 3MB, 3.5GHz, LGA 1155, Intel HD Graphics 2500 BX80637I33250",Intel,Core i3-3250 Ivy Bridge,3MB,3.5GHz,LGA 1155
+87,KB-PR-87,BX80677I77700,Kabum,"Processador Intel Core i7-7700 Kaby Lake, Cache 8MB, 3.6GHz (4.2GHz Max Turbo), LGA 1151 - BX80677I77700",Intel,Core i7-7700 Kaby Lake,8MB,3.6GHz (4.2GHz Max Turbo),LGA 1151
+88,KB-PR-88,BX80673I99980X,Kabum,"Processador Intel Core i9-9980XE Skylake, Cache 24.75MB, 3GHz (4.5GHz Max Turbo), LGA 2066 - BX80673I99980X",Intel,Core i9-9980XE Skylake,24.75MB,3GHz (4.5GHz Max Turbo),LGA 2066
+89,KB-PR-89,BX80662I56500,Kabum,"Processador Intel Core i5-6500 Skylake, Cache 6MB, 3.2GHZ (3.6Ghz Max Turbo), LGA 1151, Intel HD Graphics 530 BX80662I56500",Intel,Core i5-6500 Skylake,6MB,3.2GHZ (3.6Ghz Max Turbo),LGA 1151
+90,KB-PR-90,BX8069510940X,Kabum,"Processador Intel Core i9-10940X Cascade Lake, Cache 19.25MB, 3.3GHz (4.8GHz Max Turbo), LGA 2066 - BX8069510940X ",Intel,Core i9-10940X Cascade Lake,19.25MB,3.3GHz (4.8GHz Max Turbo),LGA 2066
+91,KB-PR-91,BX80684I58400,Kabum,"Processador Intel Core i5-8400 Coffee Lake, Cache 9MB, 2.8GHz (4GHz Max Turbo), LGA 1151 - BX80684I58400",Intel,Core i5-8400 Coffee Lake,9MB,2.8GHz (4GHz Max Turbo),LGA 1151
+92,KB-PR-92,BX80648I75820K,Kabum,"Processador Intel Core i7-5820K Haswell-E, Cache 15MB, 3.3GHz (3.6GHz Max Turbo), LGA 2011-v3 BX80648I75820K",Intel,Core i7-5820K Haswell-E,15MB,3.3GHz (3.6GHz Max Turbo),LGA 2011
+93,KB-PR-93,BX80662I36100,Kabum,"Processador Intel Core i3-6100 Skylake, Cache 3MB, 3.7Ghz, LGA 1151, Intel HD Graphics 530 BX80662I36100",Intel,Core i3-6100 Skylake,3MB,3.7Ghz,LGA 1151
+94,KB-PR-94,BX80677I77740X,Kabum,"Processador Intel Core i7-7740X Kaby Lake, Cache 8MB, 4.3GHz (4.5GHz Max Turbo), LGA 2066 - BX80677I77740X",Intel,Core i7-7740X Kaby Lake,8MB,4.3GHz (4.5GHz Max Turbo),LGA 2066
+95,KB-PR-95,BX80684I39350KF,Kabum,"Processador Intel Core i3-9350KF Coffee Lake, Cache 8MB, 4GHz (4.6GHz Max Turbo), LGA 1151 - BX80684I39350KF",Intel,Core i3-9350KF Coffee Lake,8MB,4GHz (4.6GHz Max Turbo),LGA 1151
+96,KB-PR-96,BX80673I99960X,Kabum,"Processador Intel Core i9-9960X Skylake, Cache 22MB, 3.1GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99960X",Intel,Core i9-9960X Skylake,22MB,3.1GHz (4.4GHz Max Turbo),LGA 2066
+97,KB-PR-97,BX80637I53330,Kabum,"Processador Intel Core i5-3330 Ivy Bridge, Cache 6MB, 3.0GHz (3.2GHz Max Turbo), LGA1155, Intel HD Graphics 2500 BX80637I53330",Intel,Core i5-3330 Ivy Bridge,6MB,3.0GHz (3.2GHz Max Turbo),LGA1155
+98,KB-PR-98,BX80673I99900X,Kabum,"Processador Intel Core i9-9900X Skylake, Cache 19.25MB, 3.5GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99900X",Intel,Core i9-9900X Skylake,19.25MB,3.5GHz (4.4GHz Max Turbo),LGA 2066
+99,KB-PR-99,BX80662I56600,Kabum,"Processador Intel Core I5-6600 Skylake, Cache 6MB, 3.3GHZ (3.9Ghz Max Turbo), LGA 1151, Intel HD Graphics 530 BX80662I56600",Intel,Core I5-6600 Skylake,6MB,3.3GHZ (3.9Ghz Max Turbo),LGA 1151
+100,KB-PR-100,BX8069510920X,Kabum,"Processador Intel Core i9-10920X Cascade Lake, Cache 19.25MB, 3.5GHz (4.8GHz Max Turbo), LGA 2066 - BX8069510920X",Intel,Core i9-10920X Cascade Lake,19.25MB,3.5GHz (4.8GHz Max Turbo),LGA 2066
+101,KB-PR-101, BX80701G5900,Kabum,"Processador Intel Celeron G-5900, Cache 2MB, 3.4GHz, LGA 1200 -  BX80701G5900 ",Intel,Celeron G-5900,2MB,3.4GHz,LGA 1200
+102,KB-PR-102,BX80684G5600,Kabum,"Processador Intel Pentium Gold G5600 Coffee Lake 8a Geração, Cache 4MB, 3.9Ghz, LGA 1151, Intel HD Graphics 630 BX80684G5600",Intel,Pentium Gold G5600 Coffee Lake 8a Geração,4MB,3.9Ghz,LGA 1151
+103,KB-PR-103,BX80648I75960X,Kabum,"Processador Intel Core i7-5960X, Cache 20MB, 3.0GHz, DDR4 , LGA 2011-v3 BX80648I75960X",Intel,Core i7-5960X,20MB,3.0GHz,LGA 2011
+113,KB-PR-113,100-100000061WOF,Kabum,"Processador AMD Ryzen 9 5900X, Cache 70MB, 3.7GHz (4.8GHz Max Turbo), AM4 - 100-100000061WOF",Amd,Ryzen 9 5900X,70MB,3.7GHz (4.8GHz Max Turbo),AM4
+104,KB-PR-104,BX80684I78700K,Kabum,"Processador Intel Core i7-8700K Coffee Lake, Cache 12MB, 3.7GHz (4.7GHz Max Turbo), LGA 1151 - BX80684I78700K",Intel,Core i7-8700K Coffee Lake,12MB,3.7GHz (4.7GHz Max Turbo),LGA 1151
+105,KB-PR-105,BX8070110700F,Kabum,"Processador Intel Core i7-10700F, Cache 16MB, 2.9GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110700F",Intel,Core i7-10700F,16MB,2.9GHz (4.8GHz Max Turbo),LGA 1200
+106,KB-PR-106,BX80673I99940X,Kabum,"Processador Intel Core i9-9940X Skylake, Cache 19.25MB, 3.3GHz (4.4GHz Max Turbo), LGA 2066 - BX80673I99940X",Intel,Core i9-9940X Skylake,19.25MB,3.3GHz (4.4GHz Max Turbo),LGA 2066
+107,KB-PR-107,BX80646I54440,Kabum,Processador Intel Core i5-4440 6MB 3.1GHz (3.3GHz Max Turbo) LGA 1150 BX80646I54440,Intel,Core i5-4440,6MB,3.1GHz (3.3GHz Max Turbo),LGA 1150
+108,KB-PR-108,BX80684I99900KS,Kabum,"Processador Intel Core i9-9900KS Coffee Lake Refresh, Geração, Cache 16MB, 4.0GHz (5.0GHz Max Turbo), LGA 1151 - BX80684I99900KS",Intel,Core i9-9900KS Coffee Lake Refresh,16MB,4.0GHz (5.0GHz Max Turbo),LGA 1151
+109,KB-PR-109,BX80677I57400,Kabum,"Processador Intel Core i5-7400 Kaby Lake, Cache 6MB, 3Ghz (3.5GHz Max Turbo), LGA 1151 - BX80677I57400",Intel,Core i5-7400 Kaby Lake,6MB,3Ghz (3.5GHz Max Turbo),LGA 1151
+110,KB-PR-110,BX8069510900X,Kabum,"Processador Intel Core i9-10900X Cascade Lake, Cache 19.25MB, 3.7GHz (4.7GHz Max Turbo), LGA 2066 - BX8069510900X",Intel,Core i9-10900X Cascade Lake,19.25MB,3.7GHz (4.7GHz Max Turbo),LGA 2066
+111,KB-PR-111,BX80662G4400,Kabum,"Processador Intel Pentium G4400 Skylake, Cache 3MB, 3.3Ghz, LGA 1151 - BX80662G4400",Intel,Pentium G4400 Skylake,3MB,3.3Ghz,LGA 1151
+114,KB-PR-114,BX806849900K,Kabum,"Processador Intel Core i9-9900K, 3.6Ghz, 16MB Cache, LGA 1151 - BX806849900K",Intel,Core i9-9900K,16MB,3.6Ghz,LGA 1151
+115,KB-PR-115,YD2400C5FBBOX,Kabum,"Processador AMD Ryzen 5 2400G, Cooler Wraith Stealth, Cache 6MB, 3.6GHz (3.9GHz Max Turbo), AM4 - YD2400C5FBBOX",Amd,Ryzen 5 2400G,6MB,3.6GHz (3.9GHz Max Turbo),AM4
+116,KB-PR-116,100-100000063WOF,Kabum,"Processador AMD Ryzen 7 5800X, Cache 36MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100-100000063WOF",Amd,Ryzen 7 5800X,36MB,3.8GHz (4.7GHz Max Turbo),AM4
+117,KB-PR-117,BX80701G5905,Kabum,"Processador Intel Celeron G5905, Cache 4MB, 3.50 GHz, LGA 1200 - BX80701G5905",Intel,Celeron G5905,4MB,3.50 GHz,LGA 1200
+118,KB-PR-118,BX80684G5420,Kabum,"Processador Intel Pentium Gold, 8ª Geração Coffee Lake, Cache 4MB, 3.80GHz, LGA 1151 - BX80684G5420",Intel,Pentium Gold,4MB,3.80GHz,LGA 1151

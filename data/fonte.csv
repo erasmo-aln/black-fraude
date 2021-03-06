@@ -1,289 +1,328 @@
-site,descricao,marca,cartao,boleto,data
-Kabum,Fonte Aerocool 500W VX-500 EN57136,Aerocool,"R$ 252,82","R$ 214,90",2021-02-28
-Kabum,Fonte Aerocool 350W VX-350 EN57181,Aerocool,"R$ 188,12","R$ 159,90",2021-02-28
-Kabum,"Fonte ATX Aerocool 600W KCAS 80Plus, Bronze, Bivolt, FAN 120mm, Sem Cabo",Aerocool,"R$ 409,00","R$ 409,00",2021-02-28
-Kabum,Fonte Aerocool ATX 600W 80 Plus Bronze Full Range KCAS-600W,Aerocool,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,Fonte Aerocool 500W 80 Plus Bronze KCAS-500W EN53367,Aerocool,"R$ 411,65","R$ 349,90",2021-02-28
-Kabum,Fonte Aerocool 400W 80 Plus White KCAS,Aerocool,"R$ 329,29","R$ 279,90",2021-02-28
-Kabum,"Fonte Apexgaming Power Supply, 650W, 80 Plus Gold, Modular - AG-650M",Apexgaming,"R$ 670,47","R$ 569,90",2021-02-28
-Kabum,"Fonte Apexgaming Power Supply, 650W, 80 Plus Gold - STG-650",Apexgaming,"R$ 529,29","R$ 449,90",2021-02-28
-Kabum,"Fonte Apexgaming Power Supply, 750W, 80 Plus Gold, Modular - AG-750M",Apexgaming,"R$ 729,29","R$ 619,90",2021-02-28
-Kabum,"Fonte Asus TUF-GAMING-750B, 750W, 80 Plus Bronze - 90YE00D0-B0BA00",Asus,"R$ 846,94","R$ 719,90",2021-02-28
-Kabum,"Fonte Asus TUF-GAMING-550B, 550W, 80 Plus Bronze - 90YE00D2-B0BA00",Asus,"R$ 635,18","R$ 539,90",2021-02-28
-Kabum,"Fonte Asus ROG-STRIX-650G, 650W, 80 Plus Gold, Full Modular - 90YE00A1-B0BA00",Asus,"R$ 1.058,71","R$ 899,90",2021-02-28
-Kabum,"Fonte Asus ROG-STRIX-750G, 750W, 80 Plus Gold, Full Modular - 90YE00A0-B0BA00",Asus,"R$ 1.094,00","R$ 929,90",2021-02-28
-Kabum,"Fonte Asus ROG-THOR-850P, 850W, 80 Plus Platinum, Full Modular, RGB - 90YE00H1-B0BA00",Asus,"R$ 2.352,82","R$ 1.999,90",2021-02-28
-Kabum,"Fonte Asus ROG-STRIX-550G, 550W, 80 Plus Gold, Full Modular - 90YE00A2-B0BA00",Asus,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,"Fonte Bluecase Blu 350-E ATX, 350W com Cabo - BLU350ECASE",Bluecase,"R$ 136,35","R$ 115,90",2021-02-28
-Kabum,"Fonte Bluecase Real BLU 500R-B, 500W, 80 Plus Bronze, com Cabo - BLU 500R-B",Bluecase,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,"Fonte Bluecase 400W, 80 Plus White, Com Cabo - BLU400R-80E",Bluecase,"R$ 258,71","R$ 219,90",2021-02-28
-Kabum,Fonte Bluecase 500W com Cabo e com Caixa - BLU500PFC,Bluecase,"R$ 270,47","R$ 229,90",2021-02-28
-Kabum,"Fonte Bluecase BLU230-EATX Small, 230W, Com Cabo - BLU230ESCASE",Bluecase,"R$ 88,12","R$ 74,90",2021-02-28
-Kabum,"Fonte Bluecase Blu 500-E ATX, 500W com Cabo - BLU500ECASE",Bluecase,"R$ 211,65","R$ 179,90",2021-02-28
-Kabum,Fonte BlueCase ATX 350W PFC c/ Cabo - BLU350PFC,Bluecase,"R$ 235,18","R$ 199,90",2021-02-28
-Kabum,Fonte Brazil PC 500W BPC/5330 - 38036,Brazil PC,"R$ 270,47","R$ 229,90",2021-02-28
-Kabum,Fonte Brazil PC 500W 80 Plus Bronze BPC/500 - 38040,Brazil PC,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Brazil PC 600W BPC/6350 - 38037,Brazil PC,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Brazil PC 500W BPC/500PFCA - 38039,Brazil PC,"R$ 305,76","R$ 259,90",2021-02-28
-Kabum,Fonte Brazil PC 230W - BPC-230,Brazil PC,"R$ 102,24","R$ 86,90",2021-02-28
-Kabum,Fonte Brazil PC 750W BPC/7400 - 38038,Brazil PC,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte C3 Tech PS-500BK, 500W - PS-500BK",C3 tech,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,"Fonte C3Tech PS-G500B, 500W, 80 Plus Bronze - PS-G500B",C3 tech,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,"Fonte C3Tech ATX, 700W, 80 Plus White - PS-G700M",C3 tech,"R$ 446,94","R$ 379,90",2021-02-28
-Kabum,"Fonte C3Tech PS-G600B, 600W, 80 Plus Bronze - PS-G600B",C3 tech,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,Fonte C3 Tech 350W sem Cabo - PS-350,C3 tech,"R$ 224,59","R$ 190,90",2021-02-28
-Kabum,Fonte C3 Tech 200W SFX PS-200SFX,C3 tech,"R$ 152,82","R$ 129,90",2021-02-28
-Kabum,"Fonte Cooler Master V1000 Platinum, 1000W, 80 Plus Platinum, Modular - MPZ-A001-AFBAPV",Cooler Master,"R$ 2.941,06","R$ 2.499,90",2021-02-28
-Kabum,Fonte Cooler Master Elite V3 600W - MPW-6001-ACAAN1,Cooler Master,"R$ 494,00","R$ 419,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze V2 650W, 80 Plus Bronze - MPE-6501-ACAAB-BR",Cooler Master,"R$ 529,29","R$ 449,90",2021-02-28
-Kabum,"Fonte Cooler Masterwatt, 750W, 80 Plus Bronze, Semi Modular - MPX-7501-AMAAB-WO",Cooler Master,"R$ 799,88","R$ 679,90",2021-02-28
-Kabum,"Fonte Cooler Masterwatt, 550W, 80 Plus Bronze, Semi Modular - MPX-5501-AMAAB-WO",Cooler Master,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze V2, 500W, 80 Plus Bronze - MPE-5001-ACAAB-BR",Cooler Master,"R$ 517,53","R$ 439,90",2021-02-28
-Kabum,"Fonte Cooler Master V Gold V2, 850W, 80 Plus Gold, Modular - MPY-850V-AFBAG-WO",Cooler Master,"R$ 1.764,59","R$ 1.499,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze V2 550W, 80 Plus Bronze - MPE-5501-ACAAB-BR",Cooler Master,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,Fonte Cooler Master 750W 80 Plus Bronze Semi-Modular MasterWatt - MPX-7501-AMAAB,Cooler Master,"R$ 799,88","R$ 679,90",2021-02-28
-Kabum,"Fonte Cooler Master V Gold V2, 750W, 80 Plus Gold, Modular - MPY-750V-AFBAG-WO",Cooler Master,"R$ 1.352,82","R$ 1.149,90",2021-02-28
-Kabum,"Fonte Cooler Master MasterWatt TUF 450W, 80 Plus Bronze, Semi-Modular - MPX-4501-AMAAB-OF",Cooler Master,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Cooler Master 550W 80 Plus Bronze Semi-Modular MasterWatt - MPX-5501-AMAAB,Cooler Master,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE White V2 650W, 80 Plus Standard - MPE-6501-ACAAW-BR",Cooler Master,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Fonte Cooler Master V Gold V2 White Edition, 850W, 80 Plus Gold, Modular, Branco - MPY-850V-AGBAG-WO",Cooler Master,"R$ 1.529,29","R$ 1.299,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE White V2 450W, 80 Plus Standart - MPE-4501-ACAAW-BR",Cooler Master,"R$ 576,35","R$ 489,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE White V2 550W, 80 Plus Standart - MPE-5501-ACAAW-BR",Cooler Master,"R$ 599,88","R$ 509,90",2021-02-28
-Kabum,Fonte Cooler Master 450W 80 Plus Bronze Semi-Modular MW - MPX-4501-AMAAB,Cooler Master,"R$ 482,24","R$ 409,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze V2, 600W, 80 Plus Bronze - MPE-6001-ACAAB-BR",Cooler Master,"R$ 729,29","R$ 619,90",2021-02-28
-Kabum,"Fonte Cooler Master MasterWatt 650 TUF Gaming Edition, 650W, 80 Plus Bronze, Semi Modular - MPX-6501-AMAAB-OF",Cooler Master,"R$ 670,47","R$ 569,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE 650W, 80 Plus Gold, Modular - MPY-6501-AFAAG",Cooler Master,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 750W, 80 Plus Gold - MPE-7501-ACAAG-WO",Cooler Master,"R$ 1.023,41","R$ 869,90",2021-02-28
-Kabum,Fonte Cooler Master 300W Elite V3 - MPW-3001-ACAAN1,Cooler Master,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 550W, 80 Plus Gold - MPE-5501-ACAAG-WO",Cooler Master,"R$ 870,47","R$ 739,90",2021-02-28
-Kabum,"Fonte Cooler Master V Gold V2 White Edition, 750W, 80 Plus Gold, Modular, Branco - MPY-750V-AGBAG-WO",Cooler Master,"R$ 1.294,00","R$ 1.099,90",2021-02-28
-Kabum,Fonte Cooler Master 650W 80 Plus Bronze Semi-Modular MW - MPX-6501- AMAAB-WO,Cooler Master,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze, 750W, 80 Plus Bronze - MPE-7501-ACAAB-BR",Cooler Master,"R$ 705,76","R$ 599,90",2021-02-28
-Kabum,Fonte Cooler Master 500W Elite V3 - MPW-5001-ACAAN1,Cooler Master,"R$ 423,41","R$ 359,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE 750 White V2, 750W, 80 Plus Standard - MPE-7501-ACAAW",Cooler Master,"R$ 894,00","R$ 759,90",2021-02-28
-Kabum,Fonte Cooler Master 400W Elite V3 - MPW-4001-ACAAN1,Cooler Master,"R$ 399,88","R$ 339,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze, 450W, 80 Plus Bronze - MPE-4501-ACAAB-BR",Cooler Master,"R$ 396,35","R$ 336,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE, 650W, 80 Plus Gold - MPE-6501-ACAAG-WO",Cooler Master,"R$ 929,29","R$ 789,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 750W, 80 Plus Bronze - MPE-7501-ACAAB-WO",Cooler Master,"R$ 646,94","R$ 549,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 850W, 80 Plus Gold - MPE-8501-ACAAG-WO",Cooler Master,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 550W, 80 Plus Bronze - MPE-5501-ACAAB-WO",Cooler Master,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 450W, 80 Plus Bronze - MPE-4501-ACAAB-WO",Cooler Master,"R$ 388,12","R$ 329,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE 550W, 80 Plus Gold - MPY-5501-ACAAG",Cooler Master,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE Bronze V2, 700W, 80 Plus Bronze - MPE-7001-ACAAB-BR",Cooler Master,"R$ 658,71","R$ 559,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE V2, 650W, 80 Plus Bronze - MPE-6501-ACAAB-WO",Cooler Master,"R$ 517,53","R$ 439,90",2021-02-28
-Kabum,Fonte Corsair 750W 80 Plus Gold Semi Modular TX750M CP-9020131,Corsair,"R$ 1.105,76","R$ 939,90",2021-02-28
-Kabum,"Fonte Corsair RMX White Series, 750W, 80 Plus Gold, Modular, Branca - CP-9020187-WW",Corsair,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,Fonte Corsair 550W 80 Plus Gold Semi Modular TX550M - CP-9020133,Corsair,"R$ 705,76","R$ 599,90",2021-02-28
-Kabum,"Fonte Corsair CX650F, 650W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020217-BR",Corsair,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,Fonte Corsair 450W 80 Plus Gold CP-9020104-WW,Corsair,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,Fonte Corsair 550W 80 Plus Bronze CX550 - CP-9020121,Corsair,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte Gamer ATX, Corsair VS400 400W 80 Plus White, Bivolt, PFC Ativo - CP-9020117-LA",Corsair,"R$ 578,64","R$ 578,64",2021-02-28
-Kabum,"Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-9020211-BR",Corsair,"R$ 552,82","R$ 469,90",2021-02-28
-Kabum,"Fonte Corsair VS500, 500W, 80 Plus - CP-9020223-BR",Corsair,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,"Fonte Corsair SF Series, 450W, 80 Plus Platinum, Modular - CP-9020181-WW",Corsair,"R$ 964,59","R$ 819,90",2021-02-28
-Kabum,Fonte Corsair 750W 80 Plus Bronze Semi Modular CX750M - CP-9020061,Corsair,"R$ 858,71","R$ 729,90",2021-02-28
-Kabum,"Fonte Corsair CX750F, 750W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020218-BR",Corsair,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,"Fonte Corsair RMX White Series, 850W, 80 Plus Gold, Modular, Branca - CP-9020188-WW",Corsair,"R$ 1.882,24","R$ 1.599,90",2021-02-28
-Kabum,"Fonte Corsair 750W 80 Plus Bronze CX750, PFC Ativo - CP-9020123",Corsair,"R$ 741,06","R$ 629,90",2021-02-28
-Kabum,Fonte Corsair 550W 80 Plus Bronze Semi Modular CX550M - CP-9020102,Corsair,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Fonte Corsair CV450, 450W, 80 Plus Bronze - CP-9020209-BR",Corsair,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,"Fonte Corsair SF Series, 600W, 80 Plus Gold, Modular - CP-9020105-NA",Corsair,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,Fonte Corsair 650W 80 Plus Bronze CX650 - CP-9020122,Corsair,"R$ 482,24","R$ 409,90",2021-02-28
-Kabum,Fonte Corsair 650W 80 Plus Gold Modular RMX - CP-9020178,Corsair,"R$ 964,59","R$ 819,90",2021-02-28
-Kabum,"Fonte Corsair CX550F, 550W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020216-BR",Corsair,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,"Fonte Corsair CV550, 550W, 80 Plus Bronze - CP-9020210-BR",Corsair,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,Fonte Corsair 750W 80 Plus Gold Modular RMx- CP-9020179,Corsair,"R$ 1.764,59","R$ 1.499,90",2021-02-28
-Kabum,Fonte Corsair 450W 80 Plus White VS450 - CP-9020170-BR,Corsair,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Corsair 450W 80 Plus Bronze CX450 - CP-9020120-BR,Corsair,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular HX1200 - CP-9020140,Corsair,"R$ 2.588,12","R$ 2.199,90",2021-02-28
-Kabum,Fonte ATX Corsair CX 450W 80 Plus Bronze - CP-9020120-WW,Corsair,"R$ 542,03","R$ 542,03",2021-02-28
-Kabum,"Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-9020236-BR",Corsair,"R$ 494,00","R$ 419,90",2021-02-28
-Kabum,Fonte Corsair 650W 80 Plus Bronze Semi Modular CX650M - CP-9020103,Corsair,"R$ 741,06","R$ 629,90",2021-02-28
-Kabum,Fonte Corsair 450W 80 Plus Bronze Semi Modular CX450M - CP-9020101,Corsair,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Fonte Corsair VS600, 600W, 80 Plus - CP-9020224-BR",Corsair,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Corsair 650W 80 Plus Gold Semi Modular TX650M CP-9020132,Corsair,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,"Fonte Corsair SF Series, 450W, 80 Plus Gold, Modular - CP-9020104-NA",Corsair,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,"Fonte Corsair RM550X, 550W, 80 Plus Gold, Modular - CP-9020177-WW",Corsair,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,Fonte Cougar VTC500 500W 80 Plus White - 31VC050006P01,Cougar,"R$ 388,12","R$ 329,90",2021-02-28
-Kabum,"Fonte Cougar VTC600, 600W, 80 Plus - 31VC060004P01",Cougar,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte Cougar BXM 700W, 80 Plus Bronze, Semi-Modular - 31BX070006P01",Cougar,"R$ 729,29","R$ 619,90",2021-02-28
-Kabum,"Fonte Deepcool 600W, 80 Plus Bronze - DA600",Deepcool,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte Deepcool 500W DA500,Deepcool,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,"Fonte DeepCool DA700, 700W, 80 Plus Bronze - DA700",Deepcool,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,Fonte EVGA 600W 80 Plus Bronze PFC Ativo - 110-BQ-0600-K,Evga,"R$ 576,35","R$ 489,90",2021-02-28
-Kabum,Fonte EVGA 400W 100-N1-0400-L,Evga,"R$ 305,76","R$ 259,90",2021-02-28
-Kabum,"Fonte EVGA 700 GD, 700W, 80 Plus Gold - 100-GD-0700-V",Evga,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 750 G5, 750W, 80 Plus Gold, Modular - 220-G5-0750-X",Evga,"R$ 1.329,29","R$ 1.129,90",2021-02-28
-Kabum,"Fonte EVGA 500W, 80 Plus Bronze - 100-BR-0500-K",Evga,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte EVGA 650 B5, 650W, 80 Plus Bronze, Modular - 220-B5-0650-V",Evga,"R$ 764,59","R$ 649,90",2021-02-28
-Kabum,"Fonte EVGA 700 BQ, 700W, 80 Plus Bronze, Semi Modular - 110-BQ-0700-V0",Evga,"R$ 682,24","R$ 579,90",2021-02-28
-Kabum,"Fonte EVGA 700W, 80 Plus Bronze - 100-BR-0700-K",Evga,"R$ 658,71","R$ 559,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 850 G5, 850W, 80 Plus Gold, Modular - 220-G5-0850-X",Evga,"R$ 1.517,53","R$ 1.289,90",2021-02-28
-Kabum,Fonte EVGA 500W 80 Plus White - 100-W1-0500-KR,Evga,"R$ 399,88","R$ 339,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 750 GA, 750W, 80 Plus Gold, Modular - 220-GA-0750-X",Evga,"R$ 1.294,00","R$ 1.099,90",2021-02-28
-Kabum,Fonte EVGA 850W 80 Plus Gold Semi Modular Modo ECO 210-GQ-0850-V,Evga,"R$ 1.764,59","R$ 1.499,90",2021-02-28
-Kabum,"Fonte EVGA 600W, 80 Plus Bronze - 100-BR-0600-K",Evga,"R$ 564,59","R$ 479,90",2021-02-28
-Kabum,Fonte EVGA 750W 80 Plus Gold Semi Modular Modo ECO 210-GQ-0750-V,Evga,"R$ 1.117,53","R$ 949,90",2021-02-28
-Kabum,Fonte EVGA 600W 80 Plus White - 100-W1-0600-K,Evga,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte EVGA 1000W 80 Plus Gold Semi Modular Modo ECO 210-GQ-1000-V,Evga,"R$ 2.352,82","R$ 1.999,90",2021-02-28
-Kabum,"Fonte EVGA 700W, 80 Plus White - 100-W1-0700-K",Evga,"R$ 635,18","R$ 539,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 850 GA, 850W, 80 Plus Gold, Modular - 220-GA-0850-X",Evga,"R$ 1.564,59","R$ 1.329,90",2021-02-28
-Kabum,"Fonte EVGA 600 GD, 600W, 80 Plus Gold - 100-GD-0600-V",Evga,"R$ 729,29","R$ 619,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 1000 G5, 1000W, 80 Plus Gold, Modular - 220-G5-1000-X",Evga,"R$ 2.470,47","R$ 2.099,90",2021-02-28
-Kabum,"Fonte EVGA 500 GD, 500W, 80 Plus Gold - 100-GD-0500-V",Evga,"R$ 646,94","R$ 549,90",2021-02-28
-Kabum,"Fonte EVGA 750 B5, 750W, 80 Plus Bronze, Modular - 220-B5-0750-V",Evga,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,"Fonte EVGA 850 B5, 850W, 80 Plus Bronze, Modular - 220-B5-0850-V",Evga,"R$ 1.211,65","R$ 1.029,90",2021-02-28
-Kabum,"Fonte EVGA SuperNOVA 650 G5, 650W, 80 Plus Gold, Modular - 220-G5-0650-X",Evga,"R$ 1.294,00","R$ 1.099,90",2021-02-28
-Kabum,"Fonte EVGA 500 BQ, 500W, 80 Plus Bronze, Semi Modular - 110-BQ-0500-K",Evga,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,"Fonte EVGA 450W, 80 Plus Bronze - 100-BR-0450-K",Evga,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,"Fonte Gamer EVUS EVG500, 500W, 80Plus Bronze, PFC Ativo, Bivolt, RGB, Preto - BRONZE-500W",Evus,"R$ 411,65","R$ 349,90",2021-02-28
-Kabum,"Fonte ATX Fortrek Black Hawk 400W, 80 Plus White, Bivolt, Preto - 70458",Fortrek,"R$ 312,82","R$ 265,90",2021-02-28
-Kabum,Fonte Fortrek 200W sem Cabo - 62849,Fortrek,"R$ 94,00","R$ 79,90",2021-02-28
-Kabum,"Fonte ATX Fortrek Black Hawk 500W, 80 Plus Bronze, PFC Ativo, Bivolt, Preto - 70459",Fortrek,"R$ 359,88","R$ 305,90",2021-02-28
-Kabum,"Fonte ATX Fortrek Crusader 300W, Bivolt, Preto - 70457",Fortrek,"R$ 182,24","R$ 154,90",2021-02-28
-Kabum,"Fonte Gamdias, 750W, 80 Plus Bronze, RGB - KRATOS M1-750B",Gamdias,"R$ 646,94","R$ 549,90",2021-02-28
-Kabum,"Fonte Gamdias, 600W, 80 Plus Bronze, RGB - KRATOS M1-600B",Gamdias,"R$ 631,65","R$ 536,90",2021-02-28
-Kabum,Fonte Gamemax 600W 80 Plus Bronze Semi-Modular - GM600,Gamemax,"R$ 705,76","R$ 599,90",2021-02-28
-Kabum,"Fonte Gamemax, 650W, 80 Plus Bronze - GM650",Gamemax,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte Gamemax GM500W, 500W, Branca - GM500W",Gamemax,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,"Fonte Gamer Gamemax 400W, 80 Plus Bronze - GP400A",Gamemax,"R$ 352,82","R$ 299,90",2021-02-28
-Kabum,Fonte Gamemax 800W 80 Plus Bronze Semi-Modular - GM800 BK,Gamemax,"R$ 811,65","R$ 689,90",2021-02-28
-Kabum,Fonte Gigabyte 650W 80 Plus Bronze - GP-P650B/BR,Gigabyte,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte Gigabyte GP-P550B 550W, 80 Plus Bronze - 28200-P550B-1BRR",Gigabyte,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte Gigabyte GP-P750GM, 750W, 80 Plus Gold, Totalmente Modular - GP-P750GM",Gigabyte,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,"Fonte Gigabyte GP-P450B 450W, 80 Plus Bronze - 28200-P450B-1BRR",Gigabyte,"R$ 294,00","R$ 249,90",2021-02-28
-Kabum,Fonte Hoopson 500W - FNT-500W,Hoopson,"R$ 305,76","R$ 259,90",2021-02-28
-Kabum,"Fonte Hoopson 550W, RGB - FNT-550C",Hoopson,"R$ 282,24","R$ 239,90",2021-02-28
-Kabum,"Fonte Husky Snow 650W, 80 Plus White - PSU-HSN-650",Husky Gaming,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte Husky Snow 500W, 80 Plus White - PSU-HSN-500",Husky Gaming,"R$ 294,00","R$ 249,90",2021-02-28
-Kabum,"Fonte Husky Snow 550W, 80 Plus White - PSU-HSN-550",Husky Gaming,"R$ 341,06","R$ 289,90",2021-02-28
-Kabum,"Fonte Husky Snow 450W, 80 Plus White - PSU-HSN-450",Husky Gaming,"R$ 258,71","R$ 219,90",2021-02-28
-Kabum,"Fonte Husky Snow 400W, 80 Plus White - PSU-HSN-400",Husky Gaming,"R$ 235,18","R$ 199,90",2021-02-28
-Kabum,"Fonte Gamer Ktrok 500w Real Pfc Ativo 80 Plus, Bronze",Ktrok,"R$ 319,90","R$ 319,90",2021-02-28
-Kabum,"Fonte Gamer KTROK KT-FT-RGB, 500W, 80 Plus Bronze, RGB, Bivolt",Ktrok,"R$ 463,92","R$ 463,92",2021-02-28
-Kabum,"Fonte Gamer KTROK KT-FT, 500W, 80 Plus Bronze, Bivolt",Ktrok,"R$ 422,99","R$ 422,99",2021-02-28
-Kabum,"Fonte Nox Hummer X 500W, 80 Plus Bronze - NXHUMMERX500WBZ",NOX,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte Nox Hummer X, 650W, 80 Plus Gold, Modular - NXHUMMERX650GD",NOX,"R$ 705,76","R$ 599,90",2021-02-28
-Kabum,Fonte NOX 750W 80 Plus Gold Hummer NXHUMMER750GD,NOX,"R$ 799,88","R$ 679,90",2021-02-28
-Kabum,Fonte Nox 600W 80 Plus Bronze Semi-Modular Hummer X - NXHUMMERX600WBZ,NOX,"R$ 552,82","R$ 469,90",2021-02-28
-Kabum,Fonte Nox 700W 80 Plus Bronze Semi-Modular Hummer X - NXHUMMERX700WBZ,NOX,"R$ 505,76","R$ 429,90",2021-02-28
-Kabum,Fonte One Power 500W - MP500W3-I,Onepower,"R$ 223,41","R$ 189,90",2021-02-28
-Kabum,Fonte One Power 600W - MP600W3-I,Onepower,"R$ 258,71","R$ 219,90",2021-02-28
-Kabum,"Fonte PCYes Electro V2 600W, 80 Plus White - ELV2WHPTO600W",PCYes,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,Fonte PCYes 400W 80 Plus White - ELV2WHPTO400W,PCYes,"R$ 388,12","R$ 329,90",2021-02-28
-Kabum,"Fonte PCYes Electro V2 550W, 80 Plus Bronze - ELECV2PTO550W",PCYes,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte PCYes Electro V2 500W, 80 Plus White - ELV2WHPTO500W",PCYes,"R$ 494,00","R$ 419,90",2021-02-28
-Kabum,"Fonte PCYes Electro V2 650W, 80 Plus Bronze - ELECV2PTO650W",PCYes,"R$ 670,47","R$ 569,90",2021-02-28
-Kabum,"Fonte PCYes Spark 75+, 400W - PXSP400WPT",PCYes,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte PCYes Spark 75+, 600W - PXSP600WPT",PCYes,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte PCyes ATX Spark, 500W - Pxsp500wpt",PCYes,"R$ 423,41","R$ 359,90",2021-02-28
-Kabum,"Fonte Redragon RGPS, 600W, 80 Plus Bronze, Modular - GC-PS003-1",Redragon,"R$ 564,59","R$ 479,90",2021-02-28
-Kabum,"Fonte Seasonic, 750W, 80 Plus Gold, Semi-Modular - GM-750",Seasonic,"R$ 1.999,88","R$ 1.699,90",2021-02-28
-Kabum,"Fonte Seasonic, 550W, 80 Plus Bronze - S12III-550",Seasonic,"R$ 576,35","R$ 489,90",2021-02-28
-Kabum,"Fonte Seasonic Focus GM-550, 550W, 80 Plus Gold, Semi-Modular - GM-550",Seasonic,"R$ 894,00","R$ 759,90",2021-02-28
-Kabum,"Fonte Seasonic, 700W, 80 Plus, 220V - A12 SSR-700RA",Seasonic,"R$ 623,41","R$ 529,90",2021-02-28
-Kabum,"Fonte Seasonic, 500W, 80 Plus, 220V - A12 SSR-500RA",Seasonic,"R$ 552,82","R$ 469,90",2021-02-28
-Kabum,"Fonte Seasonic, 600W, 80 Plus, 220V - A12 SSR-600RA",Seasonic,"R$ 529,29","R$ 449,90",2021-02-28
-Kabum,"Fonte Seasonic, 650W, 80 Plus Bronze - S12III-650",Seasonic,"R$ 670,47","R$ 569,90",2021-02-28
-Kabum,"Fonte Seasonic, 500W, 80 Plus Bronze - S12III-500",Seasonic,"R$ 517,53","R$ 439,90",2021-02-28
-Kabum,"Fonte Sharkoon SHP Bronze 600W, 80 Plus Bronze- SHP BRONZE 600W",Sharkoon,"R$ 423,41","R$ 359,90",2021-02-28
-Kabum,"Fonte Sharkoon SHP Bronze 500W, 80 Plus Bronze - SHP BRONZE 500W",Sharkoon,"R$ 388,12","R$ 329,90",2021-02-28
-Kabum,"Fonte Sharkoon SilentStorm Cool Zero, 650W, 80 Plus Gold, Modular - SilentStorm CoolZero 650W",Sharkoon,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,"Fonte Sharkoon 750W, 80 Plus Gold, Modular, SilentStorm CoolZero",Sharkoon,"R$ 976,35","R$ 829,90",2021-02-28
-Kabum,"Fonte T-DAGGER, 600W, Bivolt, Preto - T-TPS202",T-DAGGER,"R$ 235,18","R$ 199,90",2021-02-28
-Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 850W, 80 Plus Gold, Modular - PS-TPD-0850F3FAGB-1",Thermaltake,"R$ 1.764,59","R$ 1.499,90",2021-02-28
-Kabum,Fonte Thermaltake 600W 80 Plus White Smart Series - PS-SPD-0600NPCW,Thermaltake,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 650W, 80 Plus Gold, Modular - PS-TPD-0650F3FAGB-1",Thermaltake,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,"Fonte Thermaltake TT Toughpower GF1 Fully, 850W, 80 Plus Gold, Modular - PS-TPD-0850FNFAGB-1",Thermaltake,"R$ 1.529,29","R$ 1.299,90",2021-02-28
-Kabum,Fonte Thermaltake 700W 80 Plus White Smart Series - PS-SPD-0700NPCW,Thermaltake,"R$ 842,24","R$ 715,90",2021-02-28
-Kabum,"Fonte Thermaltake TT Toughpower GF1 Fully, 650W, 80 Plus Gold, Modular - PS-TPD-0650FNFAGB-1",Thermaltake,"R$ 1.035,18","R$ 879,90",2021-02-28
-Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 750W, 80 Plus Gold Modular - PS-TPD-0750F3FAGB-1",Thermaltake,"R$ 1.294,00","R$ 1.099,90",2021-02-28
-Kabum,"Fonte Tronos Real 750W, Bivolt - TRS/7400-B",Tronos,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte ATX Tronos TRS/5330-B, 500W, Real, Bivolt",Tronos,"R$ 228,14","R$ 228,14",2021-02-28
-Kabum,"Fonte XPG Core Reactor, 850W, 80 Plus Gold Modular",XPG,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,Fonte XPG 450W - PYLON450B-BKCBR,XPG,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte XPG Pylon, 550W, 80 Plus Bronze",XPG,"R$ 446,94","R$ 379,90",2021-02-28
-Kabum,"Fonte XPG Pylon, 650W, 80 Plus Bronze",XPG,"R$ 482,24","R$ 409,90",2021-02-28
-Kabum,"Fonte XPG Core Reactor, 750W, 80 Plus Gold Modular",XPG,"R$ 882,24","R$ 749,90",2021-02-28
-Kabum,"Fonte XPG Core Reactor, 650W, 80 Plus Gold Modular",XPG,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,"Fonte XPG Pylon, 750W, 80 Plus Bronze",XPG,"R$ 541,06","R$ 459,90",2021-02-28
-Kabum,"Fonte Apexgaming Power Supply, 850W, 80 Plus Gold, Modular - AG-850M",Apexgaming,"R$ 905,76","R$ 769,90",2021-02-28
-Kabum,"Fonte Asus ROG-THOR-1200P, 1200W, 80 Plus Platinum, Full Modular, RGB - 90YE00H0-B0BA00",Asus,"R$ 3.529,29","R$ 2.999,90",2021-02-28
-Kabum,Fonte BR One 400W BRX - UP-S400,BR One,"R$ 112,82","R$ 95,90",2021-02-28
-Kabum,"Fonte C3 Plus, 200W - PS-200V4",C3 Plus,"R$ 84,59","R$ 71,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE 650W, 80 Plus Gold - MPY-6501-ACAAG",Cooler Master,"R$ 1.058,71","R$ 899,90",2021-02-28
-Kabum,"Fonte Cooler Master MWE 750W, 80 Plus Gold, Modular - MPY-7501-AFAAG",Cooler Master,"R$ 1.058,71","R$ 899,90",2021-02-28
-Kabum,"Fonte Cooler Master V1300 Platinum, 1300W, 80 Plus Platinum, Modular - MPZ-D001-AFBAPV",Cooler Master,"R$ 3.176,35","R$ 2.699,90",2021-02-28
-Kabum,"Fonte Cooler Master 450W, 80 Plus Bronze, com Cabo - MPX-4501-ACAAB-BR",Cooler Master,"R$ 376,35","R$ 319,90",2021-02-28
-Kabum,"Fonte Corsair AX Series AX1000, 1000W, 80 Plus Titanium, Modular - CP-9020152",Corsair,"R$ 2.941,06","R$ 2.499,90",2021-02-28
-Kabum,"Fonte ATX Corsair CX 750W, 80 Plus Bronze CP-9020123-WW",Corsair,"R$ 923,03","R$ 923,03",2021-02-28
-Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular AX1200i - CP-9020008,Corsair,"R$ 3.882,24","R$ 3.299,90",2021-02-28
-Kabum,Fonte Corsair 850W 80 Plus Platinum Modular HX850i - CP-9020073-WW,Corsair,"R$ 1.999,88","R$ 1.699,90",2021-02-28
-Kabum,Fonte Corsair 1000W 80 Plus Gold Modular RM1000X - CP-9020094,Corsair,"R$ 2.117,53","R$ 1.799,90",2021-02-28
-Kabum,Fonte Corsair 550W 80 Plus White VS550 - CP-9020171,Corsair,"R$ 541,06","R$ 459,90",2021-02-28
-Kabum,Fonte Corsair 750W 80 Plus Platinum Modular HX750 - CP-9020137-WW,Corsair,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,"Fonte Corsair RM750, 750W, 80 Plus Gold, Modular - CP-9020195",Corsair,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,"Fonte Corsair SF Series, 600W, 80 Plus Platinum, Modular - CP-9020182-NA",Corsair,"R$ 1.529,29","R$ 1.299,90",2021-02-28
-Kabum,Fonte Corsair 850W 80 Plus Platinum Modular HX850 - CP-9020138,Corsair,"R$ 1.999,88","R$ 1.699,90",2021-02-28
-Kabum,Fonte Corsair 650W 80 Plus White VS650 - CP-9020172,Corsair,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular HX1200i - CP-9020070,Corsair,"R$ 3.529,29","R$ 2.999,90",2021-02-28
-Kabum,"Fonte Corsair RM650, 650W, 80 Plus Gold, Modular - CP-9020194",Corsair,"R$ 1.176,35","R$ 999,90",2021-02-28
-Kabum,"Fonte Corsair 1600W 80 Plus Titanium Modular, AX1600i - CP-9020087",Corsair,"R$ 6.117,53","R$ 5.199,90",2021-02-28
-Kabum,Fonte Corsair 850W 80 Plus Gold Modular RMx - CP-9020180,Corsair,"R$ 1.294,00","R$ 1.099,90",2021-02-28
-Kabum,Fonte Corsair 750W 80 Plus Platinum Modular HX750i - CP-9020072-WW,Corsair,"R$ 1.882,24","R$ 1.599,90",2021-02-28
-Kabum,"Fonte Corsair AX Series AX850, 850W, 80 Plus Titanium, Modular - CP-9020151-WW",Corsair,"R$ 2.588,12","R$ 2.199,90",2021-02-28
-Kabum,Fonte Corsair 1000W 80 Plus Platinum Modular HX1000 - CP-9020139,Corsair,"R$ 2.705,76","R$ 2.299,90",2021-02-28
-Kabum,Fonte Corsair 500W 80 Plus White VS500 - CP-9020118,Corsair,"R$ 646,94","R$ 549,90",2021-02-28
-Kabum,"Fonte Corsair SF Series, 750W, 80 Plus Platinum, Modular - CP-9020186-NA",Corsair,"R$ 1.646,94","R$ 1.399,90",2021-02-28
-Kabum,Fonte Corsair 1000W 80 Plus Platinum Modular HX1000i - CP-9020074,Corsair,"R$ 2.941,06","R$ 2.499,90",2021-02-28
-Kabum,"Fonte Corsair RM850, 850W, 80 Plus Gold, Modular - CP-9020196",Corsair,"R$ 1.411,65","R$ 1.199,90",2021-02-28
-Kabum,"Fonte Cougar Gaming VTE 600W, 80Plus Bronze, PFC Ativo - 31VE060.0005P",Cougar,"R$ 552,82","R$ 469,90",2021-02-28
-Kabum,Fonte Cougar 500W 80 Plus Bronze VTE - CGR BS-500,Cougar,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte Cougar GEX 850W, 80 Plus Gold, Totalmente Modular - 31GE085008P01",Cougar,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,"Fonte Cougar BXM850, 850W, 80 PLUS Bronze, Semi Modular - 31BX085005P01",Cougar,"R$ 823,41","R$ 699,90",2021-02-28
-Kabum,Fonte Cougar 600W 80 Plus Bronze VTE - CGR BS-600,Cougar,"R$ 494,00","R$ 419,90",2021-02-28
-Kabum,Fonte Epic Power 650W - EP-C650W,Epic Power,"R$ 206,94","R$ 175,90",2021-02-28
-Kabum,Fonte EVGA 650W 80 Plus Gold Semi Modular Modo ECO - 210-GQ-0650-V,Evga,"R$ 846,94","R$ 719,90",2021-02-28
-Kabum,"Fonte EVGA 750W 80 Plus Bronze, Semi Modular, PFC Ativo - 110-BQ-0750-V",Evga,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,Fonte EVGA 650W 100-N1-0650-L,Evga,"R$ 705,76","R$ 599,90",2021-02-28
-Kabum,Fonte EVGA 750W 80 Plus Bronze Modular - 220-B3-0750-V,Evga,"R$ 635,18","R$ 539,90",2021-02-28
-Kabum,Fonte EVGA 650W 80 Plus Bronze Semi Modular 110-BQ-0650-V,Evga,"R$ 764,59","R$ 649,90",2021-02-28
-Kabum,Fonte EVGA 850W 80 Plus Bronze Semi Modular 110-BQ-0850-V,Evga,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,Fonte EVGA 550W 100-N1-0550-L,Evga,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,Fonte EVGA 750W 100-N1-0750-L,Evga,"R$ 646,94","R$ 549,90",2021-02-28
-Kabum,Fonte Gamemax 1050W 80 Plus Silver Semi Modular - GMX GM1050,Gamemax,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,Fonte Gamemax 500W 80 Plus Bronze - GMX GM500,Gamemax,"R$ 446,94","R$ 379,90",2021-02-28
-Kabum,"Fonte Gamemax GM500G, 500W, 80 Plus Gold, Semi-Modular - GM500G",Gamemax,"R$ 588,12","R$ 499,90",2021-02-28
-Kabum,"Fonte Gamemax GP650, 650W, 80 Plus Bronze - GP650",Gamemax,"R$ 435,18","R$ 369,90",2021-02-28
-Kabum,"Fonte Gamemax, 550W, 80 Plus Bronze - GM550",Gamemax,"R$ 458,71","R$ 389,90",2021-02-28
-Kabum,"Fonte Gamemax GM600G, 600W, 80 Plus Platinum, Semi-Modular - GM600G",Gamemax,"R$ 999,88","R$ 849,90",2021-02-28
-Kabum,Fonte Hoopson 230W - FNT230-H (FNT-230W+ ),Hoopson,"R$ 90,47","R$ 76,90",2021-02-28
-Kabum,Fonte Hoopson 450W - FNT450W,Hoopson,"R$ 199,88","R$ 169,90",2021-02-28
-Kabum,Fonte Hoopson 400W - FNT400-S (FNT-400W-S),Hoopson,"R$ 158,71","R$ 134,90",2021-02-28
-Kabum,"Fonte Hoopson 650W, RGB - FNT-650W",Hoopson,"R$ 411,65","R$ 349,90",2021-02-28
-Kabum,"Fonte De Alimentação Cftv Ac/Dc 12V 0,5A - Ef 1200 Fonte De Alimentação Cftv Ac/Dc 12V 0.5A - Ef 1200",Intelbras,"R$ 41,00","R$ 41,00",2021-02-28
-Kabum,K-Mex Fonte 600W c/ Autoswitch e Cabo PT600TW,K-mex,"R$ 341,06","R$ 289,90",2021-02-28
-Kabum,Fonte Multilaser ATX 350W GA350,Multilaser,"R$ 223,41","R$ 189,90",2021-02-28
-Kabum,"Fonte Multilaser 450W (230W Real), Sem Cabo - GA230",Multilaser,"R$ 117,53","R$ 99,90",2021-02-28
-Kabum,Multilaser Fonte de Alimentação ATX 400W GA400,Multilaser,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,Fonte de Alimentação Multilaser 350W - GA350,Multilaser,"R$ 299,90","R$ 299,90",2021-02-28
-Kabum,"Fonte NOX URANO Series, 850W, ATX PSU NXURTX850",NOX,"R$ 362,24","R$ 307,90",2021-02-28
-Kabum,"Fonte Nox Urano, 750W, 80 Plus Bronze, 230V - NXURVX750BZ",NOX,"R$ 514,00","R$ 436,90",2021-02-28
-Kabum,"Fonte Nox Urano 650W, 80 Plus Bronze, 230V - NXURVX650BZ",NOX,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,Fonte Nox Urano 850W 80 Plus Bronze - NXURTX850BZ,NOX,"R$ 941,06","R$ 799,90",2021-02-28
-Kabum,Fonte NOX 500W Urano NXURSX500,NOX,"R$ 246,94","R$ 209,90",2021-02-28
-Kabum,Fonte One Power 200W Reais - MP200W-TFX,Onepower,"R$ 164,59","R$ 139,90",2021-02-28
-Kabum,Fonte One Power 250W Reais - MP250W-SFX,Onepower,"R$ 199,88","R$ 169,90",2021-02-28
-Kabum,Fonte Pixxo 1000W 80 Plus Silver - PE1K0S0PSB,Pixxo,"R$ 938,71","R$ 797,90",2021-02-28
-Kabum,"Fonte ATX Power Station PS-500 500W, Bivolt, Preto",Power Station,"R$ 207,29","R$ 207,29",2021-02-28
-Kabum,Fonte PowerX 500W Com Cabo - PX500,PowerX,"R$ 270,47","R$ 229,90",2021-02-28
-Kabum,"Fonte Redragon RGPS, 600W, 80 Plus - GC-PS002-1",Redragon,"R$ 470,47","R$ 399,90",2021-02-28
-Kabum,"Fonte Redragon RGPS, 700W, 80 Plus Bronze, Modular - GC-PS005-1",Redragon,"R$ 670,47","R$ 569,90",2021-02-28
-Kabum,"Fonte Redragon RGPS, 500W, 80 Plus - GC-PS001-1",Redragon,"R$ 411,65","R$ 349,90",2021-02-28
-Kabum,"Fonte TFX Seasonic 300W 80 Plus Bronze, PFC Ativo, Slim, Bivolt Automático - SS-300TFX",Seasonic,"R$ 214,74","R$ 214,74",2021-02-28
-Kabum,"Fonte Seasonic 700W, 80 Plus Bronze",Seasonic,"R$ 235,18","R$ 199,90",2021-02-28
-Kabum,Fonte Sharkoon WPM700 Bronze BR 700W ATX,Sharkoon,"R$ 410,47","R$ 348,90",2021-02-28
-Kabum,"Fonte Brazil PC Tronos BPC-325V1.2, 350W Real, Bivolt",Tronos,"R$ 145,00","R$ 145,00",2021-02-28
-Kabum,"Fonte Gamer ATX Tronos TRS/500PFCA, 500W Real, Bivolt",Tronos,"R$ 263,89","R$ 263,89",2021-02-28
-Kabum,"Fonte Vinik Slim SFX, 230W - VFS230",Vinik,"R$ 164,59","R$ 139,90",2021-02-28
-Kabum,"Fonte Vinik Slim TFX, 230W - VFT230",Vinik,"R$ 184,59","R$ 156,90",2021-02-28
+id,code,sku,site,descricao,marca,potencia
+0,KB-FT-0,BLU500PFC,Kabum,Fonte Bluecase 500W com Cabo e com Caixa - BLU500PFC,Bluecase,500W
+1,KB-FT-1,BPC-230,Kabum,Fonte Brazil PC 230W - BPC-230,Brazil PC,230W
+2,KB-FT-2,BPC/500,Kabum,Fonte Brazil PC 500W 80 Plus Bronze BPC/500 - 38040,Brazil PC,500W
+3,KB-FT-3,BPC/7400,Kabum,Fonte Brazil PC 750W BPC/7400 - 38038,Brazil PC,750W
+4,KB-FT-4,BPC/500PFCA,Kabum,Fonte Brazil PC 500W BPC/500PFCA - 38039,Brazil PC,500W
+5,KB-FT-5,BPC/5330,Kabum,Fonte Brazil PC 500W BPC/5330 - 38036,Brazil PC,500W
+6,KB-FT-6,BPC/6350,Kabum,Fonte Brazil PC 600W BPC/6350 - 38037,Brazil PC,600W
+7,KB-FT-7,PS-G500B,Kabum,"Fonte C3Tech PS-G500B, 500W, 80 Plus Bronze - PS-G500B",C3 tech,500W
+8,KB-FT-8,PS-200SFX,Kabum,Fonte C3 Tech 200W SFX PS-200SFX,C3 tech,200W
+9,KB-FT-9,PS-350,Kabum,Fonte C3 Tech 350W sem Cabo - PS-350,C3 tech,350W
+10,KB-FT-10,PS-G600B,Kabum,"Fonte C3Tech PS-G600B, 600W, 80 Plus Bronze - PS-G600B",C3 tech,600W
+11,KB-FT-11,PS-500BK,Kabum,"Fonte C3 Tech PS-500BK, 500W - PS-500BK",C3 tech,500W
+12,KB-FT-12,MPW-3001-ACAAN1,Kabum,Fonte Cooler Master 300W Elite V3 - MPW-3001-ACAAN1,Cooler Master,300W
+13,KB-FT-13,MPE-4501-ACAAW-BR,Kabum,"Fonte Cooler Master MWE White V2 450W, 80 Plus Standart - MPE-4501-ACAAW-BR",Cooler Master,450W
+14,KB-FT-14,MPE-7501-ACAAW,Kabum,"Fonte Cooler Master MWE 750 White V2, 750W, 80 Plus Standard - MPE-7501-ACAAW",Cooler Master,750W
+15,KB-FT-15,MPY-6501-ACAAG,Kabum,"Fonte Cooler Master MWE 650W, 80 Plus Gold - MPY-6501-ACAAG",Cooler Master,650W
+16,KB-FT-16,MPY-5501-ACAAG,Kabum,"Fonte Cooler Master MWE 550W, 80 Plus Gold - MPY-5501-ACAAG",Cooler Master,550W
+17,KB-FT-17,MPE-6501-ACAAG-WO,Kabum,"Fonte Cooler Master MWE, 650W, 80 Plus Gold - MPE-6501-ACAAG-WO",Cooler Master,650W
+18,KB-FT-18,MPX-4501-AMAAB-OF,Kabum,"Fonte Cooler Master MasterWatt TUF 450W, 80 Plus Bronze, Semi-Modular - MPX-4501-AMAAB-OF",Cooler Master,450W
+19,KB-FT-19,MPE-7501-ACAAG-WO,Kabum,"Fonte Cooler Master MWE V2, 750W, 80 Plus Gold - MPE-7501-ACAAG-WO",Cooler Master,750W
+20,KB-FT-20,MPE-5501-ACAAW-BR,Kabum,"Fonte Cooler Master MWE White V2 550W, 80 Plus Standart - MPE-5501-ACAAW-BR",Cooler Master,550W
+21,KB-FT-21,MPE-7001-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze V2, 700W, 80 Plus Bronze - MPE-7001-ACAAB-BR",Cooler Master,700W
+22,KB-FT-22,MPE-5501-ACAAG-WO,Kabum,"Fonte Cooler Master MWE V2, 550W, 80 Plus Gold - MPE-5501-ACAAG-WO",Cooler Master,550W
+23,KB-FT-23,MPE-5001-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze V2, 500W, 80 Plus Bronze - MPE-5001-ACAAB-BR",Cooler Master,500W
+24,KB-FT-24,MPE-6501-ACAAW-BR,Kabum,"Fonte Cooler Master MWE White V2 650W, 80 Plus Standard - MPE-6501-ACAAW-BR",Cooler Master,650W
+25,KB-FT-25,MPE-8501-ACAAG-WO,Kabum,"Fonte Cooler Master MWE V2, 850W, 80 Plus Gold - MPE-8501-ACAAG-WO",Cooler Master,850W
+26,KB-FT-26,MPE-6001-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze V2, 600W, 80 Plus Bronze - MPE-6001-ACAAB-BR",Cooler Master,600W
+27,KB-FT-27,CP-9020123,Kabum,"Fonte Corsair 750W 80 Plus Bronze CX750, PFC Ativo - CP-9020123",Corsair,750W
+28,KB-FT-28,CP-9020209-BR,Kabum,"Fonte Corsair CV450, 450W, 80 Plus Bronze - CP-9020209-BR",Corsair,450W
+29,KB-FT-29,CP-9020121,Kabum,Fonte Corsair 550W 80 Plus Bronze CX550 - CP-9020121,Corsair,550W
+30,KB-FT-30,CP-9020008,Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular AX1200i - CP-9020008,Corsair,1200W
+31,KB-FT-31,CP-9020120-BR,Kabum,Fonte Corsair 450W 80 Plus Bronze CX450 - CP-9020120-BR,Corsair,450W
+32,KB-FT-32,CP-9020182-NA,Kabum,"Fonte Corsair SF Series, 600W, 80 Plus Platinum, Modular - CP-9020182-NA",Corsair,600W
+33,KB-FT-33,CP-9020122,Kabum,Fonte Corsair 650W 80 Plus Bronze CX650 - CP-9020122,Corsair,650W
+34,KB-FT-34,CP-9020177-WW,Kabum,"Fonte Corsair RM550X, 550W, 80 Plus Gold, Modular - CP-9020177-WW",Corsair,550W
+35,KB-FT-35,CP-9020074,Kabum,Fonte Corsair 1000W 80 Plus Platinum Modular HX1000i - CP-9020074,Corsair,1000W
+36,KB-FT-36,CP-9020104-NA,Kabum,"Fonte Corsair SF Series, 450W, 80 Plus Gold, Modular - CP-9020104-NA",Corsair,450W
+37,KB-FT-37,CP-9020224-BR,Kabum,"Fonte Corsair VS600, 600W, 80 Plus - CP-9020224-BR",Corsair,600W
+38,KB-FT-38,CP-9020211-BR,Kabum,"Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-9020211-BR",Corsair,650W
+39,KB-FT-39,CP-9020181-WW,Kabum,"Fonte Corsair SF Series, 450W, 80 Plus Platinum, Modular - CP-9020181-WW",Corsair,450W
+40,KB-FT-40,CP-9020178,Kabum,Fonte Corsair 650W 80 Plus Gold Modular RMX - CP-9020178,Corsair,650W
+41,KB-FT-41,CP-9020210-BR,Kabum,"Fonte Corsair CV550, 550W, 80 Plus Bronze - CP-9020210-BR",Corsair,550W
+42,KB-FT-42,CP-9020118,Kabum,Fonte Corsair 500W 80 Plus White VS500 - CP-9020118,Corsair,500W
+43,KB-FT-43,CP-9020131,Kabum,Fonte Corsair 750W 80 Plus Gold Semi Modular TX750M CP-9020131,Corsair,750W
+44,KB-FT-44,CP-9020104-WW,Kabum,Fonte Corsair 450W 80 Plus Gold CP-9020104-WW,Corsair,450W
+45,KB-FT-45,31BX070006P01,Kabum,"Fonte Cougar BXM 700W, 80 Plus Bronze, Semi-Modular - 31BX070006P01",Cougar,700W
+46,KB-FT-46,BS-600,Kabum,Fonte Cougar 600W 80 Plus Bronze VTE - CGR BS-600,Cougar,600W
+47,KB-FT-47,BS-500,Kabum,Fonte Cougar 500W 80 Plus Bronze VTE - CGR BS-500,Cougar,500W
+48,KB-FT-48,31VC050006P01,Kabum,Fonte Cougar VTC500 500W 80 Plus White - 31VC050006P01,Cougar,500W
+49,KB-FT-49,31BX085005P01,Kabum,"Fonte Cougar BXM850, 850W, 80 PLUS Bronze, Semi Modular - 31BX085005P01",Cougar,850W
+50,KB-FT-50,31VC060004P01,Kabum,"Fonte Cougar VTC600, 600W, 80 Plus - 31VC060004P01",Cougar,600W
+51,KB-FT-51,DA700,Kabum,"Fonte DeepCool DA700, 700W, 80 Plus Bronze - DA700",Deepcool,700W
+52,KB-FT-52,110-BQ-0650-V,Kabum,Fonte EVGA 650W 80 Plus Bronze Semi Modular 110-BQ-0650-V,Evga,650W
+53,KB-FT-53,100-N1-0550-L,Kabum,Fonte EVGA 550W 100-N1-0550-L,Evga,550W
+54,KB-FT-54,220-GA-0850-X,Kabum,"Fonte EVGA SuperNOVA 850 GA, 850W, 80 Plus Gold, Modular - 220-GA-0850-X",Evga,850W
+55,KB-FT-55,100-GD-0700-V,Kabum,"Fonte EVGA 700 GD, 700W, 80 Plus Gold - 100-GD-0700-V",Evga,700W
+56,KB-FT-56,220-G5-0750-X,Kabum,"Fonte EVGA SuperNOVA 750 G5, 750W, 80 Plus Gold, Modular - 220-G5-0750-X",Evga,750W
+57,KB-FT-57,210-GQ-0850-V,Kabum,Fonte EVGA 850W 80 Plus Gold Semi Modular Modo ECO 210-GQ-0850-V,Evga,850W
+58,KB-FT-58,220-B5-0850-V,Kabum,"Fonte EVGA 850 B5, 850W, 80 Plus Bronze, Modular - 220-B5-0850-V",Evga,850W
+59,KB-FT-59,220-B5-0650-V,Kabum,"Fonte EVGA 650 B5, 650W, 80 Plus Bronze, Modular - 220-B5-0650-V",Evga,650W
+60,KB-FT-60,110-BQ-0750-V,Kabum,"Fonte EVGA 750W 80 Plus Bronze, Semi Modular, PFC Ativo - 110-BQ-0750-V",Evga,750W
+61,KB-FT-61,110-BQ-0600-K,Kabum,Fonte EVGA 600W 80 Plus Bronze PFC Ativo - 110-BQ-0600-K,Evga,600W
+62,KB-FT-62,100-BR-0500-K,Kabum,"Fonte EVGA 500W, 80 Plus Bronze - 100-BR-0500-K",Evga,500W
+63,KB-FT-63,100-N1-0400-L,Kabum,Fonte EVGA 400W 100-N1-0400-L,Evga,400W
+64,KB-FT-64,100-BR-0600-K,Kabum,"Fonte EVGA 600W, 80 Plus Bronze - 100-BR-0600-K",Evga,600W
+65,KB-FT-65,220-GA-0750-X,Kabum,"Fonte EVGA SuperNOVA 750 GA, 750W, 80 Plus Gold, Modular - 220-GA-0750-X",Evga,750W
+66,KB-FT-66,100-GD-0600-V,Kabum,"Fonte EVGA 600 GD, 600W, 80 Plus Gold - 100-GD-0600-V",Evga,600W
+67,KB-FT-67,110-BQ-0850-V,Kabum,Fonte EVGA 850W 80 Plus Bronze Semi Modular 110-BQ-0850-V,Evga,850W
+68,KB-FT-68,210-GQ-0750-V,Kabum,Fonte EVGA 750W 80 Plus Gold Semi Modular Modo ECO 210-GQ-0750-V,Evga,750W
+69,KB-FT-69,100-BR-0700-K,Kabum,"Fonte EVGA 700W, 80 Plus Bronze - 100-BR-0700-K",Evga,700W
+70,KB-FT-70,220-B5-0750-V,Kabum,"Fonte EVGA 750 B5, 750W, 80 Plus Bronze, Modular - 220-B5-0750-V",Evga,750W
+71,KB-FT-71,100-GD-0500-V,Kabum,"Fonte EVGA 500 GD, 500W, 80 Plus Gold - 100-GD-0500-V",Evga,500W
+72,KB-FT-72,220-G5-0850-X,Kabum,"Fonte EVGA SuperNOVA 850 G5, 850W, 80 Plus Gold, Modular - 220-G5-0850-X",Evga,850W
+73,KB-FT-73,100-W1-0500-KR,Kabum,Fonte EVGA 500W 80 Plus White - 100-W1-0500-KR,Evga,500W
+74,KB-FT-74,210-GQ-1000-V,Kabum,Fonte EVGA 1000W 80 Plus Gold Semi Modular Modo ECO 210-GQ-1000-V,Evga,1000W
+75,KB-FT-75,100-W1-0700-K,Kabum,"Fonte EVGA 700W, 80 Plus White - 100-W1-0700-K",Evga,700W
+76,KB-FT-76,100-W1-0600-K,Kabum,Fonte EVGA 600W 80 Plus White - 100-W1-0600-K,Evga,600W
+77,KB-FT-77,110-BQ-0500-K,Kabum,"Fonte EVGA 500 BQ, 500W, 80 Plus Bronze, Semi Modular - 110-BQ-0500-K",Evga,500W
+78,KB-FT-78,100-BR-0450-K,Kabum,"Fonte EVGA 450W, 80 Plus Bronze - 100-BR-0450-K",Evga,450W
+79,KB-FT-79,100-N1-0650-L,Kabum,Fonte EVGA 650W 100-N1-0650-L,Evga,650W
+80,KB-FT-80,GP-P750GM,Kabum,"Fonte Gigabyte GP-P750GM, 750W, 80 Plus Gold, Totalmente Modular - GP-P750GM",Gigabyte,750W
+81,KB-FT-81,28200-P550B-1BRR,Kabum,"Fonte Gigabyte GP-P550B 550W, 80 Plus Bronze - 28200-P550B-1BRR",Gigabyte,550W
+82,KB-FT-82,FNT-500W,Kabum,Fonte Hoopson 500W - FNT-500W,Hoopson,500W
+83,KB-FT-83,GA350,Kabum,Fonte Multilaser ATX 350W GA350,Multilaser,350W
+84,KB-FT-84,NXURSX500,Kabum,Fonte NOX 500W Urano NXURSX500,NOX,500W
+85,KB-FT-85,NP-C750M-WO,Kabum,"Fonte NZXT C750, 750W, 80 Plus Gold, Modular - NP-C750M-WO",NZXT,750W
+86,KB-FT-86,NP-C650M-WO,Kabum,"Fonte NZXT C650, 650W, 80 Plus Gold, Modular - NP-C650M-WO",NZXT,650W
+87,KB-FT-87,PX230,Kabum,Fonte PowerX 230W Com Cabo de Energia - PX230,PowerX,230W
+88,KB-FT-88,PX500,Kabum,Fonte PowerX 500W Com Cabo - PX500,PowerX,500W
+89,KB-FT-89,SSR-500RA,Kabum,"Fonte Seasonic, 500W, 80 Plus, 220V - A12 SSR-500RA",Seasonic,500W
+90,KB-FT-90,S12III-550,Kabum,"Fonte Seasonic, 550W, 80 Plus Bronze - S12III-550",Seasonic,550W
+91,KB-FT-91,SSR-600RA,Kabum,"Fonte Seasonic, 600W, 80 Plus, 220V - A12 SSR-600RA",Seasonic,600W
+92,KB-FT-92,S12III-500,Kabum,"Fonte Seasonic, 500W, 80 Plus Bronze - S12III-500",Seasonic,500W
+93,KB-FT-93,GM-550,Kabum,"Fonte Seasonic Focus GM-550, 550W, 80 Plus Gold, Semi-Modular - GM-550",Seasonic,550W
+94,KB-FT-94,GM-750,Kabum,"Fonte Seasonic, 750W, 80 Plus Gold, Semi-Modular - GM-750",Seasonic,750W
+95,KB-FT-95,GX-850,Kabum,"Fonte Seasonic, 850W, 80 Plus Gold, Modular - FOCUS GX-850",Seasonic,850W
+96,KB-FT-96,SSR-700RA,Kabum,"Fonte Seasonic, 700W, 80 Plus, 220V - A12 SSR-700RA",Seasonic,700W
+97,KB-FT-97,S12III-650,Kabum,"Fonte Seasonic, 650W, 80 Plus Bronze - S12III-650",Seasonic,650W
+98,KB-FT-98,GX-750,Kabum,"Fonte Seasonic, 750W, 80 Plus Gold, Modular - FOCUS GX-750",Seasonic,750W
+99,KB-FT-99,PS-SPD-0450NNFABB-1,Kabum,"Fonte Thermaltake TT Smart BX1, 450W, 80 Plus Bronze - PS-SPD-0450NNFABB-1",Thermaltake,450W
+100,KB-FT-100,VFT230,Kabum,"Fonte Vinik Slim TFX, 230W - VFT230",Vinik,230W
+101,KB-FT-101,FNWD0005,Kabum,Fonte Wisecase 500W - FNWD0005,Wisecase,500W
+102,KB-FT-102,NaN,Kabum,"Fonte XPG Core Reactor, 750W, 80 Plus Gold Modular",XPG,750W
+103,KB-FT-103,EN57181,Kabum,Fonte Aerocool 350W VX-350 EN57181,Aerocool,350W
+104,KB-FT-104,EN57136,Kabum,Fonte Aerocool 500W VX-500 EN57136,Aerocool,500W
+105,KB-FT-105,EN53367,Kabum,Fonte Aerocool 500W 80 Plus Bronze KCAS-500W EN53367,Aerocool,500W
+106,KB-FT-106,KCAS,Kabum,Fonte Aerocool 400W 80 Plus White KCAS,Aerocool,400W
+107,KB-FT-107,BLU230ESCASE,Kabum,"Fonte Bluecase BLU2030-EATX Small, 230W, Com Cabo - BLU230ESCASE",Bluecase,230W
+108,KB-FT-108,500R-B,Kabum,"Fonte Bluecase Real BLU 500R-B, 500W, 80 Plus Bronze, com Cabo - BLU 500R-B",Bluecase,500W
+109,KB-FT-109,BLU500R-B,Kabum,Fonte Bluecase 500W 80 Plus Bronze - BLU500R-B,Bluecase,500W
+110,KB-FT-110,BLU350PFC,Kabum,Fonte BlueCase ATX 350W PFC c/ Cabo - BLU350PFC,Bluecase,350W
+111,KB-FT-111,BLU500ECASE,Kabum,"Fonte Bluecase Blu 500-E ATX, 500W com Cabo - BLU500ECASE",Bluecase,500W
+112,KB-FT-112,UP-S800W,Kabum,Fonte BR One 800W - UP-S800W,BR One,800W
+113,KB-FT-113,PS-200V4,Kabum,"Fonte C3 Plus, 200W - PS-200V4",C3 Plus,200W
+114,KB-FT-114,PS-G700M,Kabum,Fonte C3-Tech 700W 80 Plus White - PS-G700M,C3 tech,700W
+115,KB-FT-115,MPW-5001-ACAAN1,Kabum,Fonte Cooler Master 500W Elite V3 - MPW-5001-ACAAN1,Cooler Master,500W
+116,KB-FT-116,MPY-7501-AFAAG,Kabum,"Fonte Cooler Master MWE 750W, 80 Plus Gold, Modular - MPY-7501-AFAAG",Cooler Master,750W
+117,KB-FT-117,MPW-6001-ACAAN1,Kabum,Fonte Cooler Master Elite V3 600W - MPW-6001-ACAAN1,Cooler Master,600W
+118,KB-FT-118,MPX-4501-AMAAB,Kabum,Fonte Cooler Master 450W 80 Plus Bronze Semi-Modular MW - MPX-4501-AMAAB,Cooler Master,450W
+119,KB-FT-119,RS-500-PCARN1,Kabum,Fonte Cooler Master 500W Elite - RS-500-PCARN1,Cooler Master,500W
+120,KB-FT-120,MPE-4501-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze, 450W, 80 Plus Bronze - MPE-4501-ACAAB-BR",Cooler Master,450W
+121,KB-FT-121,MPX-4501-ACAAB-BR,Kabum,"Fonte Cooler Master 450W, 80 Plus Bronze, com Cabo - MPX-4501-ACAAB-BR",Cooler Master,450W
+122,KB-FT-122,MPZ-A001-AFBAPV,Kabum,"Fonte Cooler Master V1000 Platinum, 1000W, 80 Plus Platinum, Modular - MPZ-A001-AFBAPV",Cooler Master,1000W
+123,KB-FT-123,NaN,Kabum,Fonte CoolerMaster GX 750W RS750-ACAAB3-WO 80 Plus Bronze,Cooler Master,750W
+124,KB-FT-124,MPX-5501-AMAAB-OF,Kabum,"Fonte Cooler Master MasterWatt TUF 550W, 80 Plus Bronze, Semi-Modular - MPX-5501-AMAAB-OF",Cooler Master,550W
+125,KB-FT-125,CP-9020070,Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular HX1200i - CP-9020070,Corsair,1200W
+126,KB-FT-126,CP-9020094,Kabum,Fonte Corsair 1000W 80 Plus Gold Modular RM1000X - CP-9020094,Corsair,1000W
+127,KB-FT-127,CP-9020180,Kabum,Fonte Corsair 850W 80 Plus Gold Modular RMx - CP-9020180,Corsair,850W
+128,KB-FT-128,CP-9020188-WW,Kabum,"Fonte Corsair RMX White Series, 850W, 80 Plus Gold, Modular, Branca - CP-9020188-WW",Corsair,850W
+129,KB-FT-129,CP-9020223-BR,Kabum,"Fonte Corsair VS500, 500W, 80 Plus - CP-9020223-BR",Corsair,500W
+130,KB-FT-130,CP-9020139,Kabum,Fonte Corsair 1000W 80 Plus Platinum Modular HX1000 - CP-9020139,Corsair,1000W
+131,KB-FT-131,CP-9020137-WW,Kabum,Fonte Corsair 750W 80 Plus Platinum Modular HX750 - CP-9020137-WW,Corsair,750W
+132,KB-FT-132,CP-9020105-NA,Kabum,"Fonte Corsair SF Series, 600W, 80 Plus Gold, Modular - CP-9020105-NA",Corsair,600W
+133,KB-FT-133,CP-9020087,Kabum,"Fonte Corsair 1600W 80 Plus Titanium Modular, AX1600i - CP-9020087",Corsair,1600W
+134,KB-FT-134,CP-9020151-WW,Kabum,"Fonte Corsair AX Series AX850, 850W, 80 Plus Titanium, Modular - CP-9020151-WW",Corsair,850W
+135,KB-FT-135,CP-9020170-BR,Kabum,Fonte Corsair 450W 80 Plus White VS450 - CP-9020170-BR,Corsair,450W
+136,KB-FT-136,CP-9020103,Kabum,Fonte Corsair 650W 80 Plus Bronze Semi Modular CX650M - CP-9020103,Corsair,650W
+137,KB-FT-137,CP-9020061,Kabum,Fonte Corsair 750W 80 Plus Bronze Semi Modular CX750M - CP-9020061,Corsair,750W
+138,KB-FT-138,CP-9020133,Kabum,Fonte Corsair 550W 80 Plus Gold Semi Modular TX550M - CP-9020133,Corsair,550W
+139,KB-FT-139,CP-9020152,Kabum,"Fonte Corsair AX Series AX1000, 1000W, 80 Plus Titanium, Modular - CP-9020152",Corsair,1000W
+140,KB-FT-140,CP-9020101,Kabum,Fonte Corsair 450W 80 Plus Bronze Semi Modular CX450M - CP-9020101,Corsair,450W
+141,KB-FT-141,CP-9020196,Kabum,"Fonte Corsair RM850, 850W, 80 Plus Gold, Modular - CP-9020196",Corsair,850W
+142,KB-FT-142,CP-9020072-WW,Kabum,Fonte Corsair 750W 80 Plus Platinum Modular HX750i - CP-9020072-WW,Corsair,750W
+143,KB-FT-143,CP-9020187-WW,Kabum,"Fonte Corsair RMX White Series, 750W, 80 Plus Gold, Modular, Branca - CP-9020187-WW",Corsair,750W
+144,KB-FT-144,CP-9020172,Kabum,Fonte Corsair 650W 80 Plus White VS650 - CP-9020172,Corsair,650W
+145,KB-FT-145,CP-9020171,Kabum,Fonte Corsair 550W 80 Plus White VS550 - CP-9020171,Corsair,550W
+146,KB-FT-146,CP-9020140,Kabum,Fonte Corsair 1200W 80 Plus Platinum Modular HX1200 - CP-9020140,Corsair,1200W
+147,KB-FT-147,CP-9020105-WW,Kabum,Fonte Corsair 600W SF600 Gold CP-9020105-WW,Corsair,600W
+148,KB-FT-148,CP-9020138,Kabum,Fonte Corsair 850W 80 Plus Platinum Modular HX850 - CP-9020138,Corsair,850W
+149,KB-FT-149,CP-9020194,Kabum,"Fonte Corsair RM650, 650W, 80 Plus Gold, Modular - CP-9020194",Corsair,650W
+150,KB-FT-150,CP-9020132,Kabum,Fonte Corsair 650W 80 Plus Gold Semi Modular TX650M CP-9020132,Corsair,650W
+151,KB-FT-151,CP-9020102,Kabum,Fonte Corsair 550W 80 Plus Bronze Semi Modular CX550M - CP-9020102,Corsair,550W
+152,KB-FT-152,CP-9020195,Kabum,"Fonte Corsair RM750, 750W, 80 Plus Gold, Modular - CP-9020195",Corsair,750W
+153,KB-FT-153,CP-9020179,Kabum,Fonte Corsair 750W 80 Plus Gold Modular RMx- CP-9020179,Corsair,750W
+154,KB-FT-154,CP-9020186-NA,Kabum,"Fonte Corsair SF Series, 750W, 80 Plus Platinum, Modular - CP-9020186-NA",Corsair,750W
+155,KB-FT-155,CP-9020073-WW,Kabum,Fonte Corsair 850W 80 Plus Platinum Modular HX850i - CP-9020073-WW,Corsair,850W
+156,KB-FT-156,31GE085008P01,Kabum,"Fonte Cougar GEX 850W, 80 Plus Gold, Totalmente Modular - 31GE085008P01",Cougar,850W
+157,KB-FT-157,DA500,Kabum,Fonte Deepcool 500W DA500,Deepcool,500W
+158,KB-FT-158,DA600,Kabum,"Fonte Deepcool 600W, 80 Plus Bronze - DA600",Deepcool,600W
+159,KB-FT-159,FT700WEP,Kabum,Fonte Epic Power 700W - FT700WEP,Epic Power,700W
+160,KB-FT-160,100-N1-0750-L,Kabum,Fonte EVGA 750W 100-N1-0750-L,Evga,750W
+161,KB-FT-161,210-GQ-0650-V,Kabum,Fonte EVGA 650W 80 Plus Gold Semi Modular Modo ECO - 210-GQ-0650-V,Evga,650W
+162,KB-FT-162,120-G2-1300-X,Kabum,Fonte EVGA 1300W 80 Plus Gold Modular SuperNova 120-G2-1300-X,Evga,1300W
+163,KB-FT-163,62849,Kabum,Fonte Fortrek 200W sem Cabo - 62849,Fortrek,200W
+164,KB-FT-164,GP400A,Kabum,"Fonte Gamer Gamemax 400W, 80 Plus Bronze - GP400A",Gamemax,400W
+165,KB-FT-165,GM600G,Kabum,"Fonte Gamemax GM600G, 600W, 80 Plus Platinum, Semi-Modular - GM600G",Gamemax,600W
+166,KB-FT-166,GM500G,Kabum,"Fonte Gamemax GM500G, 500W, 80 Plus Gold, Semi-Modular - GM500G",Gamemax,500W
+167,KB-FT-167,GM600,Kabum,Fonte Gamemax 600W 80 Plus Bronze Semi-Modular - GM600,Gamemax,600W
+168,KB-FT-168,GP650,Kabum,"Fonte Gamemax GP650, 650W, 80 Plus Bronze - GP650",Gamemax,650W
+169,KB-FT-169,GM500,Kabum,Fonte Gamemax 500W 80 Plus Bronze - GMX GM500,Gamemax,500W
+170,KB-FT-170,GM650,Kabum,"Fonte Gamemax, 650W, 80 Plus Bronze - GM650",Gamemax,650W
+171,KB-FT-171,BK,Kabum,Fonte Gamemax 800W 80 Plus Bronze Semi-Modular - GM800 BK,Gamemax,800W
+172,KB-FT-172,GM550,Kabum,"Fonte Gamemax, 550W, 80 Plus Bronze - GM550",Gamemax,550W
+173,KB-FT-173,GM1050,Kabum,Fonte Gamemax 1050W 80 Plus Silver Semi Modular - GMX GM1050,Gamemax,1050W
+174,KB-FT-174,28200-P450B-1BRR,Kabum,"Fonte Gigabyte GP-P450B 450W, 80 Plus Bronze - 28200-P450B-1BRR",Gigabyte,450W
+175,KB-FT-175,GP-P650B/BR,Kabum,Fonte Gigabyte 650W 80 Plus Bronze - GP-P650B/BR,Gigabyte,650W
+176,KB-FT-176,FNT450W,Kabum,Fonte Hoopson 450W - FNT450W,Hoopson,450W
+177,KB-FT-177,"",Kabum,Fonte Hoopson 230W - FNT230-H (FNT-230W+ ),Hoopson,230W
+178,KB-FT-178,FNT-650W,Kabum,"Fonte Hoopson 650W, RGB - FNT-650W",Hoopson,650W
+179,KB-FT-179,FNT-400W-S,Kabum,Fonte Hoopson 400W - FNT400-S (FNT-400W-S),Hoopson,400W
+180,KB-FT-180,FNT-550C,Kabum,"Fonte Hoopson 550W, RGB - FNT-550C",Hoopson,550W
+181,KB-FT-181,PT600TW,Kabum,K-Mex Fonte 600W c/ Autoswitch e Cabo PT600TW,K-mex,600W
+182,KB-FT-182,GA400,Kabum,Multilaser Fonte de Alimentação ATX 400W GA400,Multilaser,400W
+183,KB-FT-183,GA230,Kabum,"Fonte Multilaser 450W (230W Real), Sem Cabo - GA230",Multilaser,450W
+184,KB-FT-184,NXHUMMERX600WBZ,Kabum,Fonte Nox 600W 80 Plus Bronze Semi-Modular Hummer X - NXHUMMERX600WBZ,NOX,600W
+185,KB-FT-185,NXURVX650BZ,Kabum,"Fonte Nox Urano 650W, 80 Plus Bronze, 230V - NXURVX650BZ",NOX,650W
+186,KB-FT-186,NXURTX850BZ,Kabum,Fonte Nox Urano 850W 80 Plus Bronze - NXURTX850BZ,NOX,850W
+187,KB-FT-187,NXURTX850,Kabum,"Fonte NOX URANO Series, 850W, ATX PSU NXURTX850",NOX,850W
+188,KB-FT-188,NXHUMMERX500WBZ,Kabum,"Fonte Nox Hummer X 500W, 80 Plus Bronze - NXHUMMERX500WBZ",NOX,500W
+189,KB-FT-189,NXURVX750BZ,Kabum,"Fonte Nox Urano, 750W, 80 Plus Bronze, 230V - NXURVX750BZ",NOX,750W
+190,KB-FT-190,NP-C850M-WO,Kabum,"Fonte NZXT C850, 850W, 80 Plus Gold, Modular - NP-C850M-WO",NZXT,850W
+191,KB-FT-191,MP500W3-I,Kabum,Fonte One Power 500W - MP500W3-I,Onepower,500W
+192,KB-FT-192,MP600W3-I,Kabum,Fonte One Power 600W - MP600W3-I,Onepower,600W
+193,KB-FT-193,MP200W-TFX,Kabum,Fonte One Power 200W Reais - MP200W-TFX,Onepower,200W
+194,KB-FT-194,MP250W-SFX,Kabum,Fonte One Power 250W Reais - MP250W-SFX,Onepower,250W
+195,KB-FT-195,PXSP400WPT,Kabum,"Fonte PCYes Spark 75+, 400W - PXSP400WPT",PCYes,400W
+196,KB-FT-196,PXSP600WPT,Kabum,"Fonte PCYes Spark 75+, 600W - PXSP600WPT",PCYes,600W
+197,KB-FT-197,ELECV2PTO450W,Kabum,"Fonte PCYes Electro V2 450W, 80 Plus Bronze - ELECV2PTO450W",PCYes,450W
+198,KB-FT-198,PE1K0S0PSB,Kabum,Fonte Pixxo 1000W 80 Plus Silver - PE1K0S0PSB,Pixxo,1000W
+199,KB-FT-199,PCG050018,Kabum,"Fonte Raptor, 600W, 80 Plus Bronze - PCG050018",Raptor,600W
+200,KB-FT-200,RM-FE-01-AT,Kabum,Fonte Rise Mode Atomic Series 600W - RM-FE-01-AT,Rise Mode,600W
+201,KB-FT-201,GM-850,Kabum,"Fonte Seasonic, 850W, 80 Plus Gold, Semi-Modular - FOCUS GM-850",Seasonic,850W
+202,KB-FT-202,NaN,Kabum,"Fonte Seasonic 700W, 80 Plus Bronze",Seasonic,700W
+203,KB-FT-203,NaN,Kabum,"Fonte Sharkoon SilentStorm Cool Zero, 650W, 80 Plus Gold, Modular - SilentStorm CoolZero 650W",Sharkoon,650W
+204,KB-FT-204,CoolZero,Kabum,"Fonte Sharkoon 750W, 80 Plus Gold, Modular, SilentStorm CoolZero",Sharkoon,750W
+205,KB-FT-205,NaN,Kabum,"Fonte Sharkoon WPM Gold Zero, 650W, 80 Plus Gold, Semi-Modular",Sharkoon,650W
+206,KB-FT-206,NaN,Kabum,"Fonte Sharkoon WPM Gold Zero, 550W, 80 Plus Gold, Semi-Modular",Sharkoon,550W
+207,KB-FT-207,NaN,Kabum,"Fonte Sharkoon WPM Gold Zero, 750W, 80 Plus Gold, Semi-Modular",Sharkoon,750W
+208,KB-FT-208,CoolZero,Kabum,"Fonte Sharkoon 850W, 80 Plus Gold, Modular, SilentStorm CoolZero",Sharkoon,850W
+209,KB-FT-209,NaN,Kabum,"Fonte Sharkoon SHP Bronze 600W, 80 Plus Bronze- SHP BRONZE 600W",Sharkoon,600W
+210,KB-FT-210,NaN,Kabum,"Fonte Sharkoon SHP Bronze 500W, 80 Plus Bronze - SHP BRONZE 500W",Sharkoon,500W
+211,KB-FT-211,ATX,Kabum,Fonte Sharkoon WPM700 Bronze BR 700W ATX,Sharkoon,700W
+212,KB-FT-212,PS-SPD-0500NPCW,Kabum,Fonte Thermaltake 500W 80 Plus White Smart Series - PS-SPD-0500NPCW,Thermaltake,500W
+213,KB-FT-213,PS-SPD-0700NPCW,Kabum,Fonte Thermaltake 700W 80 Plus White Smart Series - PS-SPD-0700NPCW,Thermaltake,700W
+214,KB-FT-214,PS-SPD-0600NPCW,Kabum,Fonte Thermaltake 600W 80 Plus White Smart Series - PS-SPD-0600NPCW,Thermaltake,600W
+215,KB-FT-215,PS-SPD-0650NNFABB-1,Kabum,"Fonte Thermaltake TT Smart BX1, 650W, 80 Plus Bronze - PS-SPD-0650NNFABB-1",Thermaltake,650W
+216,KB-FT-216,PS-SPD-0550NNFABB-1,Kabum,"Fonte Thermaltake TT Smart BX1, 550W, 80 Plus Bronze - PS-SPD-0550NNFABB-1",Thermaltake,550W
+217,KB-FT-217,PS-SPR-0700NHFAWB-1,Kabum,Fonte Thermaltake 700W 80 Plus White RGB Smart PS-SPR-0700NHFAWB-1,Thermaltake,700W
+218,KB-FT-218,PS-SPD-0750NNFABB-1,Kabum,"Fonte Thermaltake Smart BX1, 750W, 80 Plus Bronze - PS-SPD-0750NNFABB-1",Thermaltake,750W
+219,KB-FT-219,PS-SPR-0650FPCBUS-R,Kabum,Fonte Thermaltake 650W 80 Plus Bronze - PS-SPR-0650FPCBUS-R,Thermaltake,650W
+220,KB-FT-220,VFS230,Kabum,"Fonte Vinik Slim SFX, 230W - VFS230",Vinik,230W
+221,KB-FT-221,P1-650G-TS3X,Kabum,Fonte XFX 650W TS 80 Plus Gold P1-650G-TS3X,XFX,650W
+222,KB-FT-222,NaN,Kabum,"Fonte XPG Core Reactor, 650W, 80 Plus Gold Modular",XPG,650W
+223,KB-FT-223,NaN,Kabum,"Fonte XPG Core Reactor, 850W, 80 Plus Gold Modular",XPG,850W
+224,KB-FT-224,TRS/7400-B,Kabum,"Fonte Tronos Real 750W, Bivolt - TRS/7400-B",Tronos,750W
+225,KB-FT-225,MPE-6501-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze V2 650W, 80 Plus Bronze - MPE-6501-ACAAB-BR",Cooler Master,650W
+226,KB-FT-226,MPX-5501-ACAAB,Kabum,Fonte Cooler Master 550W 80 Plus Bronze MWE - MPX-5501-ACAAB,Cooler Master,550W
+227,KB-FT-227,MPE-5501-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze V2 550W, 80 Plus Bronze - MPE-5501-ACAAB-BR",Cooler Master,550W
+228,KB-FT-228,AG-750M,Kabum,"Fonte Apexgaming Power Supply, 750W, 80 Plus Gold, Modular - AG-750M",Apexgaming,750W
+229,KB-FT-229,AG-850M,Kabum,"Fonte Apexgaming Power Supply, 850W, 80 Plus Gold, Modular - AG-850M",Apexgaming,850W
+230,KB-FT-230,1200,Kabum,"Fonte De Alimentação Cftv Ac/Dc 12V 0,5A - Ef 1200 Fonte De Alimentação Cftv Ac/Dc 12V 0.5A - Ef 1200",Intelbras,NaN
+231,KB-FT-231,GA350,Kabum,Fonte de Alimentação Multilaser 350W - GA350,Multilaser,350W
+232,KB-FT-232,SFX-300W-BR5,Kabum,Fonte Spire ATX Mini ITX 300W SFX-300W-BR5,Spire,300W
+233,KB-FT-233,BLU400R-80E,Kabum,"Fonte Bluecase 400W, 80 Plus White, Com Cabo - BLU400R-80E",Bluecase,400W
+234,KB-FT-234,AG-650M,Kabum,"Fonte Apexgaming Power Supply, 650W, 80 Plus Gold, Modular - AG-650M",Apexgaming,650W
+235,KB-FT-235,STG-650,Kabum,"Fonte Apexgaming Power Supply, 650W, 80 Plus Gold - STG-650",Apexgaming,650W
+236,KB-FT-236,PS-G700M,Kabum,"Fonte C3Tech ATX, 700W, 80 Plus White - PS-G700M",C3 tech,700W
+237,KB-FT-237,MPW-4001-ACAAN1,Kabum,Fonte Cooler Master 400W Elite V3 - MPW-4001-ACAAN1,Cooler Master,400W
+238,KB-FT-238,MPY-7501-ACAAG,Kabum,"Fonte Cooler Master MWE 750W, 80 Plus Gold - MPY-7501-ACAAG",Cooler Master,750W
+239,KB-FT-239,MPY-6501-AFAAG,Kabum,"Fonte Cooler Master MWE 650W, 80 Plus Gold, Modular - MPY-6501-AFAAG",Cooler Master,650W
+240,KB-FT-240,Pxsp500wpt,Kabum,"Fonte PCyes ATX Spark, 500W - Pxsp500wpt",PCYes,500W
+241,KB-FT-241,PS-TPD-0750F3FAGB-1,Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 750W, 80 Plus Gold Modular - PS-TPD-0750F3FAGB-1",Thermaltake,750W
+255,KB-FT-255,FT251BRA,Kabum,"Fonte Raptor, 500W, 80 Plus Bronze - FT251BRA",Raptor,500W
+242,KB-FT-242,PS-TPD-0650FNFAGB-1,Kabum,"Fonte Thermaltake TT Toughpower GF1 Fully, 650W, 80 Plus Gold, Modular - PS-TPD-0650FNFAGB-1",Thermaltake,650W
+243,KB-FT-243,PS-TPD-0850F3FAGB-1,Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 850W, 80 Plus Gold, Modular - PS-TPD-0850F3FAGB-1",Thermaltake,850W
+244,KB-FT-244,PS-TPD-0650F3FAGB-1,Kabum,"Fonte Thermaltake TT Toughpower GF1 ARGB Fully, 650W, 80 Plus Gold, Modular - PS-TPD-0650F3FAGB-1",Thermaltake,650W
+245,KB-FT-245,PS-TPD-0850FNFAGB-1,Kabum,"Fonte Thermaltake TT Toughpower GF1 Fully, 850W, 80 Plus Gold, Modular - PS-TPD-0850FNFAGB-1",Thermaltake,850W
+246,KB-FT-246,MPY-850V-AGBAG-WO,Kabum,"Fonte Cooler Master V Gold V2 White Edition, 850W, 80 Plus Gold, Modular, Branco - MPY-850V-AGBAG-WO",Cooler Master,850W
+247,KB-FT-247,MPY-750V-AGBAG-WO,Kabum,"Fonte Cooler Master V Gold V2 White Edition, 750W, 80 Plus Gold, Modular, Branco - MPY-750V-AGBAG-WO",Cooler Master,750W
+248,KB-FT-248,MPY-850V-AFBAG-WO,Kabum,"Fonte Cooler Master V Gold V2, 850W, 80 Plus Gold, Modular - MPY-850V-AFBAG-WO",Cooler Master,850W
+249,KB-FT-249,MPY-750V-AFBAG-WO,Kabum,"Fonte Cooler Master V Gold V2, 750W, 80 Plus Gold, Modular - MPY-750V-AFBAG-WO",Cooler Master,750W
+250,KB-FT-250,31VE060.0005P,Kabum,"Fonte Cougar Gaming VTE 600W, 80Plus Bronze, PFC Ativo - 31VE060.0005P",Cougar,600W
+251,KB-FT-251,GC-PS001-1,Kabum,"Fonte Redragon RGPS, 500W, 80 Plus - GC-PS001-1",Redragon,500W
+252,KB-FT-252,GC-PS002-1,Kabum,"Fonte Redragon RGPS, 600W, 80 Plus - GC-PS002-1",Redragon,600W
+253,KB-FT-253,GC-PS005-1,Kabum,"Fonte Redragon RGPS, 700W, 80 Plus Bronze, Modular - GC-PS005-1",Redragon,700W
+254,KB-FT-254,P1-0650-XTR2,Kabum,Fonte XFX XTR2 Série 650W 80 Plus Gold Modular - P1-0650-XTR2,XFX,650W
+256,KB-FT-256,B700H,Kabum,Fonte Gigabyte 700W 80 Plus Bronze Semi Modular - B700H,Gigabyte,700W
+257,KB-FT-257,MPX-7501-AMAAB,Kabum,Fonte Cooler Master 750W 80 Plus Bronze Semi-Modular MasterWatt - MPX-7501-AMAAB,Cooler Master,750W
+258,KB-FT-258,MPX-5501-AMAAB,Kabum,Fonte Cooler Master 550W 80 Plus Bronze Semi-Modular MasterWatt - MPX-5501-AMAAB,Cooler Master,550W
+259,KB-FT-259,MPX-6501-AMAAB-OF,Kabum,"Fonte Cooler Master MasterWatt 650 TUF Gaming Edition, 650W, 80 Plus Bronze, Semi Modular - MPX-6501-AMAAB-OF",Cooler Master,650W
+260,KB-FT-260,MPE-7501-ACAAB-BR,Kabum,"Fonte Cooler Master MWE Bronze, 750W, 80 Plus Bronze - MPE-7501-ACAAB-BR",Cooler Master,750W
+261,KB-FT-261,CP-9020123-WW,Kabum,"Fonte ATX Corsair CX 750W, 80 Plus Bronze CP-9020123-WW",Corsair,750W
+262,KB-FT-262,GM500W,Kabum,"Fonte Gamemax GM500W, 500W, Branca - GM500W",Gamemax,500W
+263,KB-FT-263,NaN,Kabum,"Fonte Gamer Ktrok 500w Real Pfc Ativo 80 Plus, Bronze",Ktrok,500w
+264,KB-FT-264,PYLON450B-BKCBR,Kabum,Fonte XPG 450W - PYLON450B-BKCBR,XPG,450W
+265,KB-FT-265,KCAS-600W,Kabum,Fonte Aerocool ATX 600W 80 Plus Bronze Full Range KCAS-600W,Aerocool,600W
+266,KB-FT-266,Cabo,Kabum,"Fonte ATX Aerocool 600W KCAS 80Plus, Bronze, Bivolt, FAN 120mm, Sem Cabo",Aerocool,600W
+267,KB-FT-267,90YE00A1-B0BA00,Kabum,"Fonte Asus ROG-STRIX-650G, 650W, 80 Plus Gold, Full Modular - 90YE00A1-B0BA00",Asus,650W
+268,KB-FT-268,90YE00A0-B0BA00,Kabum,"Fonte Asus ROG-STRIX-750G, 750W, 80 Plus Gold, Full Modular - 90YE00A0-B0BA00",Asus,750W
+269,KB-FT-269,90YE00A2-B0BA00,Kabum,"Fonte Asus ROG-STRIX-550G, 550W, 80 Plus Gold, Full Modular - 90YE00A2-B0BA00",Asus,550W
+270,KB-FT-270,90YE00H1-B0BA00,Kabum,"Fonte Asus ROG-THOR-850P, 850W, 80 Plus Platinum, Full Modular, RGB - 90YE00H1-B0BA00",Asus,850W
+271,KB-FT-271,90YE00D0-B0BA00,Kabum,"Fonte Asus TUF-GAMING-750B, 750W, 80 Plus Bronze - 90YE00D0-B0BA00",Asus,750W
+272,KB-FT-272,90YE00D2-B0BA00,Kabum,"Fonte Asus TUF-GAMING-550B, 550W, 80 Plus Bronze - 90YE00D2-B0BA00",Asus,550W
+273,KB-FT-273,BLU230ESCASE,Kabum,"Fonte Bluecase BLU230-EATX Small, 230W, Com Cabo - BLU230ESCASE",Bluecase,230W
+274,KB-FT-274,AMAAB-WO,Kabum,Fonte Cooler Master 650W 80 Plus Bronze Semi-Modular MW - MPX-6501- AMAAB-WO,Cooler Master,650W
+275,KB-FT-275,MPE-7501-ACAAB-WO,Kabum,"Fonte Cooler Master MWE V2, 750W, 80 Plus Bronze - MPE-7501-ACAAB-WO",Cooler Master,750W
+276,KB-FT-276,MPE-5501-ACAAB-WO,Kabum,"Fonte Cooler Master MWE V2, 550W, 80 Plus Bronze - MPE-5501-ACAAB-WO",Cooler Master,550W
+277,KB-FT-277,MPE-4501-ACAAB-WO,Kabum,"Fonte Cooler Master MWE V2, 450W, 80 Plus Bronze - MPE-4501-ACAAB-WO",Cooler Master,450W
+278,KB-FT-278,MPE-6501-ACAAB-WO,Kabum,"Fonte Cooler Master MWE V2, 650W, 80 Plus Bronze - MPE-6501-ACAAB-WO",Cooler Master,650W
+279,KB-FT-279,MPX-7501-AMAAB-WO,Kabum,"Fonte Cooler Masterwatt, 750W, 80 Plus Bronze, Semi Modular - MPX-7501-AMAAB-WO",Cooler Master,750W
+280,KB-FT-280,MPX-5501-AMAAB-WO,Kabum,"Fonte Cooler Masterwatt, 550W, 80 Plus Bronze, Semi Modular - MPX-5501-AMAAB-WO",Cooler Master,550W
+281,KB-FT-281,CP-9020218-BR,Kabum,"Fonte Corsair CX750F, 750W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020218-BR",Corsair,750W
+282,KB-FT-282,CP-9020117-LA,Kabum,"Fonte Gamer ATX, Corsair VS400 400W 80 Plus White, Bivolt, PFC Ativo - CP-9020117-LA",Corsair,400W
+283,KB-FT-283,CP-9020216-BR,Kabum,"Fonte Corsair CX550F, 550W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020216-BR",Corsair,550W
+284,KB-FT-284,CP-9020236-BR,Kabum,"Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-9020236-BR",Corsair,650W
+285,KB-FT-285,CP-9020120-WW,Kabum,Fonte ATX Corsair CX 450W 80 Plus Bronze - CP-9020120-WW,Corsair,450W
+286,KB-FT-286,CP-9020217-BR,Kabum,"Fonte Corsair CX650F, 650W, 80 Plus Bronze, Totalmente Modular, RGB - CP-9020217-BR",Corsair,650W
+287,KB-FT-287,EP-C650W,Kabum,Fonte Epic Power 650W - EP-C650W,Epic Power,650W
+288,KB-FT-288,220-G5-1000-X,Kabum,"Fonte EVGA SuperNOVA 1000 G5, 1000W, 80 Plus Gold, Modular - 220-G5-1000-X",Evga,1000W
+289,KB-FT-289,220-G5-0650-X,Kabum,"Fonte EVGA SuperNOVA 650 G5, 650W, 80 Plus Gold, Modular - 220-G5-0650-X",Evga,650W
+290,KB-FT-290,110-BQ-0700-V0,Kabum,"Fonte EVGA 700 BQ, 700W, 80 Plus Bronze, Semi Modular - 110-BQ-0700-V0",Evga,700W
+291,KB-FT-291,BRONZE-500W,Kabum,"Fonte Gamer EVUS EVG500, 500W, 80Plus Bronze, PFC Ativo, Bivolt, RGB, Preto - BRONZE-500W",Evus,500W
+292,KB-FT-292,70458,Kabum,"Fonte ATX Fortrek Black Hawk 400W, 80 Plus White, Bivolt, Preto - 70458",Fortrek,400W
+293,KB-FT-293,70459,Kabum,"Fonte ATX Fortrek Black Hawk 500W, 80 Plus Bronze, PFC Ativo, Bivolt, Preto - 70459",Fortrek,500W
+294,KB-FT-294,70457,Kabum,"Fonte ATX Fortrek Crusader 300W, Bivolt, Preto - 70457",Fortrek,300W
+295,KB-FT-295,M1-600B,Kabum,"Fonte Gamdias, 600W, 80 Plus Bronze, RGB - KRATOS M1-600B",Gamdias,600W
+296,KB-FT-296,M1-750B,Kabum,"Fonte Gamdias, 750W, 80 Plus Bronze, RGB - KRATOS M1-750B",Gamdias,750W
+297,KB-FT-297,PSU-HSN-650,Kabum,"Fonte Husky Snow 650W, 80 Plus White - PSU-HSN-650",Husky Gaming,650W
+298,KB-FT-298,PSU-HSN-500,Kabum,"Fonte Husky Snow 500W, 80 Plus White - PSU-HSN-500",Husky Gaming,500W
+299,KB-FT-299,PSU-HSN-550,Kabum,"Fonte Husky Snow 550W, 80 Plus White - PSU-HSN-550",Husky Gaming,550W
+300,KB-FT-300,PSU-HSN-450,Kabum,"Fonte Husky Snow 450W, 80 Plus White - PSU-HSN-450",Husky Gaming,450W
+301,KB-FT-301,PSU-HSN-400,Kabum,"Fonte Husky Snow 400W, 80 Plus White - PSU-HSN-400",Husky Gaming,400W
+302,KB-FT-302,Bivolt,Kabum,"Fonte Gamer KTROK KT-FT, 500W, 80 Plus Bronze, Bivolt",Ktrok,500W
+303,KB-FT-303,Bivolt,Kabum,"Fonte Gamer KTROK KT-FT-RGB, 500W, 80 Plus Bronze, RGB, Bivolt",Ktrok,500W
+304,KB-FT-304,NXHUMMER750GD,Kabum,Fonte NOX 750W 80 Plus Gold Hummer NXHUMMER750GD,NOX,750W
+305,KB-FT-305,NXHUMMERX650GD,Kabum,"Fonte Nox Hummer X, 650W, 80 Plus Gold, Modular - NXHUMMERX650GD",NOX,650W
+306,KB-FT-306,NXHUMMERX700WBZ,Kabum,Fonte Nox 700W 80 Plus Bronze Semi-Modular Hummer X - NXHUMMERX700WBZ,NOX,700W
+307,KB-FT-307,ELECV2PTO550W,Kabum,"Fonte PCYes Electro V2 550W, 80 Plus Bronze - ELECV2PTO550W",PCYes,550W
+308,KB-FT-308,ELV2WHPTO500W,Kabum,"Fonte PCYes Electro V2 500W, 80 Plus White - ELV2WHPTO500W",PCYes,500W
+309,KB-FT-309,ELECV2PTO650W,Kabum,"Fonte PCYes Electro V2 650W, 80 Plus Bronze - ELECV2PTO650W",PCYes,650W
+310,KB-FT-310,ELV2WHPTO400W,Kabum,Fonte PCYes 400W 80 Plus White - ELV2WHPTO400W,PCYes,400W
+311,KB-FT-311,ELV2WHPTO600W,Kabum,"Fonte PCYes Electro V2 600W, 80 Plus White - ELV2WHPTO600W",PCYes,600W
+312,KB-FT-312,GC-PS003-1,Kabum,"Fonte Redragon RGPS, 600W, 80 Plus Bronze, Modular - GC-PS003-1",Redragon,600W
+313,KB-FT-313,T-TPS202,Kabum,"Fonte T-DAGGER, 600W, Bivolt, Preto - T-TPS202",T-DAGGER,600W
+314,KB-FT-314,Bivolt,Kabum,"Fonte ATX Tronos TRS/5330-B, 500W, Real, Bivolt",Tronos,500W
+315,KB-FT-315,NaN,Kabum,"Fonte XPG Pylon, 550W, 80 Plus Bronze",XPG,550W
+316,KB-FT-316,NaN,Kabum,"Fonte XPG Pylon, 650W, 80 Plus Bronze",XPG,650W
+317,KB-FT-317,NaN,Kabum,"Fonte XPG Pylon, 750W, 80 Plus Bronze",XPG,750W
+318,KB-FT-318,90YE00H0-B0BA00,Kabum,"Fonte Asus ROG-THOR-1200P, 1200W, 80 Plus Platinum, Full Modular, RGB - 90YE00H0-B0BA00",Asus,1200W
+319,KB-FT-319,UP-S400,Kabum,Fonte BR One 400W BRX - UP-S400,BR One,400W
+320,KB-FT-320,MPZ-D001-AFBAPV,Kabum,"Fonte Cooler Master V1300 Platinum, 1300W, 80 Plus Platinum, Modular - MPZ-D001-AFBAPV",Cooler Master,1300W
+321,KB-FT-321,220-B3-0750-V,Kabum,Fonte EVGA 750W 80 Plus Bronze Modular - 220-B3-0750-V,Evga,750W
+322,KB-FT-322,Preto,Kabum,"Fonte ATX Power Station PS-500 500W, Bivolt, Preto",Power Station,500W
+323,KB-FT-323,SS-300TFX,Kabum,"Fonte TFX Seasonic 300W 80 Plus Bronze, PFC Ativo, Slim, Bivolt Automático - SS-300TFX",Seasonic,300W
+324,KB-FT-324,Bivolt,Kabum,"Fonte Brazil PC Tronos BPC-325V1.2, 350W Real, Bivolt",Tronos,350W
+325,KB-FT-325,Bivolt,Kabum,"Fonte Gamer ATX Tronos TRS/500PFCA, 500W Real, Bivolt",Tronos,500W
+326,KB-FT-326,BLU350ECASE,Kabum,"Fonte Bluecase Blu 350-E ATX, 350W com Cabo - BLU350ECASE",Bluecase,350W

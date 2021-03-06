@@ -3,7 +3,7 @@ import variables
 from datetime import date
 
 
-def set_options():
+def set_driver_options():
     option_list = variables.driver_options_list
 
     driver_options = Options()
