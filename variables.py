@@ -10,8 +10,8 @@ websites = {
 # Value = List (or an element) of sub categories
 categories = {
     'Hardware': ['HD', 'PowerSupply', 'RAM', 'GPU', 'Motherboard', 'Processor', 'SSD'],
-    'Peripherals': ['Mouse', 'Keyboard', 'Headset', 'Monitor'],
-    'Notebooks': ['Standard', 'Macbook', 'Gamer']
+    'Peripheral': ['Mouse', 'Keyboard', 'Headset', 'Monitor'],
+    'Notebook': ['Notebook', 'Macbook', 'Chromebook']
 }
 
 # Key = All sub categories
@@ -61,7 +61,7 @@ links = {
         '',
         ''
     ],
-    'Standard': [
+    'Notebook': [
         '',
         ''
     ],
@@ -69,7 +69,7 @@ links = {
         '',
         ''
     ],
-    'Gamer': [
+    'Chromebook': [
         '',
         ''
     ]
