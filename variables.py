@@ -18,31 +18,31 @@ categories = {
 # Value = URL associated with 'websites' dictionary's indexes.
 links = {
     'HD': [
-        'https://www.kabum.com.br/hardware/disco-rigido-hd/sata-3-5',
+        'https://www.kabum.com.br/hardware/disco-rigido-hd',
         'https://www.pichau.com.br/hardware/hard-disk-e-ssd?p=1&product_list_order=name&product_list_limit=48'
     ],
     'PowerSupply': [
-        'https://www.kabum.com.br/hardware/fontes?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/fontes',
         'https://www.pichau.com.br/hardware/fonte?p=1&product_list_limit=48&product_list_order=name'
     ],
     'RAM': [
-        'https://www.kabum.com.br/hardware/memoria-ram?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/memoria-ram',
         'https://www.pichau.com.br/hardware/memorias?p=1&product_list_limit=48&product_list_order=name'
     ],
     'GPU': [
-        'https://www.kabum.com.br/hardware/placa-de-video-vga?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/placa-de-video-vga',
         'https://www.pichau.com.br/hardware/placa-de-video?p=1&product_list_limit=48&product_list_order=name'
     ],
     'Motherboard': [
-        'https://www.kabum.com.br/hardware/placas-mae?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/placas-mae',
         'https://www.pichau.com.br/hardware/placa-m-e?p=1&product_list_limit=48&product_list_order=name'
     ],
     'Processor': [
-        'https://www.kabum.com.br/hardware/processadores?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/processadores',
         'https://www.pichau.com.br/hardware/processadores?p=1&product_list_limit=48&product_list_order=name'
     ],
     'SSD': [
-        'https://www.kabum.com.br/hardware/ssd-2-5?pagina=1&ordem=6&limite=100&prime=false&marcas=[]&tipo_produto=[]&filtro=[]',
+        'https://www.kabum.com.br/hardware/ssd-2-5',
         'https://www.pichau.com.br/hardware/ssd?p=1&product_list_limit=48&product_list_order=name'
     ],
     'Mouse': [
